@@ -1,17 +1,16 @@
 Null Termination Bugs
 =====================
 
-In this session ...
+In this session we'll talk about null termination bugs.  This is an obscure but occasionally critical type of vulnerability.
 
 What you'll learn
 -----------------
 
-- Required tools
-- Thinking like a breaker
-- Attacker-defender imbalance
-- Lightweight threat assessment and prioritization
-- How to write good bug reports
-- Reflected XSS (Cross-Site Scripting)
+- Null Terminators
+	- What they are
+	- Why they're relevant to web security
+	- How to test for null termination bugs
+	- How to exploit these bugs
 
 Video
 -----

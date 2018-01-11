@@ -1,17 +1,17 @@
 File Upload Bugs
 ================
 
-In this session ...
+In this session we'll talk about bugs relating to file uploads, a broad but critical category of vulnerabilities.
 
 What you'll learn
 -----------------
 
-- Required tools
-- Thinking like a breaker
-- Attacker-defender imbalance
-- Lightweight threat assessment and prioritization
-- How to write good bug reports
-- Reflected XSS (Cross-Site Scripting)
+- File uploads
+	- How multipart POSTs work
+	- Filename-based attacks
+	- MIME type attacks
+	- Hiding data in PNG files
+	- Mitigation
 
 Video
 -----

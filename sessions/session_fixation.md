@@ -1,17 +1,15 @@
 Session Fixation
 ================
 
-In this session ...
+In this session we'll discuss session fixation attacks.  These allow an attacker to take over a victim's session and gain access to their account.
 
 What you'll learn
 -----------------
 
-- Required tools
-- Thinking like a breaker
-- Attacker-defender imbalance
-- Lightweight threat assessment and prioritization
-- How to write good bug reports
-- Reflected XSS (Cross-Site Scripting)
+- Session Fixation
+	- What it is
+	- Detection
+	- Mitigation
 
 Video
 -----

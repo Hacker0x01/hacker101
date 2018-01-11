@@ -1,17 +1,17 @@
 Password Storage
 ================
 
-In this session ...
+In this session we'll discuss methods of securely storing passwords and what to watch out for.
 
 What you'll learn
 -----------------
 
-- Required tools
-- Thinking like a breaker
-- Attacker-defender imbalance
-- Lightweight threat assessment and prioritization
-- How to write good bug reports
-- Reflected XSS (Cross-Site Scripting)
+- Use Bcrypt
+- Goals for password security
+- Never use a bare hash (e.g. MD5, SHA1)
+	- They're too fast
+- Use Bcrypt (or Scrypt)
+- If you can't use those, use PBKDF2 and slow it way down
 
 Video
 -----

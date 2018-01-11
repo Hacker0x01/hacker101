@@ -1,17 +1,17 @@
 File Inclusion Bugs
 ===================
 
-In this session ...
+In this session we'll talk about local and remote file inclusion bugs.
 
 What you'll learn
 -----------------
 
-- Required tools
-- Thinking like a breaker
-- Attacker-defender imbalance
-- Lightweight threat assessment and prioritization
-- How to write good bug reports
-- Reflected XSS (Cross-Site Scripting)
+- File inclusion
+	- LFI (Local File Inclusion)
+	- RFI (Remote File Inclusion)
+	- Detection
+	- Exploitation
+	- Mitigation
 
 Video
 -----

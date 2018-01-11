@@ -1,17 +1,16 @@
 Unchecked Redirects
 ===================
 
-In this session ...
+In this session we'll discuss unchecked redirects.  These make it easy to mask phishing attempts and can even allow violation of authorization constraints.
 
 What you'll learn
 -----------------
 
-- Required tools
-- Thinking like a breaker
-- Attacker-defender imbalance
-- Lightweight threat assessment and prioritization
-- How to write good bug reports
-- Reflected XSS (Cross-Site Scripting)
+- Unchecked Redirects
+	- What they are
+	- Detection
+	- Exploitation
+	- Mitigation
 
 Video
 -----
