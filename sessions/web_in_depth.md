@@ -1,17 +1,18 @@
 The Web In Depth
 ================
 
-In this session ...
+In this session we'll talk about how the web works from a security perspective.
 
 What you'll learn
 -----------------
 
-- Required tools
-- Thinking like a breaker
-- Attacker-defender imbalance
-- Lightweight threat assessment and prioritization
-- How to write good bug reports
-- Reflected XSS (Cross-Site Scripting)
+- HTTP basics
+- Cookie security
+- HTML parsing
+- MIME sniffing
+- Encoding sniffing
+- Same-Origin Policy
+- CSRF (Cross-Site Request Forgery)
 
 Video
 -----

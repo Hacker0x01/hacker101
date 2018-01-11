@@ -1,17 +1,23 @@
 XSS and Authorization
 =====================
 
-In this session ...
+In this session we'll discuss cross-site scripting, an extremely prevalent vulnerability, along with authorization failures.
 
 What you'll learn
 -----------------
 
-- Required tools
-- Thinking like a breaker
-- Attacker-defender imbalance
-- Lightweight threat assessment and prioritization
-- How to write good bug reports
-- Reflected XSS (Cross-Site Scripting)
+- XSS (Cross-Site Scripting)
+	- Types of XSS
+		- Stored
+		- Reflected
+		- DOM
+	- Detection
+	- Exploitation
+	- Mitigation
+- Authorization bypasses and forced browsing
+	- Detection
+	- Exploitation
+	- Mitigation
 
 Video
 -----

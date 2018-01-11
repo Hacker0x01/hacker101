@@ -1,17 +1,28 @@
 SQL Injection and Friends
 =========================
 
-In this session ...
+In this session we'll talk about several of the most important vulnerabilities: SQL injection, directory traversal, and command injection.
 
 What you'll learn
 -----------------
 
-- Required tools
-- Thinking like a breaker
-- Attacker-defender imbalance
-- Lightweight threat assessment and prioritization
-- How to write good bug reports
-- Reflected XSS (Cross-Site Scripting)
+- SQLi (SQL Injection)
+	- How it works
+	- Basic exploitation
+	- Mitigation
+- Blind SQLi
+	- What it is
+	- The types of blind SQLi
+	- Exploiting blind
+- Directory traversal
+	- What it is
+	- Exploitation
+	- Mitigation
+- Command injection
+	- What it is
+	- Real-world scenario
+	- Exploitation
+	- Mitigation
 
 Video
 -----
