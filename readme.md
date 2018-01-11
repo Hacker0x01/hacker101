@@ -12,3 +12,17 @@ Sessions
 --------
 
 - [Introduction](sessions/introduction.md)
+- [The Web In Depth](sessions/web_in_depth.md)
+- [XSS and Authorization](sessions/xss.md)
+- [SQL Injection and Friends](sessions/sqli.md)
+- [Session Fixation](sessions/session_fixation.md)
+- [Clickjacking](sessions/clickjacking.md)
+- [File Inclusion Bugs](sessions/file_inclusion.md)
+- [File Upload Bugs](sessions/file_uploads.md)
+- [Null Termination Bugs](sessions/null_termination.md)
+- [Unchecked Redirects](sessions/unchecked_redirects.md)
+- [Secure Password Storage](sessions/password_storage.md)
+- Crypto series
+	- [Crypto Crash Course](sessions/crypto_crash_course.md)
+	- [Crypto Attacks](sessions/crypto_attacks.md)
+	- [Crypto Wrap-Up](sessions/crypto_wrap-up.md)
