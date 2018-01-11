@@ -1,17 +1,24 @@
 Crypto Crash Course
 ===================
 
-In this session ...
+This is the first in a series of 3 sessions on practical cryptography.  In this session we'll talk about many of the key concepts in cryptography.
 
 What you'll learn
 -----------------
 
-- Required tools
-- Thinking like a breaker
-- Attacker-defender imbalance
-- Lightweight threat assessment and prioritization
-- How to write good bug reports
-- Reflected XSS (Cross-Site Scripting)
+- XOR and its importance for cryptography
+- One-time pads
+- Types of ciphers
+	- Symmetric
+		- Stream
+		- Block
+	- Asymmetric
+- Block cipher modes
+	- ECB (Electronic Codebook)
+	- CBC (Cipher Block Chaining)
+- Hashes
+- MACs (Message Authentication Codes)
+	- HMAC (Hash-based MAC)
 
 Video
 -----

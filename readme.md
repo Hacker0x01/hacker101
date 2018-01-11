@@ -21,7 +21,7 @@ Sessions
 - [File Upload Bugs](sessions/file_uploads.md)
 - [Null Termination Bugs](sessions/null_termination.md)
 - [Unchecked Redirects](sessions/unchecked_redirects.md)
-- [Secure Password Storage](sessions/password_storage.md)
+- [Password Storage](sessions/password_storage.md)
 - Crypto series
 	- [Crypto Crash Course](sessions/crypto_crash_course.md)
 	- [Crypto Attacks](sessions/crypto_attacks.md)

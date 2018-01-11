@@ -1,17 +1,19 @@
 Crypto Wrap-Up
 ==============
 
-In this session ...
+This is the last in a series of 3 sessions on practical cryptography.  In this session we'll talk about some tips and tricks.
 
 What you'll learn
 -----------------
 
-- Required tools
-- Thinking like a breaker
-- Attacker-defender imbalance
-- Lightweight threat assessment and prioritization
-- How to write good bug reports
-- Reflected XSS (Cross-Site Scripting)
+- ECB mode
+	- Detection
+	- Determining block size
+	- Determining data offset
+- Detecting and exploiting padding oracles
+	- [Padbuster](https://github.com/GDSSecurity/PadBuster)
+- General advice
+- [Cryptopals challenges](https://cryptopals.com/) will take you to the next level
 
 Video
 -----

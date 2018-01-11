@@ -1,17 +1,16 @@
 Crypto Attacks
 ==============
 
-In this session ...
+This is the second in a series of 3 sessions on practical cryptography.  In this session we'll talk about a number of practical attacks you can use on cryptosystems in the real world.
 
 What you'll learn
 -----------------
 
-- Required tools
-- Thinking like a breaker
-- Attacker-defender imbalance
-- Lightweight threat assessment and prioritization
-- How to write good bug reports
-- Reflected XSS (Cross-Site Scripting)
+- Stream cipher key reuse
+- ECB block reordering
+- ECB decryption
+- Padding and padding oracles
+- Hash length extension
 
 Video
 -----

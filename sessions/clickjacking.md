@@ -1,17 +1,15 @@
 Clickjacking
 ============
 
-In this session ...
+In this session we'll talk about clickjacking, an attack that can trick victims into performing actions surreptitiously.
 
 What you'll learn
 -----------------
 
-- Required tools
-- Thinking like a breaker
-- Attacker-defender imbalance
-- Lightweight threat assessment and prioritization
-- How to write good bug reports
-- Reflected XSS (Cross-Site Scripting)
+- Clickjacking
+	- What it is
+	- How it works
+	- How to defend against it
 
 Video
 -----
