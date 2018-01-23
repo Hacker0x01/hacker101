@@ -29,3 +29,7 @@ header a {
 a:hover {
 	border-bottom: 1px dashed;
 }
+
+a.btn:hover {
+	border-bottom: 0;
+}
