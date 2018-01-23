@@ -21,6 +21,10 @@ a {
 	border-bottom: 1px solid;
 }
 
+a .only-hover-decorate {
+	border-bottom: 0;
+}
+
 a:hover {
 	border-bottom: 1px dashed;
 }
