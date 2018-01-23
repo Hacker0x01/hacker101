@@ -1,2 +1,4 @@
-theme: jekyll-theme-hacker
+title: Hacker101
+description: Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
 google_analytics: UA-49905813-8
+theme: jekyll-theme-hacker
