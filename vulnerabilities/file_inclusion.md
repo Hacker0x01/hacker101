@@ -6,7 +6,7 @@ Related Session
 
 [../sessions/file_inclusion.md](../sessions/file_inclusion.md)
 
-[![Hacker101 - File Inclusion Bugs](https://img.youtube.com/vi/ehp9TdmXWr0/0.jpg)](https://www.youtube.com/watch?v=ehp9TdmXWr0)
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/ehp9TdmXWr0?autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
 
 Severity Range
 --------------

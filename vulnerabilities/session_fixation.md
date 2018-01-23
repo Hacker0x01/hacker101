@@ -6,7 +6,7 @@ Related Session
 
 [../sessions/session_fixation.md](../sessions/session_fixation.md)
 
-[![Hacker101 - Session Fixation](https://img.youtube.com/vi/tkSmaMlSQ9E/0.jpg)](https://www.youtube.com/watch?v=tkSmaMlSQ9E)
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/tkSmaMlSQ9E?autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
 
 Severity Range
 --------------

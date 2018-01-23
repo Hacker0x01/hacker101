@@ -6,7 +6,7 @@ Related Session
 
 [../sessions/password_storage.md](../sessions/password_storage.md)
 
-[![Hacker101 - Password Storage](https://img.youtube.com/vi/xZ5cxxllgP8/0.jpg)](https://www.youtube.com/watch?v=xZ5cxxllgP8)
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/xZ5cxxllgP8?autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
 
 Severity Range
 --------------

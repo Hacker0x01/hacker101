@@ -23,4 +23,4 @@ What you'll learn
 Video
 -----
 
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/NTpzmPML42E?autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/NTpzmPML42E?autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>

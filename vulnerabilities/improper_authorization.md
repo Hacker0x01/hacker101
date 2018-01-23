@@ -6,7 +6,7 @@ Related Session
 
 [../sessions/xss.md](../sessions/xss.md)
 
-[![Hacker101 - XSS and Authorization](https://img.youtube.com/vi/HGaFCcWM57U/0.jpg)](https://www.youtube.com/watch?v=HGaFCcWM57U)
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/HGaFCcWM57U?autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
 
 Severity Range
 --------------

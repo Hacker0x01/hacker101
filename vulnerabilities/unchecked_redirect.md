@@ -6,7 +6,7 @@ Related Session
 
 [../sessions/unchecked_redirects.md](../sessions/unchecked_redirects.md)
 
-[![Hacker101 - Unchecked Redirects](https://img.youtube.com/vi/AEushmkXRpE/0.jpg)](https://www.youtube.com/watch?v=AEushmkXRpE)
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/AEushmkXRpE?autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
 
 Severity Range
 --------------
