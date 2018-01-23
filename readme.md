@@ -45,3 +45,7 @@ Vulnerabilities
 - [Stored Cross-Site Scripting (XSS)](vulnerabilities/stored_xss.md)
 - [Stream Cipher Key Reuse](vulnerabilities/stream_reuse.md)
 - [Unchecked Redirect](vulnerabilities/unchecked_redirect.md)
+
+Support and FAQ
+---------------
+- See our FAQ list at https://www.hackerone.com/hacker101 or email support@hackerone.com with questions or suggestions. Thanks!
