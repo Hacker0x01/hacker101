@@ -6,7 +6,7 @@ Related Session
 
 [../sessions/password_storage.md](../sessions/password_storage.md)
 
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/xZ5cxxllgP8?autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/xZ5cxxllgP8?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
 
 Severity Range
 --------------
