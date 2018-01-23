@@ -16,4 +16,4 @@ What you'll learn
 Video
 -----
 
-[![Hacker101 - File Upload Bugs](https://img.youtube.com/vi/xpCLMz3efUw/0.jpg)](https://www.youtube.com/watch?v=xpCLMz3efUw)
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/xpCLMz3efUw?autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>

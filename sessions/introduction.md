@@ -16,4 +16,4 @@ What you'll learn
 Video
 -----
 
-[![Hacker101 - Introduction](https://img.youtube.com/vi/zPYfT9azdK8/0.jpg)](https://www.youtube.com/watch?v=zPYfT9azdK8)
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/zPYfT9azdK8?autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>

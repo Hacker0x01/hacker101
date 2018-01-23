@@ -15,4 +15,4 @@ What you'll learn
 Video
 -----
 
-[![Hacker101 - Crypto Attacks](https://img.youtube.com/vi/jtcpREJLN1Y/0.jpg)](https://www.youtube.com/watch?v=jtcpREJLN1Y)
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/jtcpREJLN1Y?autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>

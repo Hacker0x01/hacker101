@@ -27,4 +27,4 @@ What you'll learn
 Video
 -----
 
-[![Hacker101 - SQL Injection and Friends](https://img.youtube.com/vi/bIB3Hi6KeZU/0.jpg)](https://www.youtube.com/watch?v=bIB3Hi6KeZU)
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/bIB3Hi6KeZU?autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>

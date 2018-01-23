@@ -23,4 +23,4 @@ What you'll learn
 Video
 -----
 
-[![Hacker101 - Crypto Crash Course](https://img.youtube.com/vi/NTpzmPML42E/0.jpg)](https://www.youtube.com/watch?v=NTpzmPML42E)
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/NTpzmPML42E?autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>

@@ -15,4 +15,4 @@ What you'll learn
 Video
 -----
 
-[![Hacker101 - Null Termination Bugs](https://img.youtube.com/vi/xCcVjgTbycM/0.jpg)](https://www.youtube.com/watch?v=xCcVjgTbycM)
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/xCcVjgTbycM?autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>

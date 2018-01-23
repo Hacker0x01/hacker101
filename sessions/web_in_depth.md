@@ -17,4 +17,4 @@ What you'll learn
 Video
 -----
 
-[![Hacker101 - The Web In Depth](https://img.youtube.com/vi/DWBUQiaN5ZM/0.jpg)](https://www.youtube.com/watch?v=DWBUQiaN5ZM)
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/DWBUQiaN5ZM?autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>

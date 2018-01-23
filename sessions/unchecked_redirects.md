@@ -15,4 +15,4 @@ What you'll learn
 Video
 -----
 
-[![Hacker101 - Unchecked Redirects](https://img.youtube.com/vi/AEushmkXRpE/0.jpg)](https://www.youtube.com/watch?v=AEushmkXRpE)
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/AEushmkXRpE?autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
