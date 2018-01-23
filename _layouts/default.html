@@ -7,7 +7,8 @@
     <script src="https://use.fontawesome.com/725d627578.js"></script>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-    {% if page.title.include? 'Welcome' %}
+    {% if page.title =~ /Welcome/i %}
+    Test!
     <style>
       .non-home {
         visibility: hidden;
@@ -19,9 +20,6 @@
   </head>
 
   <body>
-
-    Test {{ page.title }} Test2
-
     <header>
       <div class="container">
         <h1><a href="javascript:window.history.back()" class="non-home"><i class="fa fa-angle-left" aria-hidden="true"></i></a> <a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
