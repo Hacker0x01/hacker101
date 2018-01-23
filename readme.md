@@ -6,7 +6,7 @@ Hacker101 is a free class for web security.  Whether you're a programmer with an
 Structure
 ---------
 
-Hacker101 is structured as a set of video lessons -- some covering multiple bugs, some covering a single one -- and can be consumed in two different ways.  You can either watch them in the order produced as in a normal class, or you can watch individual videos.  If you're new to security, we recommend the former.
+Hacker101 is structured as a set of video lessons -- some covering multiple topics, some covering a single one -- and can be consumed in two different ways.  You can either watch them in the order produced as in a normal class, or you can watch individual videos.  If you're new to security, we recommend the former.
 
 Sessions
 --------
@@ -49,6 +49,6 @@ Vulnerabilities
 Support and FAQ
 ---------------
 
-See our FAQ list at [https://www.hackerone.com/hacker101](https://www.hackerone.com/hacker101) or email support@hackerone.com with questions or suggestions. Thanks!
+See our FAQ list at [https://www.hackerone.com/hacker101](https://www.hackerone.com/hacker101) or email [support@hackerone.com](mailto:support@hackerone.com) with questions or suggestions. Thanks!
 
 <a href="https://www.hackerone.com/" class="powered-by">Powered by HackerOne</a>

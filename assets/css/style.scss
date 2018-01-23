@@ -7,6 +7,10 @@
 	color: #c40d0d;
 }
 
+header h1:before {
+	content: "";
+}
+
 a {
 	text-decoration: none;
 	padding-bottom: 1px;
