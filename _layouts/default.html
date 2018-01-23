@@ -7,8 +7,7 @@
     <script src="https://use.fontawesome.com/725d627578.js"></script>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-    {% if page.title =~ /Welcome/i %}
-    Test!
+    {% if page.title contains 'Welcome' %}
     <style>
       .non-home {
         visibility: hidden;
