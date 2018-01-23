@@ -14,4 +14,4 @@ What you'll learn
 Video
 -----
 
-[![Hacker101 - Clickjacking](https://img.youtube.com/vi/jcp5t8PsMsY/0.jpg)](https://www.youtube.com/watch?v=jcp5t8PsMsY)
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/jcp5t8PsMsY?autoplay=1&origin=https://hacker101.com" frameborder="0"></iframe>
