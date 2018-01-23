@@ -1,0 +1,35 @@
+Reflected XSS
+=============
+
+Related Session
+---------------
+
+[../sessions/xss.md](../sessions/xss.md)
+
+[![Hacker101 - XSS and Authorization](https://img.youtube.com/vi/HGaFCcWM57U/0.jpg)](https://www.youtube.com/watch?v=HGaFCcWM57U)
+
+Severity Range
+--------------
+
+- Medium to Critical
+
+Description
+-----------
+
+Reflected XSS (Cross-Site Scripting) occurs when user input is inadequately validated or sanitized prior to being inserted into a page.
+
+Security Impact
+---------------
+
+With reflected XSS, if an attacker can get a victim to go to a specific URL, it is possible that the attacker may be able to execute arbitrary JavaScript in the page.  This allows the attacker to perform any action as the user, exfiltrate data, and more.
+
+Remediation
+-----------
+
+User input should always be encoded prior to output.  If the user input is being inserted into a script tag, it must be in string form and be string escaped, as well as ensuring that `<` and `>` are not included directly.  If the user input is going elsewhere on a page, it must be HTML entity encoded.
+
+References
+----------
+
+- [https://www.owasp.org/index.php/Cross-site%5FScripting%5F(XSS)](https://www.owasp.org/index.php/Cross-site%5FScripting%5F%28XSS%29)
+
