@@ -4,7 +4,7 @@ Improper Handling of Null Termination
 Related Session
 ---------------
 
-[../sessions/null_termination.md](../sessions/null_termination.md)
+[Null Termination Bugs](../sessions/null_termination.md)
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/xCcVjgTbycM?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
 

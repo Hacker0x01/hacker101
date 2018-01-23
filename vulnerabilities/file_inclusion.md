@@ -4,7 +4,7 @@ Local/Remote File Inclusion
 Related Session
 ---------------
 
-[../sessions/file_inclusion.md](../sessions/file_inclusion.md)
+[File Inclusion Bugs](../sessions/file_inclusion.md)
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/ehp9TdmXWr0?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
 

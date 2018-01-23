@@ -4,7 +4,7 @@ Stored XSS
 Related Session
 ---------------
 
-[../sessions/xss.md](../sessions/xss.md)
+[XSS and Authorization](../sessions/xss.md)
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/HGaFCcWM57U?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
 

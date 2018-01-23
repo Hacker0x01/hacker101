@@ -4,7 +4,7 @@ Unchecked Redirect
 Related Session
 ---------------
 
-[../sessions/unchecked_redirects.md](../sessions/unchecked_redirects.md)
+[Unchecked Redirects](../sessions/unchecked_redirects.md)
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/AEushmkXRpE?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
 
