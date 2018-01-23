@@ -46,6 +46,19 @@ Vulnerabilities
 - [Stream Cipher Key Reuse](vulnerabilities/stream_reuse.md)
 - [Unchecked Redirect](vulnerabilities/unchecked_redirect.md)
 
+Coursework
+----------
+
+- [Level 0: Breakerbank](coursework/level0.md)
+- [Level 1: Breakbook](coursework/level1.md)
+- [Level 2: Breaker Profile](coursework/level2.md)
+- [Level 3: Breaker CMS](coursework/level3.md)
+- [Level 4: Breaker News](coursework/level4.md)
+- [Level 5: Document Repository](coursework/level5.md)
+- [Level 6: Student Center](coursework/level6.md)
+- [Level 7: Guardian](coursework/level7.md)
+- [Level 8: Document Exchange](coursework/level8.md)
+
 Support and FAQ
 ---------------
 
