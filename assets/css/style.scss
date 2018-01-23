@@ -15,21 +15,17 @@ header h1 {
 	margin: 0 0 0 0;
 }
 
-a {
+a:not(.btn) {
 	text-decoration: none;
 	padding-bottom: 1px;
 	border-bottom: 1px solid;
 }
 
-header a {
+header a:not(.btn) {
 	color: #b5e853;
 	border-bottom: 0;
 }
 
-a:hover {
+a:hover:not(.btn) {
 	border-bottom: 1px dashed;
-}
-
-a.btn:hover {
-	border-bottom: 0;
 }
