@@ -7,6 +7,14 @@
     <script src="https://use.fontawesome.com/725d627578.js"></script>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
+    {% if site.title.include? 'Welcome' %}
+    <style>
+      .non-home {
+        visibility: hidden;
+      }
+    </style>
+    {% endif %}
+
 {% seo %}
   </head>
 
@@ -14,7 +22,7 @@
 
     <header>
       <div class="container">
-        <h1><a href="javascript:window.history.back()"><i class="fa fa-angle-left" aria-hidden="true"></i></a> <a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="javascript:window.history.back()" class="non-home"><i class="fa fa-angle-left" aria-hidden="true"></i></a> <a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         <section id="downloads">
           {% if site.show_downloads %}
