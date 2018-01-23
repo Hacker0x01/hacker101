@@ -48,4 +48,7 @@ Vulnerabilities
 
 Support and FAQ
 ---------------
-- See our FAQ list at https://www.hackerone.com/hacker101 or email support@hackerone.com with questions or suggestions. Thanks!
+
+See our FAQ list at [https://www.hackerone.com/hacker101](https://www.hackerone.com/hacker101) or email support@hackerone.com with questions or suggestions. Thanks!
+
+<a href="https://www.hackerone.com/" class="powered-by">Powered by HackerOne</a>
