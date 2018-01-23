@@ -64,4 +64,4 @@ Support and FAQ
 
 See our FAQ list at [https://www.hackerone.com/hacker101](https://www.hackerone.com/hacker101) or email [support@hackerone.com](mailto:support@hackerone.com) with questions or suggestions. Thanks!
 
-<a href="https://www.hackerone.com/" class="powered-by">Powered by HackerOne</a>
+<a href="https://www.hackerone.com/start-hacking" class="powered-by">Powered by HackerOne</a>
