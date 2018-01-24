@@ -5,4 +5,4 @@ In this exercise, you're presented with a simple social network. There are many 
 
 Hint: Pay attention to the first message posted.
 
-[https://h101levels.appspot.com/levels/1/]
+[https://h101levels.appspot.com/levels/1/](https://h101levels.appspot.com/levels/1/)

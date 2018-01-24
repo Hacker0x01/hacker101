@@ -5,4 +5,4 @@ In this exercise, you're presented with a bank account interface. There are many
 
 Hint: A logic flaw in the application will give you a sample report for one of the bugs, giving you a nice template to work from.
 
-[https://h101levels.appspot.com/levels/0/]
+[https://h101levels.appspot.com/levels/0/](https://h101levels.appspot.com/levels/0/)
