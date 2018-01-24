@@ -61,9 +61,9 @@ Coursework
 - [Level 7: Guardian](coursework/level7.md)
 - [Level 8: Document Exchange](coursework/level8.md)
 
-Support and FAQ
+Help and FAQ
 ---------------
 
-See our FAQ list at [https://www.hackerone.com/hacker101](https://www.hackerone.com/hacker101) or email [support@hackerone.com](mailto:support@hackerone.com) with questions or suggestions. Thanks!
+See our FAQ list at https://www.hackerone.com/hacker101 or email hacker101@hackerone.com with questions or suggestions. Thanks!
 
 <a href="https://www.hackerone.com/start-hacking" class="powered-by">Powered by HackerOne</a>
