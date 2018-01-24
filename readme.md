@@ -6,7 +6,7 @@ Hacker101 is a free class for web security.  Whether you're a programmer with an
 Getting Started
 ---------------
 
-Hacker101 is structured as a set of video lessons -- some covering multiple topics, some covering a single one -- and can be consumed in two different ways.  You can either watch them in the order produced as in a normal class, or you can watch individual videos.  If you're new to security, we recommend the former.
+Hacker101 is structured as a set of video lessons -- some covering multiple topics, some covering a single one -- and can be consumed in two different ways.  You can either watch them in the order produced as in a normal class (Sessions), or you can watch individual videos (Vulnerabilities).  If you're new to security, we recommend the former; this provides a guided path through the content and covers more than just individual bugs.
 
 Additionally, there are coursework levels where you can hunt for bugs and experiment with exploitation in practice.  As you work through the content, try out the coursework to see what you can find!
 
