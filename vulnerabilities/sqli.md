@@ -21,7 +21,7 @@ SQL Injection occurs when attacker-controlled input is inserted into a SQL query
 Security Impact
 ---------------
 
-An attacker may be able to read data for which she is not authorized, tamper with or destroy data, or possibly even write files or execute code on the database server.  The impact is dependent on the exact scenario, but is generally quite severe.
+An attacker may be able to read data for which they are not authorized, tamper with or destroy data, or possibly even write files or execute code on the database server.  The impact is dependent on the exact scenario, but is generally quite severe.
 
 Remediation
 -----------
