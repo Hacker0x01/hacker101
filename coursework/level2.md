@@ -5,4 +5,4 @@ In this exercise, you're presented with a profile management and viewing interfa
 
 Hint: Think about what we learned about special handling with respect to XSS.
 
-https://h101levels.appspot.com/levels/2/
+[https://h101levels.appspot.com/levels/2/]
