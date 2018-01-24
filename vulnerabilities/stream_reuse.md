@@ -28,19 +28,19 @@ Message 2:
 
 Key:
 
-![Message 1](../assets/images/key.jpg)
+![Key](../assets/images/key.jpg)
 
 Encrypted message 1:
 
-![Message 1](../assets/images/encrypted-message-1.jpg)
+![Encrypted message 1](../assets/images/encrypted-message-1.jpg)
 
-Encrypted message 1:
+Encrypted message 2:
 
-![Message 1](../assets/images/encrypted-message-2.jpg)
+![Encrypted message 2](../assets/images/encrypted-message-2.jpg)
 
 XOR encrypted message 1 with encrypted message 2:
 
-![Message 1](../assets/images/decrypted.jpg)
+![Decrypted messages](../assets/images/decrypted.jpg)
 
 Security Impact
 ---------------
