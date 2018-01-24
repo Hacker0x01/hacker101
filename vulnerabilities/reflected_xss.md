@@ -21,7 +21,7 @@ Reflected XSS (Cross-Site Scripting) occurs when user input is inadequately vali
 Security Impact
 ---------------
 
-With reflected XSS, if an attacker can get a victim to go to a specific URL (e.g. `https://example.com/?param=&lt;script&gt;alert(1)&lt;/script&gt;`), it is possible that the attacker may be able to execute arbitrary JavaScript in the page.  This allows the attacker to perform any action as the user, exfiltrate data, and more.
+With reflected XSS, if an attacker can get a victim to go to a specific URL (e.g. `https://example.com/?param=<script>alert(1)</script>`), it is possible that the attacker may be able to execute arbitrary JavaScript in the page.  This allows the attacker to perform any action as the user, exfiltrate data, and more.
 
 Remediation
 -----------
