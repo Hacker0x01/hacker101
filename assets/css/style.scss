@@ -8,7 +8,11 @@
 }
 
 header h1:before {
-	content: "";
+	display: none;
+}
+
+.non-home {
+	display: none;
 }
 
 header h1 {
