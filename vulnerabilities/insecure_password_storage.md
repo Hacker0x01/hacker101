@@ -22,7 +22,7 @@ Passwords for user accounts should use a one-way hash algorithm meeting the foll
 - Slow to construct/verify -- This prevents or severely restricts brute-force attacks against the passwords.
 - Impervious to rainbow tables -- This prevents attackers from performing computational work up front, then quickly cracking passwords.
 
-Without all three of these goals being met, passwords are vulnerable to attack.  On should not use digest functions such as MD5 and the SHA family for hashing passwords -- they are fast and can be cracked easily using tools such as [hashcat](https://hashcat.net/hashcat/).
+Without all three of these goals being met, passwords are vulnerable to attack.  One should not use digest functions such as MD5 and the SHA family for hashing passwords -- they are fast and can be cracked easily using tools such as [hashcat](https://hashcat.net/hashcat/).
 
 Security Impact
 ---------------
