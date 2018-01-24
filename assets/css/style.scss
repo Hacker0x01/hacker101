@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .powered-by {
-	color: #c40d0d;
+	color: #ec1075;
 }
 
 header h1:before {
@@ -36,4 +36,8 @@ a.btn:hover {
 
 .btn-back {
 	font-size: 4em;
+}
+
+h2 {
+	margin-top: 1.5em;
 }
