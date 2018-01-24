@@ -16,7 +16,20 @@ Severity Range
 Description
 -----------
 
-CSRF tokens are session-unique values sent along with stateful requests.  These prevent Cross-Site Request Forgery attacks, where an attacker can force a victim's browser to perform an action.
+CSRF tokens are session-unique values sent along with stateful requests.  These prevent Cross-Site Request Forgery attacks, where an attacker can force a victim's browser to perform an action. A basic CSRF payload could like like this:
+
+```
+<iframe style="display:none" name="csrf-frame"></iframe>
+<form method='POST' action='http://example.com/new-password' target="csrf-frame" id="csrf-form" style="display:none">
+	<input type='hidden' name='username' value='example'>
+    <input type='hidden' name='password' value='password1234'>
+	<input type='submit' value='submit'>
+</form>
+<!-- Auto submit the form when page loads -->
+<script>document.getElementById("csrf-form").submit()</script>
+```
+
+The form sends a POST request to `http://example.com/new-password` containing the victim's username and sets a new password for that account. The payload is hidden and executes automatically when the victim views the page where the payload is located.
 
 Security Impact
 ---------------

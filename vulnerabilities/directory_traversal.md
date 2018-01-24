@@ -16,7 +16,7 @@ Severity Range
 Description
 -----------
 
-Directory traversal (also known as path traversal) attacks occur when attacker-controlled data is used to construct paths without sanitization.  Most commonly this occurs when `../` (go to the parent directory) is allowed to be used as a path component.  By chaining together these components, it's often possible to access every file on the system.
+Directory traversal (also known as path traversal) attacks occur when attacker-controlled data is used to construct paths without sanitization.  Most commonly this occurs when `../` (go to the parent directory) is allowed to be used as a path component (e.g. `https://example.com/?path=../../../file`).  By chaining together these components, it's often possible to access every file on the system.
 
 Security Impact
 ---------------

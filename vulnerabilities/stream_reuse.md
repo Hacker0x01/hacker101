@@ -18,6 +18,30 @@ Description
 
 Making use of the same key for encryption with a stream cipher without the use of a nonce can lead to exposure of confidential data.  This is because in stream ciphers, the incoming plaintext is XORed with the cipher's keystream to produce the corresponding ciphertext.  If you have two ciphertexts encrypted with the same key, XORing these together will eliminate the keystream entirely, leaving you with the XOR of the original plaintexts.
 
+Message 1:
+
+![Message 1](../assets/images/message.jpg)
+
+Message 2:
+
+![Message 2](../assets/images/h1.png)
+
+Key:
+
+![Message 1](../assets/images/key.jpg)
+
+Encrypted message 1:
+
+![Message 1](../assets/images/encrypted-message-1.jpg)
+
+Encrypted message 1:
+
+![Message 1](../assets/images/encrypted-message-2.jpg)
+
+XOR encrypted message 1 with encrypted message 2:
+
+![Message 1](../assets/images/decrypted.jpg)
+
 Security Impact
 ---------------
 
