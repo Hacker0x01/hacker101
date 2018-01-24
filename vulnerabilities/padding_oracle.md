@@ -16,7 +16,7 @@ Severity Range
 Description
 -----------
 
-Padding oracles occur when a server, upon decrypting data, differentiates between validly padded and invalidly padded data.  Traditional padding oracle bugs apply in cases where data is encrypted with CBC mode, controllable by an attacker, and does not include authentication (e.g. via an HMAC).
+Padding oracles occur when a server, upon decrypting data, differentiates between validly padded and invalidly padded data; i.e. the server responds differently when the padding is correct and when the encrypted message is padded incorrectly.  Traditional padding oracle bugs apply in cases where data is encrypted with Cipher Block Chaining mode (CBC), controllable by an attacker, and does not include authentication (e.g. via an HMAC).
 
 Security Impact
 ---------------
