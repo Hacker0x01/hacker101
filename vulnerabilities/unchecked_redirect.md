@@ -18,6 +18,16 @@ Description
 
 Unchecked redirects occur when an application redirects to a destination controlled by attackers.  This often occurs in functionality returning users to a previous page, e.g. after authenticating.
 
+```
+http://example.com/?return_to=http://example.com/home
+```
+
+An attacker can control the value of the `return_to` and make it redirect to a malicious endpoint.
+
+```
+http://example.com/?return_to=http://evil.com
+```
+
 Security Impact
 ---------------
 
