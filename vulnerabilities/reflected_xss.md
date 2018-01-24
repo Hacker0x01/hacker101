@@ -23,6 +23,28 @@ Security Impact
 
 With reflected XSS, if an attacker can get a victim to go to a specific URL, it is possible that the attacker may be able to execute arbitrary JavaScript in the page.  This allows the attacker to perform any action as the user, exfiltrate data, and more.
 
+For example, you may see the following:
+
+```
+https://example.com/page?url=value
+```
+
+This vulnerable website does not escape nor validate the input and it is simply placed inside a link:
+
+```
+<a href={{ url_value_goes_here }}>Link</a>
+```
+
+Now if one submits the following we are prompted with an alert box display the value `1`:
+
+```
+" onload=alert(1)
+```
+
+![alert1](../assets/images/alert1.png)
+
+A great way to determine in what context the XSS payload is executing is to use `alert(document.domain)`. The reason why one might want to do this, is to ensure that the injection endpoint is not located on a sandboxed domain.
+
 Remediation
 -----------
 
