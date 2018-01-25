@@ -22,7 +22,7 @@ Unchecked redirects occur when an application redirects to a destination control
 http://example.com/?return_to=http://example.com/home
 ```
 
-An attacker can control the value of the `return_to` and make it redirect to a malicious endpoint.
+An attacker can control the value of the `return_to` parameter and make it redirect to a malicious endpoint.
 
 ```
 http://example.com/?return_to=http://evil.com
