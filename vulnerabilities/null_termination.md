@@ -1,17 +1,15 @@
-Improper Handling of Null Termination
-=====================================
+---
+layout: default
+title: Improper Handling of Null Termination
+score: Medium to Critical
+---
 
 Related Session
 ---------------
 
-[Null Termination Bugs](../sessions/null_termination.md)
-
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/xCcVjgTbycM?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
-
-Severity Range
---------------
-
-- Medium to Critical
+<div class="container">
+	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/xCcVjgTbycM?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
+</div>
 
 Description
 -----------

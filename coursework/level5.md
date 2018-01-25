@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Level 5: Document Repository
 ============================
 

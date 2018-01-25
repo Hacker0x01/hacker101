@@ -1,17 +1,15 @@
-Directory Traversal
-===================
+---
+layout: default
+title: Directory Traversal
+score: High to Critical
+---
 
 Related Session
 ---------------
 
-[SQL Injection and Friends](../sessions/sqli.md)
-
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/bIB3Hi6KeZU?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
-
-Severity Range
---------------
-
-- High to Critical
+<div class="container">
+	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/bIB3Hi6KeZU?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
+</div>
 
 Description
 -----------

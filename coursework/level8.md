@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Level 8: Document Exchange
 ==========================
 

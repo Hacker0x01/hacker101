@@ -1,5 +1,7 @@
-Password Storage
-================
+---
+layout: default
+title: Password Storage
+---
 
 In this session we'll discuss methods of securely storing passwords and what to watch out for.
 
@@ -15,4 +17,6 @@ What you'll learn
 Video
 -----
 
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/xZ5cxxllgP8?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
+<div class="container">
+	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/xZ5cxxllgP8?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
+</div>

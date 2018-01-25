@@ -1,5 +1,7 @@
-Clickjacking
-============
+---
+layout: default
+title: Clickjacking
+---
 
 In this session we'll talk about clickjacking, an attack that can trick victims into performing actions surreptitiously.
 

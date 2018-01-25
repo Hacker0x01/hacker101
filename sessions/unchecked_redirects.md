@@ -1,5 +1,7 @@
-Unchecked Redirects
-===================
+---
+layout: default
+title: Unchecked Redirects
+---
 
 In this session we'll discuss unchecked redirects.  These make it easy to mask phishing attempts and can even allow violation of authorization constraints.
 

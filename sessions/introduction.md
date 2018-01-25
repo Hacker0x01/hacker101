@@ -1,5 +1,7 @@
-Introduction
-============
+---
+layout: default
+title: Introduction
+---
 
 In this session we talk about the class and introduce the instructor, Cody Brocious, then jump into the mind of a breaker and talk about how you can take the things you learn in this class and apply them to real situations.
 
@@ -16,4 +18,6 @@ What you'll learn
 Video
 -----
 
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/zPYfT9azdK8?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
+<div class="container">
+	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/zPYfT9azdK8?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
+</div>

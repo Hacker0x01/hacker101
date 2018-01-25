@@ -1,5 +1,7 @@
-XSS and Authorization
-=====================
+---
+layout: default
+title: XSS and Authorization
+---
 
 In this session we'll discuss cross-site scripting, an extremely prevalent vulnerability, along with authorization failures.
 

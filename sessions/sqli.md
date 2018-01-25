@@ -1,5 +1,7 @@
-SQL Injection and Friends
-=========================
+---
+layout: default
+title: SQL Injection and Friends
+---
 
 In this session we'll talk about several of the most important vulnerabilities: SQL injection, directory traversal, and command injection.
 

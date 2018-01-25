@@ -1,7 +1,6 @@
-Welcome to Hacker101!
-=====================
-
-Hacker101 is a free class for web security.  Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
+---
+layout: landing
+---
 
 Getting Started
 ---------------

@@ -1,5 +1,7 @@
-The Web In Depth
-================
+---
+layout: default
+title: The Web In Depth
+---
 
 In this session we'll talk about how the web works from a security perspective.
 

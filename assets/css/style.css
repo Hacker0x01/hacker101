@@ -4,6 +4,9 @@ html {
     -webkit-text-size-adjust: 100%}
 body {
     margin: 0;
+    background: #222;
+    color: #fff;
+    font-family: sans-serif;
 }
 article, aside, footer, header, nav, section {
     display: block;
@@ -26,6 +29,11 @@ hr {
 pre {
     font-family: monospace, monospace;
     font-size: 1em;
+    overflow: auto;
+    overflow-y: auto;
+    overflow-y: hidden;
+    background: #313440;
+    padding: 15px 20px;
 }
 a {
     background-color: transparent;
@@ -115,7 +123,7 @@ legend {
 textarea {
     overflow: auto;
 }
-details, /* 1 */
+details,
     menu {
     display: block;
 }
@@ -140,10 +148,10 @@ template {
     max-width: 90vw;
 }
 }h1:first-of-type {
-    font-size: 3em;
+    font-size: 2em;
 }
 h1, h2, h3, h4, h5 {
-    font-family: serif;
+    font-family: monospace;
     line-height: 1.5;
 }
 h1:not(:first-of-type), h2 {
@@ -153,16 +161,12 @@ p {
     line-height: 1.8;
     font-family: sans-serif;
 }
-p:not(:first-of-type) {
-    text-indent: 2em;
-}
 a {
-    color: #922B2B;
-    background: #f6f6f6;
+    color: #33ff66;
 }
 a:hover {
-    color: #922B2B;
-    background: #eee;
+    color: #33ff66;
+    background: #333;
 }
 img:not(.center-img) {
     float: right;
@@ -197,9 +201,9 @@ figure img {
 }
 .container { 
 	position: relative;
-	height: 0;
+    padding-bottom: 56.25%;
 	overflow: hidden;
-	max-width: 100%;
+	height: 0;
 } 
 .container iframe {
 	position: absolute;
@@ -208,16 +212,30 @@ figure img {
 	width: 100%;
 	height: 100%;
 }
-.logo {
-    font-size: 2em;
-    text-align: center;
+.hero {
+    height: 100%;
+    width: 100%;
+    background-color: #eee;
+    background: url("../images/hero-background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.hero h1,
+.hero p {
+    padding: 10px 15px;
+    background: rgba(0, 0, 0, 0.7);
+}
+.home {
+    font-family: monospace;
     text-decoration: none;
-    font-family: serif;
+    font-size: 15px;
     color: #922B2B;
     background: none;
 }
-.logo:before {
-    content: "⌨ "}
+.home:before {
+    content: "↩ ";
+}
 blockquote {
     margin: 25px 15px;
     padding: 15px;
@@ -251,4 +269,7 @@ footer .previous {
 }
 footer .next {
     float: right;
+}
+.powered-by {
+    color: #ec1075;
 }

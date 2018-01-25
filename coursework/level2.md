@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Level 2: Breaker Profile
 ========================
 
