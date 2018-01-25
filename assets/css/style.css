@@ -226,7 +226,7 @@ figure img {
     padding: 10px 15px;
     background: rgba(0, 0, 0, 0.7);
 }
-.home {
+.home, .edit {
     font-family: monospace;
     text-decoration: none;
     font-size: 15px;
