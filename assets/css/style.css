@@ -215,7 +215,7 @@ figure img {
 .hero {
     height: 100%;
     width: 100%;
-    background-color: #eee;
+    background-color: #000;
     background: url("../images/hero-background.jpg");
     background-repeat: no-repeat;
     background-position: center;
@@ -252,24 +252,10 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100px;
+    height: 200px;
     text-align: center;
+    background: #000;
 }
-footer .previous, footer .next {
-    width: 50%;
-    background: #922B2B;
-    color: #fff;
-    font-weight: 700;
-}
-footer .previous:hover, footer .next:hover {
-    opacity: .8;
-}
-footer .previous {
-    float: left;
-}
-footer .next {
-    float: right;
-}
-.powered-by {
-    color: #ec1075;
+footer a {
+    text-decoration: none;
 }
