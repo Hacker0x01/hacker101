@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Level 6: Student Center
 =======================
 

@@ -11,19 +11,14 @@
 <body>
   <div class="hero">
     <div class="wrapper">
-      <h1>{{ page.title }}</h1>
-      {% if page.score %}
-        <p>Severity: {{ page.score }}</p>
-      {% endif %}
+      <h1>Welcome to Hacker101!</h1>
+      <p>Hacker101 is a free class for web security.  Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.</p>
     </div>
   </div>
   <div class="wrapper">
-    <a href="{{ site.baseurl }}" class="home">return home</a>
     
     {{ content }}
 
-    <br>
-    <a href="{{ site.baseurl }}" class="home">return home</a>
     <footer>
       <p><a href="https://www.hackerone.com/start-hacking" class="powered-by">Powered by HackerOne</a></p>
     </footer>

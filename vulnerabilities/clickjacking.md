@@ -1,17 +1,15 @@
-Lack of Clickjacking Protection
-===============================
+---
+layout: default
+title: Lack of Clickjacking Protection
+score: Low to High
+---
 
 Related Session
 ---------------
 
-[Clickjacking](../sessions/clickjacking.md)
-
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/jcp5t8PsMsY?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
-
-Severity Range
---------------
-
-- Low to High
+<div class="container">
+	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/jcp5t8PsMsY?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
+</div>
 
 Description
 -----------

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Level 3: Breaker CMS
 ====================
 

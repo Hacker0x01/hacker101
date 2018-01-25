@@ -1,17 +1,15 @@
-Unchecked Redirect
-==================
+---
+layout: default
+title: Unchecked Redirect
+score: Low to Medium
+---
 
 Related Session
 ---------------
 
-[Unchecked Redirects](../sessions/unchecked_redirects.md)
-
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/AEushmkXRpE?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
-
-Severity Range
---------------
-
-- Low to Medium
+<div class="container">
+	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/AEushmkXRpE?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
+</div>
 
 Description
 -----------

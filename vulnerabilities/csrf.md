@@ -1,17 +1,15 @@
-Lack of CSRF Tokens
-===================
+---
+layout: default
+title: Lack of CSRF Tokens
+score: Low to Critical
+---
 
 Related Session
 ---------------
 
-[The Web In Depth](../sessions/web_in_depth.md)
-
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/DWBUQiaN5ZM?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
-
-Severity Range
---------------
-
-- Low to Critical
+<div class="container">
+	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/DWBUQiaN5ZM?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
+</div>
 
 Description
 -----------
