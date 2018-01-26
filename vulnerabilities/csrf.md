@@ -14,7 +14,7 @@ Related Session
 Description
 -----------
 
-CSRF tokens are session-unique values sent along with stateful requests.  These prevent Cross-Site Request Forgery attacks, where an attacker can force a victim's browser to perform an action. A basic CSRF payload could like like this:
+CSRF tokens are session-unique values sent along with stateful requests.  These prevent Cross-Site Request Forgery attacks, where an attacker can force a victim's browser to perform an action. A basic CSRF payload could look like this:
 
 ```
 <iframe style="display:none" name="csrf-frame"></iframe>
