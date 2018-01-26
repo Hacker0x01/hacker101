@@ -13,21 +13,21 @@ Additionally, there are coursework levels where you can hunt for bugs and experi
 Sessions
 --------
 
-- [Introduction](sessions/introduction)
-- [The Web In Depth](sessions/web_in_depth)
-- [XSS and Authorization](sessions/xss)
-- [SQL Injection and Friends](sessions/sqli)
-- [Session Fixation](sessions/session_fixation)
-- [Clickjacking](sessions/clickjacking)
-- [File Inclusion Bugs](sessions/file_inclusion)
-- [File Upload Bugs](sessions/file_uploads)
-- [Null Termination Bugs](sessions/null_termination)
-- [Unchecked Redirects](sessions/unchecked_redirects)
-- [Password Storage](sessions/password_storage)
+- [Introduction](sessions/introduction.md)
+- [The Web In Depth](sessions/web_in_depth.md)
+- [XSS and Authorization](sessions/xss.md)
+- [SQL Injection and Friends](sessions/sqli.md)
+- [Session Fixation](sessions/session_fixation.md)
+- [Clickjacking](sessions/clickjacking.md)
+- [File Inclusion Bugs](sessions/file_inclusion.md)
+- [File Upload Bugs](sessions/file_uploads.md)
+- [Null Termination Bugs](sessions/null_termination.md)
+- [Unchecked Redirects](sessions/unchecked_redirects.md)
+- [Password Storage](sessions/password_storage.md)
 - Crypto series
-	- [Crypto Crash Course](sessions/crypto_crash_course)
-	- [Crypto Attacks](sessions/crypto_attacks)
-	- [Crypto Wrap-Up](sessions/crypto_wrap-up)
+	- [Crypto Crash Course](sessions/crypto_crash_course.md)
+	- [Crypto Attacks](sessions/crypto_attacks.md)
+	- [Crypto Wrap-Up](sessions/crypto_wrap-up.md)
 
 Vulnerabilities
 ---------------
@@ -52,15 +52,15 @@ Vulnerabilities
 Coursework
 ----------
 
-- [Level 0: Breakerbank](coursework/level0)
-- [Level 1: Breakbook](coursework/level1)
-- [Level 2: Breaker Profile](coursework/level2)
-- [Level 3: Breaker CMS](coursework/level3)
-- [Level 4: Breaker News](coursework/level4)
-- [Level 5: Document Repository](coursework/level5)
-- [Level 6: Student Center](coursework/level6)
-- [Level 7: Guardian](coursework/level7)
-- [Level 8: Document Exchange](coursework/level8)
+- [Level 0: Breakerbank](coursework/level0.md)
+- [Level 1: Breakbook](coursework/level1.md)
+- [Level 2: Breaker Profile](coursework/level2.md)
+- [Level 3: Breaker CMS](coursework/level3.md)
+- [Level 4: Breaker News](coursework/level4.md)
+- [Level 5: Document Repository](coursework/level5.md)
+- [Level 6: Student Center](coursework/level6.md)
+- [Level 7: Guardian](coursework/level7.md)
+- [Level 8: Document Exchange](coursework/level8.md)
 
 Help and FAQ
 ---------------
