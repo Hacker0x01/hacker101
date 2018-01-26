@@ -47,6 +47,7 @@ Vulnerabilities
 - [Stored Cross-Site Scripting (XSS)](vulnerabilities/stored_xss)
 - [Stream Cipher Key Reuse](vulnerabilities/stream_reuse)
 - [Unchecked Redirect](vulnerabilities/unchecked_redirect)
+- [Subdomain Takeover](vulnerabilities/subdomain_takeover)
 
 Coursework
 ----------
