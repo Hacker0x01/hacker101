@@ -5,4 +5,4 @@
 # extract all the youtube links and then download them in 720p
 mkdir videos
 cd videos
-find ../. -name "*.html" -exec cat {} \; | grep youtube-nocookie | awk 'gsub(/.*src="|\?rel.*/,"")' | youtube-dl -f 22 -a -`
+find ../. -name "*.html" -exec cat {} \; | grep youtube-nocookie | awk 'gsub(/.*src="|\?rel.*/,"")' | youtube-dl -f 22 -a -
