@@ -2,3 +2,10 @@ title: Hacker101
 description: Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
 google_analytics: UA-49905813-8
 markdown: kramdown
+twitter:
+  username: Hacker0x01
+facebook:
+  app_id: 345444188982280
+logo: /assets/images/h101_angle.png
+plugins:
+  - jekyll-seo-tag
