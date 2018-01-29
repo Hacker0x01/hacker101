@@ -8,7 +8,7 @@ Related Session
 ---------------
 
 <div class="container">
-	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/jtcpREJLN1Y?rel=0&autoplay=0&origin=https://hacker101.com" frameborder="0"></iframe>
+	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/jtcpREJLN1Y?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
 </div>
 
 Description
