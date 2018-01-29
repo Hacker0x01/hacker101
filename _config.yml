@@ -1,6 +1,8 @@
 title: Hacker101
 description: Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
-author: HackerOne
+author:
+  name: HackerOne
+  twitter: Hacker0x01
 google_analytics: UA-49905813-8
 markdown: kramdown
 url: https://www.hackerone.com
