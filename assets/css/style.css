@@ -168,16 +168,6 @@ a:hover {
     color: #33ff66;
     background: #333;
 }
-img:not(.center-img) {
-    float: right;
-    margin: 20px 10px 5px;
-    max-width: 200px;
-}
-@media (max-width: 550px) {
-    img: not(.center-img) {
-    max-width: 100%;
-    margin: 10px 0 15px;
-}
 }figure {
     float: right;
     margin: 0 10px 5px;
@@ -196,7 +186,7 @@ figure img {
     float: none;
     margin: 0!important;
 }
-.center-img {
+img {
     max-width: 100%
 }
 .container { 
