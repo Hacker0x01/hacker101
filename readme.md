@@ -32,22 +32,22 @@ Sessions
 Vulnerabilities
 ---------------
 
-- [Clickjacking](vulnerabilities/clickjacking)
-- [Command Injection](vulnerabilities/command_injection)
-- [Cross-Site Request Forgery (CSRF)](vulnerabilities/csrf)
-- [Directory Traversal](vulnerabilities/directory_traversal)
-- [Local/Remote File Inclusion](vulnerabilities/file_inclusion)
-- [Improper Authorization](vulnerabilities/improper_authorization)
-- [Insecure Password Storage](vulnerabilities/insecure_password_storage)
-- [Improper Handling of Null Termination](vulnerabilities/null_termination)
-- [Padding Oracle](vulnerabilities/padding_oracle)
-- [Reflected Cross-Site Scripting (XSS)](vulnerabilities/reflected_xss)
-- [Session Fixation](vulnerabilities/session_fixation)
+- [Clickjacking](vulnerabilities/clickjacking.md)
+- [Command Injection](vulnerabilities/command_injection.md)
+- [Cross-Site Request Forgery (CSRF)](vulnerabilities/csrf.md)
+- [Directory Traversal](vulnerabilities/directory_traversal.md)
+- [Local/Remote File Inclusion](vulnerabilities/file_inclusion.md)
+- [Improper Authorization](vulnerabilities/improper_authorization.md)
+- [Insecure Password Storage](vulnerabilities/insecure_password_storage.md)
+- [Improper Handling of Null Termination](vulnerabilities/null_termination.md)
+- [Padding Oracle](vulnerabilities/padding_oracle.md)
+- [Reflected Cross-Site Scripting (XSS)](vulnerabilities/reflected_xss.md)
+- [Session Fixation](vulnerabilities/session_fixation.md)
 - [SQL Injection](vulnerabilities/sqli)
-- [Stored Cross-Site Scripting (XSS)](vulnerabilities/stored_xss)
-- [Stream Cipher Key Reuse](vulnerabilities/stream_reuse)
-- [Subdomain Takeover](vulnerabilities/subdomain_takeover)
-- [Unchecked Redirect](vulnerabilities/unchecked_redirect)
+- [Stored Cross-Site Scripting (XSS)](vulnerabilities/stored_xss.md)
+- [Stream Cipher Key Reuse](vulnerabilities/stream_reuse.md)
+- [Subdomain Takeover](vulnerabilities/subdomain_takeover.md)
+- [Unchecked Redirect](vulnerabilities/unchecked_redirect.md)
 
 Coursework
 ----------
