@@ -20,6 +20,12 @@ Security Impact
 
 A successful subdomain takeover enables an attacker to serve content on the subdomain. If the subdomain is a child domain of the service's basename, then the attacker can read and set cookies on the basename too -- subdomain.example.com can set cookies for example.com.
 
+Here is a real-world case of a subdomain takeover performed by [Frans Rosén](https://twitter.com/fransrosen) on inside.gratipay.com.
+
+![Subdomain takeover by Frans Rosén](../assets/images/subdomain-takeover.png)
+
+As you can see in the screenshot, Frans served a page on a hidden path (login123) instead of serving content on the landing page. It is best practice to do this so that you do not damage the company's image.
+
 Remediation
 -----------
 
