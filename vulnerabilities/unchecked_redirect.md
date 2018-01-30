@@ -26,6 +26,12 @@ An attacker can control the value of the `return_to` parameter and make it redir
 http://example.com/?return_to=http://evil.com
 ```
 
+Here is a proof of concept to demonstrate how an open redirect occurs. Please note that this particular example is not a vulnerability and just here for demonstration purposes.
+
+[https://httpbin.org/redirect-to?url=https://www.hacker101.com](https://httpbin.org/redirect-to?url=https://www.hacker101.com)
+
+The URL looks like it should go to httpbin.org, but you are redirected to www.hacker101.com.
+
 Security Impact
 ---------------
 
