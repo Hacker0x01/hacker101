@@ -4,13 +4,6 @@ title: Directory Traversal
 score: High to Critical
 ---
 
-Related Session
----------------
-
-<div class="container">
-	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/bIB3Hi6KeZU?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
-</div>
-
 Description
 -----------
 
