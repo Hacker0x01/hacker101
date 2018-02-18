@@ -43,7 +43,7 @@ Vulnerabilities
 - [Padding Oracle](vulnerabilities/padding_oracle.md)
 - [Reflected Cross-Site Scripting (XSS)](vulnerabilities/reflected_xss.md)
 - [Session Fixation](vulnerabilities/session_fixation.md)
-- [SQL Injection](vulnerabilities/sqli)
+- [SQL Injection](vulnerabilities/sqli.md)
 - [Stored Cross-Site Scripting (XSS)](vulnerabilities/stored_xss.md)
 - [Stream Cipher Key Reuse](vulnerabilities/stream_reuse.md)
 - [Subdomain Takeover](vulnerabilities/subdomain_takeover.md)
