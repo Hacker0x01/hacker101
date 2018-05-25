@@ -28,6 +28,7 @@ Sessions
 	- [Crypto Crash Course](sessions/crypto_crash_course.md)
 	- [Crypto Attacks](sessions/crypto_attacks.md)
 	- [Crypto Wrap-Up](sessions/crypto_wrap-up.md)
+- [Threat Modeling](sessions/threat_modeling.md)
 
 Vulnerabilities
 ---------------
