@@ -25,5 +25,5 @@ Video
 Resources
 ---------
 
-- [Example HackerOne threat model](/resources/hackerone_threat_model.md)
+- [Example HackerOne threat model](/resources/hackerone_threat_model)
 - [OWASP Threat Modeling guide](https://www.owasp.org/index.php/Application_Threat_Modeling)
