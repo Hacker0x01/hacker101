@@ -1,3 +1,8 @@
+---
+layout: default
+title: Example HackerOne Threat Model
+---
+
 Access levels:
 
 - Unauthenticated
