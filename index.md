@@ -28,6 +28,7 @@ Sessions
 	- [Crypto Attacks](sessions/crypto_attacks)
 	- [Crypto Wrap-Up](sessions/crypto_wrap-up)
 - [Threat Modeling](sessions/threat_modeling)
+- [Writing Good Reports](sessions/good_reports)
 
 Vulnerabilities
 ---------------
