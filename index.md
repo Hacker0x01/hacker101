@@ -29,6 +29,8 @@ Sessions
 	- [Crypto Wrap-Up](sessions/crypto_wrap-up)
 - [Threat Modeling](sessions/threat_modeling)
 - [Writing Good Reports](sessions/good_reports)
+- Burp Suite series
+	- [Getting Started](sessions/burp101)
 
 Vulnerabilities
 ---------------
