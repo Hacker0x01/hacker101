@@ -31,6 +31,7 @@ Sessions
 - [Writing Good Reports](sessions/good_reports)
 - Burp Suite series
 	- [Getting Started](sessions/burp101)
+	- [Maximizing Burp](sessions/burp201)
 
 Vulnerabilities
 ---------------
