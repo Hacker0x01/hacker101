@@ -32,6 +32,7 @@ Sessions
 - Burp Suite series
 	- [Getting Started](sessions/burp101)
 	- [Maximizing Burp](sessions/burp201)
+	- [Burp Hacks for Bounty Hunters](sessions/burp301)
 
 Vulnerabilities
 ---------------
