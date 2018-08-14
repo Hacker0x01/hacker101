@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Burp 101: Getting Started
+title: Burp 101 - Getting Started
 ---
 
 This is the first in a series of 3 sessions on Burp Suite.  In this session we'll talk about how to get started with Burp and to make the most of its powerful tools.
