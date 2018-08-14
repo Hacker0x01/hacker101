@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Burp 201: Maximizing Burp
+title: Burp 201 - Maximizing Burp
 ---
 
 This is the second in a series of 3 sessions on Burp Suite.  In this session we'll talk about how you can use some advanced features of Burp to make your life easier and find better bugs.
