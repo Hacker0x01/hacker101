@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Burp 301: Burp Hacks for Bounty Hunters
+title: Burp 301 - Burp Hacks for Bounty Hunters
 ---
 
 This is the final video in a series of 3 sessions on Burp Suite.  In this session we'll talk about how to get the absolute most out of Burp Suite as a bug bounty hunter.
