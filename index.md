@@ -7,7 +7,7 @@ Getting Started
 
 Hacker101 is structured as a set of video lessons -- some covering multiple topics, some covering a single one -- and can be consumed in two different ways.  You can either watch them in the order produced as in a normal class ([§](#sessions) Sessions), or you can watch individual videos ([§](#vulnerabilities) Vulnerabilities).  If you're new to security, we recommend the former; this provides a guided path through the content and covers more than just individual bugs.
 
-Additionally, we have a [https://ctf.hacker101.com/](CTF (Capture The Flag)) where you can hunt for bugs and experiment with exploitation in practice.  You can access that [https://ctf.hacker101.com/](here).
+Additionally, we have a [CTF (Capture The Flag)](https://ctf.hacker101.com/) where you can hunt for bugs and experiment with exploitation in practice.  You can access that [here](https://ctf.hacker101.com/).
 
 Sessions
 --------
