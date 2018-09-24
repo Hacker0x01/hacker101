@@ -33,6 +33,7 @@ Sessions
 	- [Getting Started](sessions/burp101)
 	- [Maximizing Burp](sessions/burp201)
 	- [Burp Hacks for Bounty Hunters](sessions/burp301)
+- [Secure Architecture Review](sessions/secure_architecture)
 
 Vulnerabilities
 ---------------
