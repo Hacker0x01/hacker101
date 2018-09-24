@@ -58,6 +58,8 @@ Vulnerabilities
 Coursework
 ----------
 
+**Note:** The coursework is deprecated in favor of the Hacker101 CTF and will be removed on October 1, 2018.
+
 - [Level 0: Breakerbank](coursework/level0)
 - [Level 1: Breakbook](coursework/level1)
 - [Level 2: Breaker Profile](coursework/level2)
