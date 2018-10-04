@@ -58,17 +58,7 @@ Vulnerabilities
 Coursework
 ----------
 
-**Note:** The coursework is deprecated in favor of the Hacker101 CTF and will be removed on October 1, 2018.
-
-- [Level 0: Breakerbank](coursework/level0)
-- [Level 1: Breakbook](coursework/level1)
-- [Level 2: Breaker Profile](coursework/level2)
-- [Level 3: Breaker CMS](coursework/level3)
-- [Level 4: Breaker News](coursework/level4)
-- [Level 5: Document Repository](coursework/level5)
-- [Level 6: Student Center](coursework/level6)
-- [Level 7: Guardian](coursework/level7)
-- [Level 8: Document Exchange](coursework/level8)
+The coursework for Hacker101 has been deprecated in favor of the [Hacker101 CTF](https://ctf.hacker101.com/).  You can find the source for the old coursework [here](https://github.com/Hacker0x01/Hacker101Coursework).
 
 Help and FAQ
 ---------------
