@@ -18,6 +18,4 @@ What you'll learn
 Video
 -----
 
-<div class="container">
-	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/zPYfT9azdK8?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
-</div>
+[![Watch the video](http://img.youtube.com/vi/zPYfT9azdK8/0.jpg)](http://youtu.be/zPYfT9azdK8)
