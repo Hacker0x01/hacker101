@@ -34,6 +34,7 @@ Sessions
 	- [Maximizing Burp](sessions/burp201.md)
 	- [Burp Hacks for Bounty Hunters](sessions/burp301.md)
 - [Secure Architecture Review](sessions/secure_architecture.md)
+- [Server-Side Request Forgery](sessions/ssrf.md)
 
 Vulnerabilities
 ---------------
