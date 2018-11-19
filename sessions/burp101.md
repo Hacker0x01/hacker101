@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Burp 101 - Getting Started
 ---
 

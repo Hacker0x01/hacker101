@@ -1,67 +1,32 @@
 ---
-layout: landing
+layout: default
+title: Home
 ---
 
-Getting Started
----------------
-
-Hacker101 is structured as a set of video lessons -- some covering multiple topics, some covering a single one -- and can be consumed in two different ways.  You can either watch them in the order produced as in a normal class ([§](#sessions) Sessions), or you can watch individual videos ([§](#vulnerabilities) Vulnerabilities).  If you're new to security, we recommend the former; this provides a guided path through the content and covers more than just individual bugs.
-
-Additionally, we have a [CTF (Capture The Flag)](https://ctf.hacker101.com/) where you can hunt for bugs and experiment with exploitation in practice.  You can access that [here](https://ctf.hacker101.com/).
-
-Sessions
---------
-
-- [Introduction](sessions/introduction)
-- [The Web In Depth](sessions/web_in_depth)
-- [XSS and Authorization](sessions/xss)
-- [SQL Injection and Friends](sessions/sqli)
-- [Session Fixation](sessions/session_fixation)
-- [Clickjacking](sessions/clickjacking)
-- [File Inclusion Bugs](sessions/file_inclusion)
-- [File Upload Bugs](sessions/file_uploads)
-- [Null Termination Bugs](sessions/null_termination)
-- [Unchecked Redirects](sessions/unchecked_redirects)
-- [Password Storage](sessions/password_storage)
-- Crypto series
-	- [Crypto Crash Course](sessions/crypto_crash_course)
-	- [Crypto Attacks](sessions/crypto_attacks)
-	- [Crypto Wrap-Up](sessions/crypto_wrap-up)
-- [Threat Modeling](sessions/threat_modeling)
-- [Writing Good Reports](sessions/good_reports)
-- Burp Suite series
-	- [Getting Started](sessions/burp101)
-	- [Maximizing Burp](sessions/burp201)
-	- [Burp Hacks for Bounty Hunters](sessions/burp301)
-- [Secure Architecture Review](sessions/secure_architecture)
-- [Server-Side Request Forgery](sessions/ssrf)
-
-Vulnerabilities
----------------
-
-- [Clickjacking](vulnerabilities/clickjacking)
-- [Command Injection](vulnerabilities/command_injection)
-- [Cross-Site Request Forgery (CSRF)](vulnerabilities/csrf)
-- [Directory Traversal](vulnerabilities/directory_traversal)
-- [Local/Remote File Inclusion](vulnerabilities/file_inclusion)
-- [Improper Authorization](vulnerabilities/improper_authorization)
-- [Insecure Password Storage](vulnerabilities/insecure_password_storage)
-- [Improper Handling of Null Termination](vulnerabilities/null_termination)
-- [Padding Oracle](vulnerabilities/padding_oracle)
-- [Reflected Cross-Site Scripting (XSS)](vulnerabilities/reflected_xss)
-- [Session Fixation](vulnerabilities/session_fixation)
-- [SQL Injection](vulnerabilities/sqli)
-- [Stored Cross-Site Scripting (XSS)](vulnerabilities/stored_xss)
-- [Stream Cipher Key Reuse](vulnerabilities/stream_reuse)
-- [Subdomain Takeover](vulnerabilities/subdomain_takeover)
-- [Unchecked Redirect](vulnerabilities/unchecked_redirect)
-
-Coursework
-----------
-
-The coursework for Hacker101 has been deprecated in favor of the [Hacker101 CTF](https://ctf.hacker101.com/).  You can find the source for the old coursework [here](https://github.com/Hacker0x01/Hacker101Coursework).
-
-Help and FAQ
----------------
-
-See our FAQ list at [https://www.hackerone.com/hacker101](https://www.hackerone.com/hacker101) or email [hacker101@hackerone.com](mailto:hacker101@hackerone.com) with questions or suggestions. Thanks!
+<div class="container-fluid">
+	<div class="position-relative overflow-hidden row mb-5 text-center bg-light text-dark" style="border: 1px solid black">
+	  <div class="col">
+	    <h1 class="display-5 font-weight-normal">Hacker101</h1>
+	    <p class="lead font-weight-normal">Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.</p>
+	    <a class="btn btn-success mb-2" href="resources#2">New to hacking? Click here to get started!</a>
+	  </div>
+	  <div class="product-device box-shadow d-none d-md-block"></div>
+	  <div class="product-device product-device-2 box-shadow d-none d-md-block"></div>
+	</div>
+	<div class="row">
+	  <div class="bg-light col-sm-35 offset-md-2 border border-dark text-center text-dark overflow-hidden">
+	    <div class="mt-2 pt-2">
+	      <h2 class="display-5"><a href="https://ctf.hacker101.com/" class="text-dark">Capture the Flag</a></h2>
+	      <p class="lead"><a href="https://ctf.hacker101.com/" class="text-dark" style="text-decoration: none">Put your skills into practice with CTF levels inspired by the real world</a></p>
+	    </div>
+	    <a href="https://ctf.hacker101.com/" class="pb-0 mb-0"><div class="mx-auto pb-0 mb-0 bg-dark" style="width: 300px; height: 200px; border-radius: 15px 15px 0 0; background-image: url(assets/ctf.png); background-size: contain;"></div></a>
+	  </div>
+	  <div class="bg-dark col-sm-35 offset-md-4 border border-success text-center text-white overflow-hidden">
+	    <div class="mt-2 pt-2">
+	      <h2 class="display-5e"><a href="videos" class="text-white">Video Lessons</a></h2>
+	      <p class="lead"><a href="videos" class="text-white" style="text-decoration: none">Learn to hack with our free video lessons, guides, and resources</a></p>
+	    </div>
+	    <a href="videos" class="pb-0 mb-0"><div class="mx-auto pb-0 mb-0" style="width: 300px; height: 200px; border-radius: 15px 15px 0 0; background-image: url(assets/lessons.png); background-size: contain;"></div></a>
+	  </div>
+	</div>
+</div>

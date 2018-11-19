@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Server-Side Request Forgery
 ---
 

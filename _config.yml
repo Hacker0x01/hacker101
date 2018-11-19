@@ -1,21 +1,26 @@
 title: Hacker101
-description: Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
-author:
-  name: HackerOne
-  twitter: Hacker0x01
-google_analytics: UA-49905813-8
-markdown: kramdown
-url: https://www.hacker101.com
-twitter:
-  username: Hacker0x01
-facebook:
-  app_id: 345444188982280
-social:
-  links:
-    - https://twitter.com/Hacker0x01
-    - https://www.facebook.com/Hacker0x01
-    - https://www.linkedin.com/company/hackerone
-    - https://github.com/Hacker0x01
-logo: /assets/images/h101_angle.png
+email: cody@hackerone.com
+description: >-
+  Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
+author: HackerOne
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Hacker0x01
+github_username:  Hacker0x01
+
+repository: "Hacker0x01/hacker101"
+
+# Build settings
 plugins:
-  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# A list of the pages to display in the navigation bar
+header_pages:
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - update_boostrap.sh
+  - resourceGen.py
+  - resources.res

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Burp 301 - Burp Hacks for Bounty Hunters
 ---
 

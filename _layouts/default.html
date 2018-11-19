@@ -1,40 +1,27 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <meta http-equiv="X-UA-Compatible" content="chrome=1">
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
-{% seo %}
-</head>
-<body>
-  <div class="hero">
-    <div class="wrapper">
-      <h1>{{ page.title }}</h1>
-      {% if page.score %}
-        <p>Severity: {{ page.score }}</p>
-      {% endif %}
-    </div>
-  </div>
-  <div class="wrapper">
-    <a href="/" class="home">return home</a>
-    
-    {{ content }}
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-    <br>
-    <a href="/" class="home">return home</a> | <a href="https://github.com/Hacker0x01/hacker101/issues/new" class="edit">suggest changes</a>
-  </div>
-  <footer>
-    <p><a href="https://www.hackerone.com/start-hacking">🔨 Powered by HackerOne</a> | <a href="https://github.com/Hacker0x01/hacker101">💻 Open Source</a> | <a href="https://twitter.com/Hacker0x01">🎉 Follow us on Twitter</a></p>
-  </footer>
-  <script type="text/javascript">
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    ga('create', '{{ site.google_analytics }}', 'auto');
-    ga('send', 'pageview');
-  </script>
-</body>
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <div class="py-5">
+      <div class="container page-content">
+          {{ content }}
+      </div>
+    </div>
+
+    {%- include footer.html -%}
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-49905813-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
 </html>
