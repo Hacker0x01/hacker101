@@ -19,9 +19,9 @@ title: Videos
 		<div class="col-sm-50 mb-4 pb-2 text-center text-white">
 			<div class="mb-0">
 				<h2 class="display-5">Latest Video</h2>
-				<h2 class="display-5 text-white"><a href="sessions/ssrf">Server Side Request Forgery</a></h2>
+				<h2 class="display-5 text-white"><a href="sessions/source_review">Source Code Review</a></h2>
 			</div>
-			<iframe id="ytplayer" type="text/html" width="100%" height="400" src="https://www.youtube-nocookie.com/embed/66ni2BTIjS8?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
+			<iframe id="ytplayer" type="text/html" width="100%" height="400" src="https://www.youtube-nocookie.com/embed/OC9TrroEOaM?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
 		</div>
 		<div class="col-sm-28 mb-4 pb-2 border-left border-success">
 			<h2 class="display-5">Playlists</h2>
@@ -61,6 +61,7 @@ title: Videos
 				</li>
 				<li><a href="sessions/secure_architecture">Secure Architecture Review</a></li>
 				<li><a href="sessions/ssrf">Server-Side Request Forgery</a></li>
+				<li><a href="sessions/source_review">Source Code Review</a></li>
 			</ul>
 		</div>
 	</div>
