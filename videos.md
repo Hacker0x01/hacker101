@@ -21,7 +21,7 @@ title: Videos
 				<h2 class="display-5">Latest Video</h2>
 				<h2 class="display-5 text-white"><a href="sessions/source_review">Source Code Review</a></h2>
 			</div>
-			<iframe id="ytplayer" type="text/html" width="100%" height="400" src="https://www.youtube-nocookie.com/embed/OC9TrroEOaM?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
+			<iframe id="ytplayer" type="text/html" width="100%" height="400" src="https://www.youtube-nocookie.com/embed/fsvGKvQ9VeM?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
 		</div>
 		<div class="col-sm-28 mb-4 pb-2 border-left border-success">
 			<h2 class="display-5">Playlists</h2>
