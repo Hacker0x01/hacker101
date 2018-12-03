@@ -20,5 +20,5 @@ Video
 -----
 
 <div class="container">
-	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/fsvGKvQ9VeM?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
+	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/i4fd2Va3Jtg?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
 </div>
