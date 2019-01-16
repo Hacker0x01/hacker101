@@ -19,14 +19,14 @@ title: Home
 	<div class="row">
 	  <div class="bg-light col-sm-39 border border-dark text-center text-dark overflow-hidden">
 	    <div class="mt-2 pt-2">
-	      <h2 class="display-5">Capture the Flag</h2>
+	      <h2 class="display-5"><img src="/assets/flag.svg">Capture the Flag</h2>
 	      <p class="lead"><a href="https://ctf.hacker101.com/" class="text-dark" style="text-decoration: none">Put your skills into practice with CTF levels inspired by the real world</a></p>
 	    </div>
 	    <a href="https://ctf.hacker101.com/" class="pb-0 mb-0">Check out CTF</a>
 	  </div>
 	  <div class="bg-dark col-sm-39 border border-success text-center text-white overflow-hidden">
 	    <div class="mt-2 pt-2">
-	      <h2 class="display-5e">Video Lessons</h2>
+	      <h2 class="display-5e"><img src="/assets/speaker.svg">Video Lessons</h2>
 	      <p class="lead"><a href="videos" class="text-white" style="text-decoration: none">Learn to hack with our free video lessons, guides, and resources</a></p>
 	    </div>
 	    <a href="videos" class="pb-0 mb-0">Explore free classes</a>
@@ -34,7 +34,7 @@ title: Home
 	</div>
 	<div class="row">
       <div class="bg-light col-sm-39 border border-dark text-center text-dark overflow-hidden">
-        <img src="ron-chan.jpg">
+        <img src="/assets/ron-chan.jpg">
       </div>
       <div class="bg-dark col-sm-39  border border-success text-center text-white overflow-hidden">
         <div class="mt-2 pt-2">
