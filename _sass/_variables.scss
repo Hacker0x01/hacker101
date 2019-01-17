@@ -92,7 +92,7 @@ $enable-hover-media-query: false;
 $enable-grid-classes: true;
 $enable-print-styles: true;
 
-$yiq-contrasted-threshold:  170 !default;
+$yiq-contrasted-threshold: 170 !default;
 
 // Body
 $body-bg: $white;
@@ -320,8 +320,8 @@ $dropdown-item-padding-y: 0.25rem;
 $dropdown-item-padding-x: 1.5rem;
 $dropdown-header-color: $gray-600;
 
-$dropdown-link-active-color:        $dropdown-link-hover-color !default;
-$dropdown-link-active-bg:           $dropdown-link-hover-bg !default;
+$dropdown-link-active-color: $dropdown-link-hover-color !default;
+$dropdown-link-active-bg: $dropdown-link-hover-bg !default;
 
 // Navs
 $nav-link-padding-y: 0.5rem;
@@ -472,12 +472,12 @@ $badge-pill-border-radius: 10rem;
 
 // Toasts
 
-$toast-background-color:            lighten($body-bg, 5%) !default;
-$toast-border-color:                rgba(0,0,0,.2) !default;
+$toast-background-color: lighten($body-bg, 5%) !default;
+$toast-border-color: rgba(0, 0, 0, 0.2) !default;
 
-$toast-header-color:                $body-color !default;
-$toast-header-background-color:     $toast-background-color !default;
-$toast-header-border-color:         $toast-border-color !default;
+$toast-header-color: $body-color !default;
+$toast-header-background-color: $toast-background-color !default;
+$toast-header-border-color: $toast-border-color !default;
 
 // Modals
 $modal-inner-padding: 15px;

@@ -19,7 +19,7 @@
 @each $color, $value in $theme-colors {
   .btn-outline-#{$color} {
     &:hover {
-      background: rgba(0, 0, 0, 0.0125);
+      background: rgba(0, 0, 0, 0.02);
       color: theme-color($color);
     }
 
@@ -30,7 +30,7 @@
 
     &:not(:disabled):not(.disabled):active,
     &:not(:disabled):not(.disabled).active {
-      background: rgba(0, 0, 0, 0.025);
+      background: rgba(0, 0, 0, 0.04);
       color: theme-color($color);
 
       &:focus {
