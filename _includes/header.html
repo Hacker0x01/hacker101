@@ -1,41 +1,57 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-  <div class="container">
-    <a class="navbar-brand text-success" rel="author" href="{{ "/" | relative_url }}"><img src="/assets/Hacker101_logo.png"></a>
+<header>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <a href="{{ "/" | relative_url }}" class="navbar-brand" rel="author">
+        <img src="/assets/Hacker101_logo.png" height="30">
+      </a>
 
-    {%- assign page_paths = site.header_pages -%}
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="/about">About</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/resources/#2">Getting Started</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ "/videos" | relative_url }}">Videos</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="https://ctf.hacker101.com/">CTF</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ "/resources" | relative_url }}">Resources</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ "/discord" | relative_url }}">Discord</a>
-        </li>
-      </ul>
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <p class="nav-link">Light mode <span>on</span> &#x263C;</p>
-        </li>
-        <li class="nav-item">
-          <p class="nav-link" >Dark mode <span>on</span> &#x263D;</p>
-        </li>
-      </ul>
+      {%- assign page_paths = site.header_pages -%}
+
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a href="/about" class="nav-link text-light">
+              About
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="/resources/#2" class="nav-link text-light">
+              Getting Started
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="{{ "/videos" | relative_url }}" class="nav-link text-light">
+              Videos
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="https://ctf.hacker101.com/" class="nav-link text-light">
+              CTF
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="{{ "/resources" | relative_url }}" class="nav-link text-light">
+              Resources
+            </a>
+          </li>
+        </ul>
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a href="#" id="mode-light" class="mode-toggle nav-link">
+              Light mode <span class="text-success">on</span> &#x263C;
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="#" id="mode-dark" class="mode-toggle nav-link d-none">
+              Dark mode <span class="text-success">on</span> &#x263D;
+            </a>
+          </li>
+        </ul>
+      </div>
     </div>
-  </div>
-</nav>
+  </nav>
+</header>
