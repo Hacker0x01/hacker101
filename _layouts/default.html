@@ -21,5 +21,42 @@
 
       gtag('config', '{{ site.google_analytics }}');
     </script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        var darkMode = localStorage.getItem('darkMode');
+
+        var toggleDark = function() {
+          $("#mode-light").addClass("d-none");
+          $("#mode-dark").removeClass("d-none");
+
+          $("main .bg-light").addClass("bg-dark text-light").removeClass("bg-light");
+          $("main .bg-white").addClass("bg-black text-light").removeClass("bg-white");
+        };
+
+        var toggleLight = function() {
+          $("#mode-dark").addClass("d-none");
+          $("#mode-light").removeClass("d-none");
+
+          $("main .bg-dark").addClass("bg-light").removeClass("bg-dark text-light");
+          $("main .bg-black").addClass("bg-white").removeClass("bg-black text-light");
+        };
+
+        if (darkMode) {
+          toggleDark();
+        }
+
+        $(".mode-toggle").click(function() {
+          if (localStorage.getItem('darkMode')) {
+            toggleLight();
+
+            localStorage.clear();
+          } else {
+            toggleDark();
+
+            localStorage.setItem('darkMode', true);
+          }
+        })
+      });
+    </script>
   </body>
 </html>
