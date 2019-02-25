@@ -19,9 +19,9 @@ title: Videos
 		<div class="col-sm-50 mb-4 pb-2 text-center text-white">
 			<div class="mb-0">
 				<h2 class="display-5">Latest Video</h2>
-				<h2 class="display-5 text-white"><a href="sessions/mobile_crash_course">Mobile Hacking Crash Course</a></h2>
+				<h2 class="display-5 text-white"><a href="sessions/android_quickstart">Android Quickstart</a></h2>
 			</div>
-			<iframe id="ytplayer" type="text/html" width="100%" height="400" src="https://www.youtube-nocookie.com/embed/hKF89TXttnw?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
+			<iframe id="ytplayer" type="text/html" width="100%" height="400" src="https://www.youtube-nocookie.com/embed/y0O3sCX9ftM?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
 		</div>
 		<div class="col-sm-28 mb-4 pb-2 border-left border-success">
 			<h2 class="display-5">Playlists</h2>
@@ -67,6 +67,7 @@ title: Videos
 				<li>Mobile App Hacking series
 					<ul>
 						<li><a href="sessions/mobile_crash_course">Mobile Hacking Crash Course</a></li>
+						<li><a href="sessions/android_quickstart">Android Quickstart</a></li>
 					</ul>
 				</li>
 			</ul>
