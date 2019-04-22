@@ -55,6 +55,7 @@ Resources
 		- [x86-64 Cheat Sheet](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
 	- [Kernel Resources](https://wiki.osdev.org/Expanded_Main_Page)
 	- [Memory Management](https://wiki.osdev.org/Memory_management)
+	- [CPU Cache](https://en.wikipedia.org/wiki/CPU_cache)
 	- [Shared Library Loading Process](https://amir.rachum.com/blog/2016/09/17/shared-libraries/)
 	- Binary File Formats
 		- [ELF](http://www.skyfree.org/linux/references/ELF_Format.pdf)
@@ -101,17 +102,20 @@ Resources
 	- Use After Free
 		- [An Introduction to Use After Free Vulnerabilities](https://www.purehacking.com/blog/lloyd-simon/an-introduction-to-use-after-free-vulnerabilities)
 		- [What do Nintendo Switch and iOS 9.3 have in common? CVE-2016-4657 walk-through](https://www.youtube.com/watch?v=xkdPjbaLngE&feature=youtu.be)
+	- Speculative Execution Bugs
+		- [Meltdown and Spectre, explained](https://medium.com/@mattklein123/meltdown-spectre-explained-6bc8634cc0c2)
 - Protections
 	- [Canaries](https://en.wikipedia.org/wiki/Buffer_overflow_protection#Canaries)
 	- [NX bit](https://en.wikipedia.org/wiki/NX_bit)
 	- [W^X](https://en.wikipedia.org/wiki/W%5EX)
 	- [How do ASLR and DEP work?](https://security.stackexchange.com/questions/18556/how-do-aslr-and-dep-work)
+	- [Pointer Authentication on ARMv8.3](https://www.qualcomm.com/media/documents/files/whitepaper-pointer-authentication-on-armv8-3.pdf)
 - Bypassing Protections
 	- [The info leak era on software exploitation](https://media.blackhat.com/bh-us-12/Briefings/Serna/BH_US_12_Serna_Leak_Era_Slides.pdf)
-	- [Nintendo Switch nvservices Info Leak](https://daeken.svbtle.com/nintendo-switch-nvservices-info-leak)
 	- [return-into-lib(c)](http://phrack.org/issues/58/4.html)
 	- [Introduction to return oriented programming (ROP)](http://codearcana.com/posts/2013/05/28/introduction-to-return-oriented-programming-rop.html)
 	- [Jump-Oriented Programming: A New Class of Code-Reuse Attacks](https://www.comp.nus.edu.sg/~liangzk/papers/asiaccs11.pdf)
+	- [Examining Pointer Authentication on the iPhone XS](https://googleprojectzero.blogspot.com/2019/02/examining-pointer-authentication-on.html)
 - JavaScript Engine Exploitation Resources
 	- [Attacking JavaScript Engines](http://www.phrack.org/papers/attacking_javascript_engines.html)
 	- [Heap Feng Shui in JavaScript](https://www.blackhat.com/presentations/bh-europe-07/Sotirov/Presentation/bh-eu-07-sotirov-apr19.pdf)
@@ -122,6 +126,7 @@ Resources
 	- [Adobe Flash Player Out-of-Bound Read/Write Vulnerability](https://hackerone.com/reports/31408) ($5000 bounty)
 	- [RCE on Steam Client via buffer overflow in Server Info](https://hackerone.com/reports/470520) ($18000 bounty)
 	- [heap-buffer-overflow in S_pack_rec](https://hackerone.com/reports/354650) ($1000 bounty)
+	- [Nintendo Switch nvservices Info Leak](https://daeken.svbtle.com/nintendo-switch-nvservices-info-leak)
 	- [Buffer overflow in HTTP parse_hostinfo(), parse_userinfo() and parse_scheme()](https://hackerone.com/reports/174069) ($1000 bounty)
 	- [Use After Free in Flash MessageChannel.send can cause arbitrary code execution](https://hackerone.com/reports/47234) ($7500 bounty)
 	- [Virtually Unlimited Memory: Escaping the Chrome Sandbox](https://googleprojectzero.blogspot.com/2019/04/virtually-unlimited-memory-escaping.html)
