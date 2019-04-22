@@ -77,9 +77,22 @@ Resources
 		- [HxD](https://mh-nexus.de/en/hxd/)
 	- Assemblers
 		- [Online Assembler and Disassembler](http://shell-storm.org/online/Online-Assembler-and-Disassembler/)
+		- [GNU Assembler](https://en.wikipedia.org/wiki/GNU_Assembler)
+		- [Netwide Assembler (nasm)](https://en.wikipedia.org/wiki/Netwide_Assembler)
 	- ROP Gadget Hunters
 		- [ROPgadget](https://github.com/JonathanSalwan/ROPgadget)
 		- [Ropper](https://github.com/sashs/Ropper)
+	- Emulators
+		- [QEMU](https://www.qemu.org/)
+		- [Unicorn](https://www.unicorn-engine.org/)
+	- Fuzzers
+		- [afl](http://lcamtuf.coredump.cx/afl/)
+		- [libFuzzer](https://llvm.org/docs/LibFuzzer.html)
+	- Instrumentation
+		- [Valgrind](http://valgrind.org/)
+		- [Pin](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool)
+	- Executable Lifters
+		- [McSema](https://github.com/trailofbits/mcsema)
 - Bugs
 	- Buffer Overflows
 		- [Smashing The Stack For Fun And Profit](http://phrack.org/issues/49/14.html)
