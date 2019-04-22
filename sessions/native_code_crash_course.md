@@ -77,6 +77,9 @@ Resources
 		- [HxD](https://mh-nexus.de/en/hxd/)
 	- Assemblers
 		- [Online Assembler and Disassembler](http://shell-storm.org/online/Online-Assembler-and-Disassembler/)
+	- ROP Gadget Hunters
+		- [ROPgadget](https://github.com/JonathanSalwan/ROPgadget)
+		- [Ropper](https://github.com/sashs/Ropper)
 - Bugs
 	- Buffer Overflows
 		- [Smashing The Stack For Fun And Profit](http://phrack.org/issues/49/14.html)
@@ -93,6 +96,9 @@ Resources
 - Bypassing Protections
 	- [The info leak era on software exploitation](https://media.blackhat.com/bh-us-12/Briefings/Serna/BH_US_12_Serna_Leak_Era_Slides.pdf)
 	- [Nintendo Switch nvservices Info Leak](https://daeken.svbtle.com/nintendo-switch-nvservices-info-leak)
+	- [return-into-lib(c)](http://phrack.org/issues/58/4.html)
+	- [Introduction to return oriented programming (ROP)](http://codearcana.com/posts/2013/05/28/introduction-to-return-oriented-programming-rop.html)
+	- [Jump-Oriented Programming: A New Class of Code-Reuse Attacks](https://www.comp.nus.edu.sg/~liangzk/papers/asiaccs11.pdf)
 - JavaScript Engine Exploitation Resources
 	- [Attacking JavaScript Engines](http://www.phrack.org/papers/attacking_javascript_engines.html)
 	- [Heap Feng Shui in JavaScript](https://www.blackhat.com/presentations/bh-europe-07/Sotirov/Presentation/bh-eu-07-sotirov-apr19.pdf)
