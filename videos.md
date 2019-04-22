@@ -19,9 +19,9 @@ title: Videos
 		<div class="col-sm-50 mb-4 pb-2 text-center text-white">
 			<div class="mb-0">
 				<h2 class="display-5">Latest Video</h2>
-				<h2 class="display-5 text-white"><a href="sessions/ios_quickstart">iOS Quickstart</a></h2>
+				<h2 class="display-5 text-white"><a href="sessions/native_code_crash_course">Native Code Crash Course</a></h2>
 			</div>
-			<iframe id="ytplayer" type="text/html" width="100%" height="400" src="https://www.youtube-nocookie.com/embed/c4M8sd9lcFU?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
+			<iframe id="ytplayer" type="text/html" width="100%" height="400" src="https://www.youtube-nocookie.com/embed/NeeCfLNyTwo?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
 		</div>
 		<div class="col-sm-28 mb-4 pb-2 border-left border-success">
 			<h2 class="display-5">Playlists</h2>
@@ -71,6 +71,7 @@ title: Videos
 						<li><a href="sessions/ios_quickstart">iOS Quickstart</a></li>
 					</ul>
 				</li>
+				<li><a href="sessions/native_code_crash_course">Native Code Crash Course</a></li>
 			</ul>
 		</div>
 	</div>
