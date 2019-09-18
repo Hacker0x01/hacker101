@@ -1,0 +1,32 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <div class="container">
+    <a class="navbar-brand text-success" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    {%- assign page_paths = site.header_pages -%}
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="{{ "/videos" | relative_url }}">Videos</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://ctf.hacker101.com/">CTF</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ "/resources" | relative_url }}">Resources</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ "/discord" | relative_url }}">Discord</a>
+        </li>
+      </ul>
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.github.repository_url }}">Fork me on Github</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
