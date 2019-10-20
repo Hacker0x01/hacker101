@@ -64,6 +64,9 @@ This is a curated list of web hacking tools and is not intended to be comprehens
 	<li><a href="https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project">DirBuster</a>: This is useful for finding hidden files and directories on web servers.</li>
 	<li><a href="https://cirt.net/Nikto2">Nikto2</a>: Like DirBuster, but also does some basic checks for known vulnerabilities.</li>
 	<li><a href="https://github.com/nahamsec/lazyrecon">lazyrecon</a>: This is an assembled collection of tools for performing recon.</li>
+	<li><a href="https://github.com/UltralegendSam-Fs/hashcat.git</a>: World's fastest and most advanced password recovery utility.</li>
+	<li><a href="https://github.com/UltralegendSam-Fs/Awesome-Hacking.git</a>: A collection of various awesome lists for hackers, pentesters and security researchers.</li>
+
 </ul>
 
 & Mobile hacking tools
