@@ -9,7 +9,7 @@ security professional, Hacker101 has something to teach you.
 ### Prerequisites
 
 - Ruby
-  - Suggestion: use [`rbenv`](https://github.com/rbenv/rbenv))
+  - Suggestion: use [`rbenv`](https://github.com/rbenv/rbenv)
 - `bundler`
   - Run `gem install bundler`, if needed
 
