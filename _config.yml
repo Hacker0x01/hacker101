@@ -17,10 +17,11 @@ plugins:
 # A list of the pages to display in the navigation bar
 header_pages:
 
+collections:
+  resources:
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
   - update_boostrap.sh
-  - resourceGen.py
-  - resources.res
