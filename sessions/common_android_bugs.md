@@ -3,7 +3,7 @@ layout: page
 title: Common Android Bugs
 ---
 
-These videos build strongly on the Android Quickstart and Mobile Hacking Crash Course videos released previously, so make sure to give those a watch if you haven’t yet or want a refresher.
+These videos build strongly on the Android Quickstart and [Mobile Hacking Crash Course](/sessions/mobile_crash_course) videos released previously, so make sure to give those a watch if you haven’t yet or want a refresher.
 
 What you'll learn
 -----------------
