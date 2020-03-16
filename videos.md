@@ -68,6 +68,8 @@ title: Videos
 					<ul>
 						<li><a href="sessions/mobile_crash_course">Mobile Hacking Crash Course</a></li>
 						<li><a href="sessions/android_quickstart">Android Quickstart</a></li>
+						<li><a href="sessions/common_android_bugs">Common Android Bugs</a> <span class="badge badge-pill badge-danger">New!/span>
+</li>
 						<li><a href="sessions/ios_quickstart">iOS Quickstart</a></li>
 					</ul>
 				</li>
