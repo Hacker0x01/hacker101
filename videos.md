@@ -35,6 +35,11 @@ title: Videos
 				<li><a href="sessions/introduction">Introduction</a></li>
 				<li><a href="sessions/web_in_depth">The Web In Depth</a></li>
 				<li><a href="sessions/xss">XSS and Authorization</a></li>
+				<ul>
+				  <li>
+				    <a href="sessions/javascript_for_hackers">JavaScript for Hackers</a> <span class="badge badge-pill badge-danger">New!</span>
+				  </li>
+				</ul>
 				<li><a href="sessions/sqli">SQL Injection and Friends</a></li>
 				<li><a href="sessions/session_fixation">Session Fixation</a></li>
 				<li><a href="sessions/clickjacking">Clickjacking</a></li>
