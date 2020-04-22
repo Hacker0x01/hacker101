@@ -12,7 +12,7 @@ During [#AndroidHackingMonth](https://twitter.com/hashtag/AndroidHackingMonth) w
 - [Hacker101 - Mobile Hacking Crash Course]( https://www.youtube.com/watch?v=hKF89TXttnw)
 - [Hacker101: Common Android Bugs Pt. 1](https://www.youtube.com/watch?v=sQ_34dI_geU)
 - [Hacker101: Common Android Bugs Pt. 2](https://www.youtube.com/watch?v=tt1f4pcI0jo)
--[Android Pentesting Video Playlist](https://www.youtube.com/playlist?list=PLgnrksnL_Rn09gGTTLgi-FL7HxPOoDk3R)
+- [Android Pentesting Video Playlist](https://www.youtube.com/playlist?list=PLgnrksnL_Rn09gGTTLgi-FL7HxPOoDk3R)
 - [Low Competition Bug Hunting (What to Learn) - ft. #AndroidHackingMonth](https://www.youtube.com/watch?v=Pkd_j31Jtfc&feature=youtu.be)
 
 ## Blog Posts
