@@ -1,6 +1,11 @@
 ---
-title: Mobile hacking tools
+title: Mobile hacking resources
 ---
+#### Resources
+
+We he have a page dedicated to Android resources, [check it out](/android_hacking)!
+
+#### Tools
 
 This is a curated list of mobile hacking tools and is not intended to be comprehensive; rather, we want to highlight the tools we find especially useful.
 
