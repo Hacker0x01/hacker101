@@ -3,7 +3,7 @@ title: Mobile hacking resources
 ---
 #### Resources
 
-We he have a page dedicated to Android resources, [check it out](/android_hacking)!
+[Android Hacking Resources](/android_hacking)
 
 #### Tools
 
