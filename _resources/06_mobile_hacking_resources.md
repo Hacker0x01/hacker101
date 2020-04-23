@@ -15,4 +15,5 @@ This is a curated list of mobile hacking tools and is not intended to be compreh
 	<li><a href="https://github.com/pxb1988/dex2jar">dex2jar</a>: Converts dex code (Android bytecode) into Java JAR files for manipulation or decompilation.</li>
 	<li><a href="http://jd.benow.ca/">JD-GUI</a>: This is a Java decompiler, useful after dex2jar for easy analysis of Android apps.</li>
 	<li><a href="https://www.jetbrains.com/decompiler/">dotPeek</a>: A .NET decompiler, for use with Xamarin Android applications.</li>
+	<li><a href="https://github.com/MobSF/Mobile-Security-Framework-MobSF">MobSF</a>: An automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.</li>
 </ul>
