@@ -4,7 +4,7 @@ title: I'm new to all of this; how do I get started?
 
 Congratulations on taking the first step to becoming a hacker!
 
-We recommend starting with our <a href="playlists/newcomers">Hacker101 for Newcomers</a> and <a href="playlists/burp_suite">Burp Suite</a> playlists.  Once you've completed that, start working through the <a href="https://ctf.hacker101.com/">Hacker101 CTF</a> and watching the other <a href="videos">video lessons</a> as you need them.
+We recommend starting with our <a href="/playlists/newcomers">Hacker101 for Newcomers</a> and <a href="/playlists/burp_suite">Burp Suite</a> playlists.  Once you've completed that, start working through the <a href="https://ctf.hacker101.com/">Hacker101 CTF</a> and watching the other <a href="/videos">video lessons</a> as you need them.
 
 While there are no prerequisites for Hacker101, strictly speaking, there are things you can learn to accelerate your hacking education.  Note that you don't need to know all of this -- or any -- to get started.  Here's a curated list of resources:
 <ul>
