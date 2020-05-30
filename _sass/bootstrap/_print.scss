@@ -1,6 +1,6 @@
 // stylelint-disable declaration-no-important, selector-no-qualifying-type
 
-// Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css
+// Source: https://github.com/h5bp/main.css/blob/master/src/_print.css
 
 // ==========================================================================
 // Print styles.
@@ -51,13 +51,13 @@
     }
     pre,
     blockquote {
-      border: $border-width solid $gray-500;   // Bootstrap custom code; using `$border-width` instead of 1px
+      border: $border-width solid $gray-500; // Bootstrap custom code; using `$border-width` instead of 1px
       page-break-inside: avoid;
     }
 
     //
     // Printing Tables:
-    // http://css-discuss.incutio.com/wiki/Printing_Tables
+    // https://web.archive.org/web/20180815150934/http://css-discuss.incutio.com/wiki/Printing_Tables
     //
 
     thead {
@@ -112,11 +112,28 @@
         background-color: $white !important;
       }
     }
+
     .table-bordered {
       th,
       td {
         border: 1px solid $gray-300 !important;
       }
+    }
+
+    .table-dark {
+      color: inherit;
+
+      th,
+      td,
+      thead th,
+      tbody + tbody {
+        border-color: $table-border-color;
+      }
+    }
+
+    .table .thead-dark th {
+      color: inherit;
+      border-color: $table-border-color;
     }
 
     // Bootstrap specific changes end

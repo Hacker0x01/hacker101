@@ -4,13 +4,14 @@
 // Text
 //
 
-.text-monospace { font-family: $font-family-monospace; }
+.text-monospace { font-family: $font-family-monospace !important; }
 
 // Alignment
 
 .text-justify  { text-align: justify !important; }
+.text-wrap     { white-space: normal !important; }
 .text-nowrap   { white-space: nowrap !important; }
-.text-truncate { @include text-truncate; }
+.text-truncate { @include text-truncate(); }
 
 // Responsive alignment
 
@@ -32,17 +33,19 @@
 
 // Weight and italics
 
-.font-weight-light  { font-weight: $font-weight-light !important; }
-.font-weight-normal { font-weight: $font-weight-normal !important; }
-.font-weight-bold   { font-weight: $font-weight-bold !important; }
-.font-italic        { font-style: italic !important; }
+.font-weight-light   { font-weight: $font-weight-light !important; }
+.font-weight-lighter { font-weight: $font-weight-lighter !important; }
+.font-weight-normal  { font-weight: $font-weight-normal !important; }
+.font-weight-bold    { font-weight: $font-weight-bold !important; }
+.font-weight-bolder  { font-weight: $font-weight-bolder !important; }
+.font-italic         { font-style: italic !important; }
 
 // Contextual colors
 
 .text-white { color: $white !important; }
 
 @each $color, $value in $theme-colors {
-  @include text-emphasis-variant(".text-#{$color}", $value);
+  @include text-emphasis-variant(".text-#{$color}", $value, true);
 }
 
 .text-body { color: $body-color !important; }
@@ -54,5 +57,15 @@
 // Misc
 
 .text-hide {
-  @include text-hide();
+  @include text-hide($ignore-warning: true);
 }
+
+.text-decoration-none { text-decoration: none !important; }
+
+.text-break {
+  word-wrap: break-word !important;
+}
+
+// Reset
+
+.text-reset { color: inherit !important; }

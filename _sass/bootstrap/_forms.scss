@@ -7,8 +7,11 @@
 .form-control {
   display: block;
   width: 100%;
+  height: $input-height;
   padding: $input-padding-y $input-padding-x;
-  font-size: $font-size-base;
+  font-family: $input-font-family;
+  @include font-size($input-font-size);
+  font-weight: $input-font-weight;
   line-height: $input-line-height;
   color: $input-color;
   background-color: $input-bg;
@@ -16,13 +19,7 @@
   border: $input-border-width solid $input-border-color;
 
   // Note: This has no effect on <select>s in some browsers, due to the limited stylability of `<select>`s in CSS.
-  @if $enable-rounded {
-    // Manually use the if/else instead of the mixin to account for iOS override
-    border-radius: $input-border-radius;
-  } @else {
-    // Otherwise undo the iOS default
-    border-radius: 0;
-  }
+  @include border-radius($input-border-radius, 0);
 
   @include box-shadow($input-box-shadow);
   @include transition($input-transition);
@@ -33,8 +30,14 @@
     border: 0;
   }
 
+  // Remove select outline from select box in FF
+  &:-moz-focusring {
+    color: transparent;
+    text-shadow: 0 0 0 $input-color;
+  }
+
   // Customize the `:focus` state to imitate native WebKit styles.
-  @include form-control-focus();
+  @include form-control-focus($ignore-warning: true);
 
   // Placeholder
   &::placeholder {
@@ -56,11 +59,16 @@
   }
 }
 
-select.form-control {
-  &:not([size]):not([multiple]) {
-    height: $input-height;
+input[type="date"],
+input[type="time"],
+input[type="datetime-local"],
+input[type="month"] {
+  &.form-control {
+    appearance: none; // Fix appearance for date inputs in Safari
   }
+}
 
+select.form-control {
   &:focus::-ms-value {
     // Suppress the nested default white text on blue background highlight given to
     // the selected option text when the (still closed) <select> receives focus
@@ -87,24 +95,24 @@ select.form-control {
 // For use with horizontal and inline forms, when you need the label (or legend)
 // text to align with the form controls.
 .col-form-label {
-  padding-top: calc(#{$input-padding-y} + #{$input-border-width});
-  padding-bottom: calc(#{$input-padding-y} + #{$input-border-width});
+  padding-top: add($input-padding-y, $input-border-width);
+  padding-bottom: add($input-padding-y, $input-border-width);
   margin-bottom: 0; // Override the `<label>/<legend>` default
-  font-size: inherit; // Override the `<legend>` default
+  @include font-size(inherit); // Override the `<legend>` default
   line-height: $input-line-height;
 }
 
 .col-form-label-lg {
-  padding-top: calc(#{$input-padding-y-lg} + #{$input-border-width});
-  padding-bottom: calc(#{$input-padding-y-lg} + #{$input-border-width});
-  font-size: $font-size-lg;
+  padding-top: add($input-padding-y-lg, $input-border-width);
+  padding-bottom: add($input-padding-y-lg, $input-border-width);
+  @include font-size($input-font-size-lg);
   line-height: $input-line-height-lg;
 }
 
 .col-form-label-sm {
-  padding-top: calc(#{$input-padding-y-sm} + #{$input-border-width});
-  padding-bottom: calc(#{$input-padding-y-sm} + #{$input-border-width});
-  font-size: $font-size-sm;
+  padding-top: add($input-padding-y-sm, $input-border-width);
+  padding-bottom: add($input-padding-y-sm, $input-border-width);
+  @include font-size($input-font-size-sm);
   line-height: $input-line-height-sm;
 }
 
@@ -117,9 +125,9 @@ select.form-control {
 .form-control-plaintext {
   display: block;
   width: 100%;
-  padding-top: $input-padding-y;
-  padding-bottom: $input-padding-y;
+  padding: $input-padding-y 0;
   margin-bottom: 0; // match inputs if this class comes on inputs with default margins
+  @include font-size($input-font-size);
   line-height: $input-line-height;
   color: $input-plaintext-color;
   background-color: transparent;
@@ -139,35 +147,35 @@ select.form-control {
 // Build on `.form-control` with modifier classes to decrease or increase the
 // height and font-size of form controls.
 //
-// The `.form-group-* form-control` variations are sadly duplicated to avoid the
-// issue documented in https://github.com/twbs/bootstrap/issues/15074.
+// Repeated in `_input_group.scss` to avoid Sass extend issues.
 
 .form-control-sm {
+  height: $input-height-sm;
   padding: $input-padding-y-sm $input-padding-x-sm;
-  font-size: $font-size-sm;
+  @include font-size($input-font-size-sm);
   line-height: $input-line-height-sm;
   @include border-radius($input-border-radius-sm);
 }
 
-select.form-control-sm {
-  &:not([size]):not([multiple]) {
-    height: $input-height-sm;
-  }
-}
-
 .form-control-lg {
+  height: $input-height-lg;
   padding: $input-padding-y-lg $input-padding-x-lg;
-  font-size: $font-size-lg;
+  @include font-size($input-font-size-lg);
   line-height: $input-line-height-lg;
   @include border-radius($input-border-radius-lg);
 }
 
-select.form-control-lg {
-  &:not([size]):not([multiple]) {
-    height: $input-height-lg;
+// stylelint-disable-next-line no-duplicate-selectors
+select.form-control {
+  &[size],
+  &[multiple] {
+    height: auto;
   }
 }
 
+textarea.form-control {
+  height: auto;
+}
 
 // Form groups
 //
@@ -191,13 +199,13 @@ select.form-control-lg {
 .form-row {
   display: flex;
   flex-wrap: wrap;
-  margin-right: -5px;
-  margin-left: -5px;
+  margin-right: -$form-grid-gutter-width / 2;
+  margin-left: -$form-grid-gutter-width / 2;
 
   > .col,
   > [class*="col-"] {
-    padding-right: 5px;
-    padding-left: 5px;
+    padding-right: $form-grid-gutter-width / 2;
+    padding-left: $form-grid-gutter-width / 2;
   }
 }
 
@@ -217,6 +225,8 @@ select.form-control-lg {
   margin-top: $form-check-input-margin-y;
   margin-left: -$form-check-input-gutter;
 
+  // Use [disabled] and :disabled for workaround https://github.com/twbs/bootstrap/issues/28247
+  &[disabled] ~ .form-check-label,
   &:disabled ~ .form-check-label {
     color: $text-muted;
   }
@@ -249,8 +259,9 @@ select.form-control-lg {
 // pseudo-classes but also includes `.is-invalid` and `.is-valid` classes for
 // server side validation.
 
-@include form-validation-state("valid", $form-feedback-valid-color);
-@include form-validation-state("invalid", $form-feedback-invalid-color);
+@each $state, $data in $form-validation-states {
+  @include form-validation-state($state, map-get($data, color), map-get($data, icon));
+}
 
 // Inline forms
 //
@@ -319,6 +330,7 @@ select.form-control-lg {
     }
     .form-check-input {
       position: relative;
+      flex-shrink: 0;
       margin-top: 0;
       margin-right: $form-check-input-margin-x;
       margin-left: 0;
