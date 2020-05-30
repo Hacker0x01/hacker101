@@ -8,8 +8,6 @@ author: HackerOne
 twitter_username: Hacker0x01
 github_username:  Hacker0x01
 
-repository: "Hacker0x01/hacker101"
-
 # Build settings
 plugins:
   - jekyll-sitemap
@@ -21,7 +19,13 @@ collections:
   resources:
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - update_boostrap.sh
+  [
+    .bundle,
+    CNAME,
+    Gemfile,
+    Gemfile.lock,
+    LICENSE,
+    node_modules,
+    README.md,
+    update_bootstrap.sh,
+  ]
