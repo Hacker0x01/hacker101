@@ -16,14 +16,14 @@ title: Videos
 </div>
 <div class="container-fluid pt-3">
   <div class="row">
-    <div class="col-sm-50 mb-4 pb-2 text-center text-white">
+    <div class="col-md-7 mb-4 pb-2 text-center text-white">
       <div class="mb-0">
         <h2 class="display-5">Latest Video</h2>
         <h2 class="display-5 text-white"><a href="sessions/native_code_crash_course">Native Code Crash Course</a></h2>
       </div>
       <iframe id="ytplayer" type="text/html" width="100%" height="400" src="https://www.youtube-nocookie.com/embed/NeeCfLNyTwo?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
     </div>
-    <div class="col-sm-28 mb-4 pb-2 border-left border-success">
+    <div class="col-md-4 mb-4 pb-2 border-left border-success">
       <h2 class="display-5">Playlists</h2>
       <ul>
         <li><a href="playlists/newcomers">Hacker101 for Newcomers</a></li>
