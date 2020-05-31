@@ -15,13 +15,13 @@
 
     {%- include footer.html -%}
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-49905813-8"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', 'UA-49905813-8');
+      gtag('config', '{{ site.google_analytics }}');
     </script>
   </body>
 </html>

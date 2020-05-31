@@ -1,11 +1,8 @@
 ---
-layout: page
-title: Android Hacking Resources
+title: Android hacking tools
 ---
 
-During [#AndroidHackingMonth](https://twitter.com/hashtag/AndroidHackingMonth) we asked the hacker community to send us their favorite Android hacking resources.
-
-
+This is a curated list of Android hacking tools and is not intended to be comprehensive; rather, we want to highlight the tools we find especially useful.
 
 ## Videos
 - [Hacker101 - Android Quickstart](https://www.youtube.com/watch?v=y0O3sCX9ftM)
@@ -13,14 +10,13 @@ During [#AndroidHackingMonth](https://twitter.com/hashtag/AndroidHackingMonth) w
 - [Hacker101: Common Android Bugs Pt. 1](https://www.youtube.com/watch?v=sQ_34dI_geU)
 - [Hacker101: Common Android Bugs Pt. 2](https://www.youtube.com/watch?v=tt1f4pcI0jo)
 - [Android Pentesting Video Playlist](https://www.youtube.com/playlist?list=PLgnrksnL_Rn09gGTTLgi-FL7HxPOoDk3R)
-- [Low Competition Bug Hunting (What to Learn) - ft. #AndroidHackingMonth](https://www.youtube.com/watch?v=Pkd_j31Jtfc&feature=youtu.be)
+- [Low Competition Bug Hunting (What to Learn) - ft. #AndroidHackingMonth](https://www.youtube.com/watch?v=Pkd_j31Jtfc)
 
 ## Blog Posts
 - [#Androidhackingmonth: Introduction to Android Hacking by @0xteknogeek](https://www.hackerone.com/blog/androidhackingmonth-intro-to-android-hacking)
 - [QA with Android Hacker: Bagipro](https://www.hackerone.com/blog/AndroidHackingMonth-qa-with-bagipro)
 - [Hacking SMS API Service Provider of a Company - Android App Static Security Analysis](https://blog.securitybreached.org/2020/02/19/hacking-sms-api-service-provider-of-a-company-android-app-static-security-analysis-bug-bounty-poc/)
 - [Getting Started in Android Apps Pen-testing (Part-1)](https://blog.securitybreached.org/2020/03/17/getting-started-in-android-apps-pentesting/)
-
 
 ## Example Reports
 - [Periscope android app deeplink leads to CSRF in follow action](https://hackerone.com/reports/583987)
