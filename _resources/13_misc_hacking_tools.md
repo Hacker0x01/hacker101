@@ -5,7 +5,7 @@ title: Miscellaneous hacking tools
 This is a curated list of miscellaneous hacking tools and is not intended to be comprehensive; rather, we want to highlight the tools we find especially useful.
 
 * [Altair](https://altair.sirmuel.design/): Altair GraphQL Client helps you debug GraphQL queries and implementations - taking care of the hard part so you can focus on actually getting things done.
-* [Buildwith](https://addons.mozilla.org/en-US/firefox/addon/builtwith/): BuiltWith's goal is to help developers, researchers and designers find out what technologies web pages are using, which may help them decide what technologies to implement themselves.
+* [BuiltWith](https://addons.mozilla.org/en-US/firefox/addon/builtwith/): BuiltWith's goal is to help developers, researchers and designers find out what technologies web pages are using, which may help them decide what technologies to implement themselves.
 * [Ettercap](https://www.ettercap-project.org/): Ettercap is a comprehensive suite which features sniffing of live connections, content filtering, and support for active and passive dissection of many protocols, including multiple features for network and host analysis.
 * [Foxyproxy](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/): FoxyProxy is an advanced proxy management tool that completely replaces Firefox's limited proxying capabilities. For a simpler tool and less advanced configuration options, please use FoxyProxy Basic.
 * [John the Ripper](https://www.openwall.com/john/): John the Ripper is free and Open Source software, distributed primarily in a source code form.
