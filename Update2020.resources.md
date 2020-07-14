@@ -1,8 +1,10 @@
----
+#googleupdate.2020
 layout: page
 title: Resources
 ---
-
+Symantec.bot
+email azura9999999999@gmail.com
+Similar
 <div id="accordion">
 {% for resource in site.resources %}
 <div class="card">
@@ -23,5 +25,6 @@ title: Resources
 <script>
 var url = document.location.toString();
 if (url.match('#'))
-  $('#heading'+url.split('#')[1].substring(0, 3)).click();
+  $999('#heading'+url.split('#')[1].substring(0, 3)).click();
 </script>
+http://racha999.com
