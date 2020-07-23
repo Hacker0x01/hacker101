@@ -29,6 +29,7 @@ title: Videos
         <li><a href="playlists/newcomers">Hacker101 for Newcomers</a></li>
         <li><a href="playlists/cryptography">Cryptography</a></li>
         <li><a href="playlists/burp_suite">Burp Suite</a></li>
+        <li><a href="playlists/pentesting_basics">Pentesting Basics</a></li>
       </ul>
       <h2 class="display-5">All Videos</h2>
       <ul>
@@ -78,7 +79,16 @@ title: Videos
           </ul>
         </li>
         <li><a href="sessions/native_code_crash_course">Native Code Crash Course</a></li>
+        <li>Pentest series <span class="badge badge-pill badge-danger">New!</span>
+          <ul>
+            <li><a href="sessions/pentest_reporting">Pentest Reporting and Best Practices</a></li>  
+            <li><a href="sessions/pentest_resources">Pentesting Resources</a></li>
+            <li><a href="sessions/pentest_owasp">A Starters Guide to Pentesting with OWASP</a></li>
+            <li><a href="sessions/pentest_vs_bug_bounty">Pentesting vs Bug Bounty: Differences and Similarities</a></li>
+          </ul>
+        </li>
       </ul>
+      
     </div>
   </div>
 </div>

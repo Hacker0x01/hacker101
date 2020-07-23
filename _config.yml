@@ -44,4 +44,5 @@ exclude:
     node_modules,
     README.md,
     update_bootstrap.sh,
+    vendor,
   ]
