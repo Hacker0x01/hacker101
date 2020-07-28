@@ -16,5 +16,5 @@ Video
 -----
 
 <div class="container">
-	<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/8NX3Z97ckAQ?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
+	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8NX3Z97ckAQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
