@@ -46,3 +46,5 @@ exclude:
     update_bootstrap.sh,
     vendor,
   ]
+
+# flag{git_sh!t_d0ne}
