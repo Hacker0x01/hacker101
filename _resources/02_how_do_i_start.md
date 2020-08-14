@@ -16,4 +16,4 @@ Congratulations on taking the first step to becoming a hacker! We recommend star
 * Linux
     * [Setting up your own web server](https://www.linux.com/learn/easy-lamp-server-installation): While not security-related in itself, this will teach you many of the commands and concepts you need to know to become a great hacker.
     * [Setting up Kali Linux on Virtualbox](https://linuxconfig.org/how-to-install-kali-linux-on-virtualbox): Kali is a hacking-oriented Linux distribution, used by many bug hunters. This guide will help you set it up in a virtual machine.
-    * [Command Line Guide](https://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything): You'll end up using many command-line tools as a hacker, so a familiarity with its structure and use is valuable.
+    * [Command Line Guide](https://lifehacker.com/a-command-line-primer-for-beginners-5633909?IR=T): You'll end up using many command-line tools as a hacker, so a familiarity with its structure and use is valuable.
