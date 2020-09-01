@@ -17,6 +17,7 @@ This is a curated list of Android hacking tools and is not intended to be compre
 - [QA with Android Hacker: Bagipro](https://www.hackerone.com/blog/AndroidHackingMonth-qa-with-bagipro)
 - [Hacking SMS API Service Provider of a Company - Android App Static Security Analysis](https://blog.securitybreached.org/2020/02/19/hacking-sms-api-service-provider-of-a-company-android-app-static-security-analysis-bug-bounty-poc/)
 - [Getting Started in Android Apps Pen-testing (Part-1)](https://blog.securitybreached.org/2020/03/17/getting-started-in-android-apps-pentesting/)
+- [CVE-2020-8913. Persistent arbitrary code execution in Android's Google Play Core Library: details, explanation and the PoC](https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/)
 
 ## Example Reports
 - [Periscope android app deeplink leads to CSRF in follow action](https://hackerone.com/reports/583987)
