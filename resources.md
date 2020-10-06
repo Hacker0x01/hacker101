@@ -25,3 +25,4 @@ var url = document.location.toString();
 if (url.match('#'))
   $('#heading'+url.split('#')[1].substring(0, 3)).click();
 </script>
+script securıty
