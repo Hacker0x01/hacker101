@@ -19,7 +19,9 @@ This is a curated list of web hacking tools and is not intended to be comprehens
 * [Dnscan](https://github.com/rbsec/dnscan): dnscan is a python wordlist-based DNS subdomain scanner
 * [Dnsgen](https://github.com/ProjectAnte/dnsgen): This tool generates a combination of domain names from the provided input. Combinations are created based on wordlist. Custom words are extracted per execution.
 * [Dnsprobe](https://github.com/projectdiscovery/dnsprobe): DNSProbe is a tool built on top of retryabledns that allows you to perform multiple dns queries of your choice with a list of user supplied resolvers.
+* [Domlock](https://github.com/ARPSyndicate/domlock): A utility for retrieving ASN related information for a domain. 
 * [EyeWitnees](https://github.com/FortyNorthSecurity/EyeWitness): EyeWitness is designed to take screenshots of websites, provide some server header info, and identify any default credentials. EyeWitness is designed to run on Kali Linux. It will auto detect the file you give it with the -f flag as either being a text file with URLs on each new line, nmap xml output, or nessus xml output. The --timeout flag is completely optional, and lets you provide the max time to wait when trying to render and screenshot a web page.
+* [Favinizer](https://github.com/ARPSyndicate/favinizer): A utility for fingerprinting applications running on webservers using favicons.
 * [Ffuf](https://github.com/ffuf/ffuf): A fast web fuzzer written in Go.
 * [Findomain](https://github.com/Edu4rdSHL/findomain): Findomain offers a dedicated monitoring service hosted in Amazon (only the local version is free), that allows you to monitor your target domains and send alerts to Discord and Slack webhooks or Telegram chats when new subdomains are found.
 * [Gau](https://github.com/lc/gau): getallurls (gau) fetches known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl for any given domain. Inspired by Tomnomnom's waybackurls.

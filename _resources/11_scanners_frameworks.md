@@ -6,6 +6,7 @@ This is a curated list of scanners and frameworks and is not intended to be comp
 
 * [Canvas](https://www.immunityinc.com/products/canvas/): CANVAS offers hundreds of exploits, an automated exploitation system, and a comprehensive, reliable exploit development framework to penetration testers and security professionals worldwide.
 * [IronWASP](https://resources.infosecinstitute.com/ironwasp-part-1-2/): IronWASP (Iron Web Application Advanced Security testing Platform) is an open source tool used for web application vulnerability testing. It is designed in such a way that users having the right knowledge can create their own scanners using this as a framework. IronWASP is built using Python and Ruby and users having knowledge of them would be able to make full use of the platform. However, IronWASP provides a lot of features that are simple to understand.
+* [Kenzer](https://github.com/ARPSyndicate/kenzer): A Zulip chatbot utilizing python & bash for automated web assets enumeration & scanning.
 * [Lazyrecon](https://github.com/nahamsec/lazyrecon): LazyRecon is a script written in Bash, intended to automate the tedious tasks of reconnaissance and information gathering. The information is organized in an html report at the end, which helps you identify next steps.
 * [Maltego](https://www.maltego.com/): Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 * [Metasploit](https://www.metasploit.com/): Metasploit is an open source penetration testing framework.
