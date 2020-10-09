@@ -8,8 +8,8 @@ In this session we talk about the class and introduce the instructor, Cody Broci
 What you'll learn
 -----------------
 
-- Required tools
-- Thinking like a breaker
+- Must-have tools
+- Breaker Mindset
 - Attacker-defender imbalance
 - Lightweight threat assessment and prioritization
 - How to write good bug reports
@@ -19,5 +19,5 @@ Video
 -----
 
 <div class="container">
-	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zPYfT9azdK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="320" src="https://www.youtube-nocookie.com/embed/zPYfT9azdK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
