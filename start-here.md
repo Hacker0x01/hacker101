@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Articles
+title: Start Here
 ---
 <div class="container-fluid pt-3">
   <div class="row">
@@ -18,7 +18,7 @@ title: Articles
         <li><a href="/resources/articles/writing_a_report_and_cvss">How to Write a Good Report and Use the CVSS Calculator</a></li>
         <li><a href="/resources/articles/asking_for_help">How and When to Ask for More Help</a></li> <br><br>
     <h2>Suggested Material</h2>
-        <li><a href="https://hackerone.com/hacktivity">HackerOne Hacktivity</a></li>
+        <li><a href="https://hackerone.com/hacktivity">Hacktivity</a></li>
         <li><a href="https://www.hackerone.com/blog/Introducing-Hacker101-CTF">Introducing Hacker101 CTF</a></li>
         <li><a href="/playlists/burp_suite">Hacker101: Find Flags, Get Private Invitations</a></li>
         <li><a href="/playlists/pentesting_series">Pentest Series</a></li>
