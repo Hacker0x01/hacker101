@@ -10,7 +10,7 @@ title: How to Write a Good Report and Use the CVSS Calculator
 
 When you are submitting a vulnerability report to a company, it is very important to be able to communicate your findings in a clear and concise manner, where the security or triage team receiving your report are able to reproduce it as quickly as possible. 
 
-- A well-written report, consists of: 
+A well-written report, consists of: 
 - A title describing the vulnerable site, endpoint, and the vulnerability type 
 - CWE & CVSS score describing the criticality of the vulnerability
 - Clear reproduction steps
@@ -27,7 +27,10 @@ Now that we have gotten that out of the way, let’s jump right into it!
 
 A good title helps security teams prioritize reports as they are making their way through their inbox. For example, a security team may prioritize a Remote Code Execution in their production site over a low impact CSRF on a marketing website. In addition to helping with prioritization, a good title helps security teams identify and search for possible duplicates faster because they are giving them all the information needed within the title of your report. 
 
-- The best way to come up with a title is to ask yourself “How do I describe this vulnerability in 140 characters or less”.  Include either the functionality or the vulnerable asset or endpoint, as well as the vulnerability type and its impact. Let’s look at a few examples of good report title: 
+- The best way to come up with a title is to ask yourself “How do I describe this vulnerability in 140 characters or less”.  Include either the functionality or the vulnerable asset or endpoint, as well as the vulnerability type and its impact. 
+
+Let’s look at a few examples of good report title: 
+
 - Stored XSS in profile.php via user’s signature on app.acme.org leads to account takeover when emailing other users
 - [Reflected XSS on https://e.mail.ru/compose/ via Body parameter](https://hackerone.com/reports/1000363)
 - [Remote Code Execution on kitcrm using bulk customer update of Priority Products](https://hackerone.com/reports/422944)
@@ -53,7 +56,9 @@ Attack Complexity describes the conditions beyond your control that must be met 
 
 #### Privileges Required  
 This metric indicates the type of privileges an attacker must achieve before successfully exploiting the vulnerability. This Score increases as fewer privileges are required. For example, if the vulnerable component is within an admin panel, we recommend setting the requirement to “High” versus a vulnerability where you need to be invited to an organization by an admin (where as self registration is not possible) we recommend privileges to be as low.
-User Interaction 
+
+#### User Interaction 
+
 This metric captures the requirement for a user, other than the attacker, to participate in the successful compromise of the vulnerable component. This metric determines whether the vulnerability can be exploited solely at the will of the attacker, or whether a separate user (or user-initiated process) must participate in some manner. The Score is highest when no user interaction is required since it increases a further step in the exploitability of the attack.
 
 #### Scope
