@@ -36,7 +36,7 @@ We encourage you to read the full [Code of Conduct](https://www.hackerone.com/po
 
 ## How does this benefit hackers? 
 
-By setting up minimum standards of community behavior, we can help hackers avoid foreseeable mistakes and to work better with programs. Building a better relationship with programs can also help hackers with their professional careers. Reinforcing valuable soft skills improves communication and interactions with security teams, and it is beneficial for everyone. We are proud to say that hackers have been employed by companies who run programs on HackerOne,. These hackers established professionalism and technical capability and are great examples of what’s possible.
+By setting up minimum standards of community behavior, we can help hackers avoid foreseeable mistakes and to work better with programs. Building a better relationship with programs can also help hackers with their professional careers. Reinforcing valuable soft skills improves communication and interactions with security teams, and it is beneficial for everyone. We are proud to say that hackers have been employed by companies who run programs on HackerOne. These hackers established professionalism and technical capability and are great examples of what’s possible.
 
 By having a Code of Conduct, we aim to have all hackers and members of the community to be treated fairly and equally, while being held liable by the same standards.
 
