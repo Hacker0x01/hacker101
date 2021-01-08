@@ -45,4 +45,4 @@ HackerOne also offers support for both its customers and hackers around the worl
 
 ## Suggested Articles:
 - [Understanding the HackerOne Code of Conduct](/resources/articles/code_of_conduct)
-- [How to Write a Good Report and Use the CVSS Calculator](/resources/articles/reports_and_cvss)
+- [How to Write a Good Report and Use the CVSS Calculator](/resources/articles/writing_a_report_and_cvss)
