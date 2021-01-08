@@ -8,7 +8,7 @@ title: Videos
     <div class="col">
       <h1 class="display-5 font-weight-normal">Video Lessons</h1>
       <p class="lead font-weight-normal">These videos will help you learn a diverse set of topics. If you want to see specifics of what a session covers, simply click its title.</p>
-      <a class="btn btn-success mb-2" href="resources#2">Not sure where to start? Click here!</a>
+      <a class="btn btn-success mb-2" href="https://www.hacker101.com/start-here">Not sure where to start? Click here!</a>
     </div>
     <div class="product-device box-shadow d-none d-md-block"></div>
     <div class="product-device product-device-2 box-shadow d-none d-md-block"></div>

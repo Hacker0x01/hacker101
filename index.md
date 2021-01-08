@@ -8,7 +8,7 @@ title: Home
     <div class="col">
       <h1 class="display-5 font-weight-normal">Hacker101</h1>
       <p class="lead font-weight-normal">{{ site.description }}</p>
-      <a class="btn btn-success mb-2" href="resources#2">New to hacking? Click here to get started!</a>
+      <a class="btn btn-success mb-2" href="https://www.hacker101.com/start-here">New to hacking? Click here to get started!</a>
     </div>
     <div class="product-device box-shadow d-none d-md-block"></div>
     <div class="product-device product-device-2 box-shadow d-none d-md-block"></div>
