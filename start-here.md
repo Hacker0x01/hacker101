@@ -21,7 +21,7 @@ title: Start Here
         <li><a href="https://www.hackerone.com/blog/Introducing-Hacker101-CTF">Introducing Hacker101 CTF</a></li>
         <li><a href="/playlists/burp_suite">Hacker101: Find Flags, Get Private Invitations</a></li>
         <li><a href="/playlists/pentesting_series">Pentest Series</a></li>
-        <li><a href="'playlists/web_hacking">Web Hacking</a></li>
+        <li><a href="/playlists/web_hacking">Web Hacking</a></li>
         <li><a href="/playlists/mobile_hacking">Mobile Hacking</a></li>
   </div>
 </div>
