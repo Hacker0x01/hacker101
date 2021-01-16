@@ -16,7 +16,7 @@ title: Start Here
         <li><a href="/resources/articles/code_of_conduct">Understanding HackerOne's Code of Conduct</a></li>
         <li><a href="/resources/articles/writing_a_report_and_cvss">How to Write a Good Report and Use the CVSS Calculator</a></li>
         <li><a href="/resources/articles/asking_for_help">How and When to Ask for More Help</a></li> <br><br>
-    <h2>Suggested Material</h2>
+    <h2>Suted Material</h2>
         <li><a href="https://hackerone.com/hacktivity">Hacktivity</a></li>
         <li><a href="https://www.hackerone.com/blog/Introducing-Hacker101-CTF">Introducing Hacker101 CTF</a></li>
         <li><a href="/playlists/burp_suite">Hacker101: Find Flags, Get Private Invitations</a></li>
