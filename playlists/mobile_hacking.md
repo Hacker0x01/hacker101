@@ -11,3 +11,8 @@ Lessons
 - [Android Quickstart](../sessions/android_quickstart)
 - [Common Android Bugs](../sessions/common_android_bugs)
 - [iOS Quickstart](../sessions/ios_quickstart)
+
+
+Workshops
+-----
+- [Android Hacking Workshop by B3nas](../sessions/android-hacking-b3nac)
