@@ -11,7 +11,7 @@ In our last articles, [“How to Write a Good Report and Use the CVSS Calculator
 ## Direct Communication on The Report
 As we discussed in “How to write a good report”, it’s very important to write a clear and concise report when submitting a vulnerability to HackerOne. This will help the receiving team to reproduce your submission quickly and will help them understand your submission. However, we understand that some vulnerabilities may be more complex than others, especially since you are communicating in writing (as opposed to a video or phone call where it’s easier to explain things).
 
-First and foremost, always give the triage or security teams enough time to validate or answer any additional questions you may. We typically recommend hackers to take a look at the response efficiency metrics shown on the right hand side of the program’s policy page. This will give you an estimate on how long the team typically takes to get back to a submission. 
+First and foremost, always give the triage or security teams enough time to validate or answer any additional questions you may. We typically recommend hackers to take a look at the response efficiency metrics shown on the right hand side of the program’s policy page. This will give you an estimate on how long the team typically takes to get back to a submission. Please do not spam reports for updates within a short period of time. You can always contact Mediation if you do not hear back from a member of the team within a reasonable amount of time.
 
 If you are following up with additional details or have a question for the receiving party, always make sure to tag the user in your comments (@username), so they get a notification that you have asked for their help directly. 
 
@@ -19,6 +19,17 @@ If you are following up with additional details or have a question for the recei
 As highlighted in our code of conduct, we also recommend to only use official channels, like the submission itself, or the email address (if any), provided within the policy page. This will help the security teams to keep track of their tasks or follow ups and minimizes the number of notifications they need to get back to.
 
 If you are not a native English speaker, try your best to respond to any questions or inquiries the security team may have for you and use tools like Google Translate to make this easier. If all fails, you are always welcome to also comment using your native language in hopes that someone on the receiving side will be able to translate or find someone that could help them, especially since HackerOne and their customers work with the global security community from different countries!
+
+### Emphatic capitalization & punctuation
+Behave professionally (this includes using respectful language on reports, refraining from spamming reports for updates, and avoiding the use of emphatic capitalization & punctuation). For example instead of these:
+
+🚫 Update NOW!!! PLEASE!
+🚫 WTF. This sucks. 
+
+Try these:
+
+✅ Would it be possible to get an update please?
+✅ I disagree with this. Can you please clarify or have another look?
 
 ## Requesting Mediation
 HackerOne offers mediation to help facilitate any miscommunication, concerns or disagreements between customers and hackers. Before requesting mediation, we highly recommend asking all relevant questions via the submission, to give the security or triage team a chance to explain their thought process. But let’s explore some of these scenarios and how to approach them.
