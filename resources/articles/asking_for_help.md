@@ -23,13 +23,13 @@ If you are not a native English speaker, try your best to respond to any questio
 ### Emphatic capitalization & punctuation
 Behave professionally (this includes using respectful language on reports, refraining from spamming reports for updates, and avoiding the use of emphatic capitalization & punctuation). For example instead of these:
 
-🚫 Update NOW!!! PLEASE!
-🚫 WTF. This sucks. 
+🚫 Update NOW!!! PLEASE! <br>
+🚫 WTF. This sucks. <br>
 
 Try these:
 
-✅ Would it be possible to get an update please?
-✅ I disagree with this. Can you please clarify or have another look?
+✅ Would it be possible to get an update please?<br>
+✅ I disagree with this. Can you please clarify or have another look? <br>
 
 ## Requesting Mediation
 HackerOne offers mediation to help facilitate any miscommunication, concerns or disagreements between customers and hackers. Before requesting mediation, we highly recommend asking all relevant questions via the submission, to give the security or triage team a chance to explain their thought process. But let’s explore some of these scenarios and how to approach them.
