@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: rahul
 ---
 
 <div class="container-fluid">
