@@ -2,10 +2,10 @@
 layout: default
 title: Start Here
 ---
-<div class="container-fluid pt-3">
+<div class="container-fluid pt-4">
   <div class="row">
-    <div class="col-md-7 mb-4 pb-2">
-      <div class="mb-0">
+    <div class="col-md-7 mb-4 pb-3">
+      <div class="mb-3">
         <h2 class="display-5">Getting Started</h2>
       </div>
       Welcome to Hacker101! This page is designed to help you get the most out of our content. If you are new to bug bounties and web hacking, we highly recommend checking out our <a href="/playlists/newcomers"> Newcomers Playlist </a> where we show you the basics of web applications, the hacker mentaility, and how to write a good report. In addition to the Newcomers Playlist, we recommend familiarizing yourself with <a href="/playlists/burp_suite"> Burp Suite</a>, learning the basics of <a href="/playlists/web_hacking"> Web Hacking </a>, and checking out "Report Writing, Communication Tips, and Community Guidelines" to learn how to utilizie the platform to better communicate with triage and security teams. <br>
