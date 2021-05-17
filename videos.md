@@ -29,13 +29,13 @@ title: Videos
         <li><a href="playlists/burp_suite">Burp Suite</a></li>
         <li><a href="playlists/pentesting_series">Pentest Series</a></li>
         <li><a href="playlists/web_hacking">Web Hacking</a></li>
-        <li><a href="playlists/mobile_hacking">Mobile Hacking</a></li>
-        <li><a href="playlists/hacktivitycon">H@cktivitycon</a> <span class="badge badge-pill badge-danger">New!</span></li>
+        <li><a href="playlists/mobile_hacking">Mobile Hacking</a><span class="badge badge-pill badge-danger">Updated!</span></li>
+        <li><a href="playlists/hacktivitycon">H@cktivitycon</a></li>
         <li><a href="playlists/cryptography">Cryptography</a></li>
       </ul>
       <h2> Hacker101's Picks </h2>
       <li><a href="/sessions/pentest_owasp">A Starters Guide to Pentesting with OWASP</a></li>
-      <li><a href="/sessions/javascript_for_hackers">JavaScript for Hackers</a> <span class="badge badge-pill badge-danger">New!</span></li>
+      <li><a href="/sessions/javascript_for_hackers">JavaScript for Hackers</a></li>
       <li><a href="/sessions/ssrf"> Server-Side Request Forgery</a></li>
       <li><a href="/sessions/mobile_crash_course">Mobile Hacking Crash Course</a></li>
     </div>

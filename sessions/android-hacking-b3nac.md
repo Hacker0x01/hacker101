@@ -3,8 +3,7 @@ layout: page
 title: Android Hacking Workshop By b3nac
 ---
 
-Check out this exclusive workshop hosted by [b3nac](https://twitter.com/b3nac) where he walks viewers through his approach when it comes down to Android hacking. He also demosntrate a handful of different technique using his vulnerable mobile application ["Injured Anroid"](https://github.com/B3nac/InjuredAndroid)
-
+Check out this exclusive workshop hosted by [b3nac](https://twitter.com/b3nac), where he walks viewers through his approach when it comes down to Android hacking. He also demosntrate a handful of different technique using his vulnerable mobile application ["Injured Android"](https://github.com/B3nac/InjuredAndroid).
 
 
 Video

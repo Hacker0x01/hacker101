@@ -20,7 +20,7 @@ As highlighted in our code of conduct, we also recommend to only use official ch
 
 If you are not a native English speaker, try your best to respond to any questions or inquiries the security team may have for you and use tools like Google Translate to make this easier. If all fails, you are always welcome to also comment using your native language in hopes that someone on the receiving side will be able to translate or find someone that could help them, especially since HackerOne and their customers work with the global security community from different countries!
 
-### Emphatic capitalization & punctuation
+### Emphatic Capitalization & Punctuation
 Behave professionally (this includes using respectful language on reports, refraining from spamming reports for updates, and avoiding the use of emphatic capitalization & punctuation). For example instead of these:
 
 🚫 Update NOW!!! PLEASE! <br>
