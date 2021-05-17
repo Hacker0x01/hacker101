@@ -14,4 +14,4 @@ Video
 </div>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 Congratulations! You have completed the Hacker101 iOS learning track! Now take this quiz and put your new skills to test!
-<center><br><a href="test"><button>Take the iOS Quiz</button></a></center>
+<center><br><a href="https://docs.google.com/forms/d/1HYzUGPx1AW85utk9q7ORSPWPCHMGJPCdOBmEH9QwgZM/"><button>Take the iOS Quiz</button></a></center>
