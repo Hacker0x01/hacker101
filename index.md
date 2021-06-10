@@ -3,83 +3,81 @@ layout: default
 title: Home
 ---
 
-<div class="bg-white">
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 py-4 align-self-center">
+      <h1 class="font-weight-bold">
+        LEARN TO HACK
+      </h1>
+      <p class="lead font-weight-normal my-3">
+        Hacker101 is a free class for web security. Whether you&#8217;re a
+        programmer with an interest in bug bounties or a seasoned security
+        professional, Hacker101 has something to teach you.
+      </p>
+      <a class="btn btn-primary" href="/resources#2">
+        Start Hacking!
+      </a>
+    </div>
+    <div class="col-md-5 offset-md-1 py-4">
+      <img src="/assets/learn-to-hack.jpg" class="img-fluid float-right rounded-lg" height="400" />
+    </div>
+  </div>
+</div>
+<div class="container-fluid bg-darker text-light">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 py-4 align-self-center">
-        <h1 class="font-weight-bold">
-          LEARN TO HACK
-        </h1>
-        <p class="lead font-weight-normal my-3">
-          Hacker101 is a free class for web security. Whether you&#8217;re a
-          programmer with an interest in bug bounties or a seasoned security
-          professional, Hacker101 has something to teach you.
+      <div class="col-md-5 py-4">
+        <h2 class="my-2">
+          <img src="/assets/flag.svg" class="mr-2" height="60">
+          <span class="align-middle my-2">Capture the Flag</span>
+        </h2>
+        <p class="lead my-3">
+          Put your skills into practice with CTF levels inspired by the real world
         </p>
-        <a class="btn btn-success" href="/resources#2">
-          Start Hacking!
+        <a href="https://ctf.hacker101.com/" class="btn btn-outline-secondary">
+          Check out CTF
         </a>
       </div>
       <div class="col-md-5 offset-md-1 py-4">
-        <img src="/assets/learn-to-hack.jpg" class="img-fluid float-right" height="400" />
-      </div>
-    </div>
-  </div>
-  <div class="container-fluid bg-light">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-5 py-4">
-          <h2 class="my-2">
-            <img src="/assets/flag.svg" class="mr-2" height="60">
-            <span class="align-middle my-2">Capture the Flag</span>
-          </h2>
-          <p class="lead my-3">
-            Put your skills into practice with CTF levels inspired by the real world
-          </p>
-          <a href="https://ctf.hacker101.com/" class="btn btn-outline-primary">
-            Check out CTF
-          </a>
-        </div>
-        <div class="col-md-5 offset-md-1 py-4">
-          <h2 class="my-2">
-            <img src="/assets/speaker.svg" class="mr-2" height="60">
-            <span class="align-middle my-2">Video Lessons</span>
-          </h2>
-          <p class="lead my-3">
-            Learn to hack with our free video lessons, guides, and resources
-          </p>
-          <a href="/videos" class="btn btn-outline-primary">
-            Explore free classes
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6 py-4">
-        <img src="/assets/ron-chan.jpg" class="img-fluid" height="400" />
-      </div>
-      <div class="col-md-6 py-4 align-self-center">
-        <h2 class="font-weight-bold">
-          MEET HACKER: RON CHAN
+        <h2 class="my-2">
+          <img src="/assets/speaker.svg" class="mr-2" height="60">
+          <span class="align-middle my-2">Video Lessons</span>
         </h2>
-        <h5>
-          From Hong Kong
-        </h5>
-        <p class="lead font-weight-normal my-3">
-          He just got $30K in a week for hacking on Airbnb&#8217;s public
-          <a href="https://hackerone.com/airbnb">#bugbounty program</a>!
+        <p class="lead my-3">
+          Learn to hack with our free video lessons, guides, and resources
         </p>
-        <blockquote class="blockquote text-success my-3">
-          <span class="position-absolute" style="left: 7px">&#8220;</span>
-          I learned everything about hacking from Hacker101. It is so
-          resourceful. I started with knowing nothing. Now I&#8217;m a hacker
-          full-time!&#8221;
-        </blockquote>
-        <a href="/resources#2" class="btn btn-outline-primary">
-          Learn like Ron!
+        <a href="/videos" class="btn btn-outline-secondary">
+          Explore free classes
         </a>
       </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 py-4">
+      <img src="/assets/ron-chan.jpg" class="img-fluid rounded-lg" height="400" />
+    </div>
+    <div class="col-md-6 py-4 align-self-center">
+      <h2 class="font-weight-bold">
+        MEET HACKER: RON CHAN
+      </h2>
+      <h5>
+        From Hong Kong
+      </h5>
+      <p class="lead font-weight-normal my-3">
+        He just got $30K in a week for hacking on Airbnb&#8217;s public
+        <a href="https://hackerone.com/airbnb">#bugbounty program</a>!
+      </p>
+      <blockquote class="blockquote text-success my-3">
+        <span class="position-absolute" style="left: 7px">&#8220;</span>
+        I learned everything about hacking from Hacker101. It is so
+        resourceful. I started with knowing nothing. Now I&#8217;m a hacker
+        full-time!&#8221;
+      </blockquote>
+      <a href="/resources#2" class="btn btn-outline-secondary">
+        Learn like Ron!
+      </a>
     </div>
   </div>
 </div>
