@@ -138,6 +138,38 @@ $transition-fade: opacity 0.15s linear;
 $transition-collapse: height 0.35s ease;
 
 // Fonts
+@font-face {
+  font-family: "Effra";
+  font-weight: 300;
+  font-style: normal;
+  src: url("../fonts/effra-light.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Effra";
+  font-weight: 400;
+  font-style: normal;
+  src: url("../fonts/effra-regular.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Effra";
+  font-weight: 500;
+  font-style: normal;
+  src: url("../fonts/effra-medium.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Effra";
+  font-weight: 600;
+  font-style: normal;
+  src: url("../fonts/effra-medium.woff") format("woff");
+  font-display: swap;
+}
+
 $font-family-sans-serif: "Effra", -apple-system, BlinkMacSystemFont, "Segoe UI",
   Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 $font-family-monospace: Consolas, "Liberation Mono", Courier, monospace;
@@ -181,7 +213,7 @@ $mark-padding: 0.2em;
 $dt-font-weight: $font-weight-bold;
 $kbd-box-shadow: inset 0 -0.1rem 0 rgba($black, 0.25);
 $nested-kbd-font-weight: $font-weight-bold;
-$list-inline-padding: 5px;
+$list-inline-padding: 0.5rem;
 $mark-bg: #fcf8e3;
 
 // Buttons
@@ -482,9 +514,9 @@ $toast-header-background-color: $toast-background-color !default;
 $toast-header-border-color: $toast-border-color !default;
 
 // Modals
-$modal-inner-padding: 15px;
-$modal-dialog-margin: 10px;
-$modal-dialog-margin-y-sm-up: 30px;
+$modal-inner-padding: 1rem;
+$modal-dialog-margin: 0.5rem;
+$modal-dialog-margin-y-sm-up: 1.75rem;
 $modal-title-line-height: $line-height-base;
 $modal-content-bg: $white;
 $modal-content-border-color: rgba($black, 0.2);
