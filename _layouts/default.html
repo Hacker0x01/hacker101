@@ -7,7 +7,7 @@
 
     {%- include header.html -%}
 
-    <main role="main" class="flex-grow-1 bg-light">
+    <main role="main" class="flex-grow-1 bg-black text-light">
       {{ content }}
     </main>
 
@@ -23,37 +23,27 @@
     </script>
     <script type="text/javascript">
       $(document).ready(function() {
-        var darkMode = localStorage.getItem('darkMode');
+        var darkModeOff = localStorage.getItem('darkModeOff');
 
-        var toggleDark = function() {
-          $("#mode-light").addClass("d-none");
-          $("#mode-dark").removeClass("d-none");
+        var toggleDarkMode = function() {
+          $("#mode-light,#mode-dark").toggleClass("d-none");
 
-          $("main .bg-light").addClass("bg-dark text-light").removeClass("bg-light");
-          $("main .bg-white").addClass("bg-black text-light").removeClass("bg-white");
+          $("main.bg-white,main.bg-black,main .bg-white,main .bg-black").toggleClass("bg-black text-light bg-white");
+          $("main .bg-light,main .bg-dark").toggleClass("bg-dark text-light bg-light");
+          $("main .bg-lighter,main .bg-darker").toggleClass("bg-darker text-light bg-lighter");
         };
 
-        var toggleLight = function() {
-          $("#mode-dark").addClass("d-none");
-          $("#mode-light").removeClass("d-none");
-
-          $("main .bg-dark").addClass("bg-light").removeClass("bg-dark text-light");
-          $("main .bg-black").addClass("bg-white").removeClass("bg-black text-light");
-        };
-
-        if (darkMode) {
-          toggleDark();
+        if (darkModeOff) {
+          toggleDarkMode();
         }
 
         $(".mode-toggle").click(function() {
-          if (localStorage.getItem('darkMode')) {
-            toggleLight();
+          toggleDarkMode();
 
+          if (localStorage.getItem('darkModeOff')) {
             localStorage.clear();
           } else {
-            toggleDark();
-
-            localStorage.setItem('darkMode', true);
+            localStorage.setItem('darkModeOff', true);
           }
         })
       });

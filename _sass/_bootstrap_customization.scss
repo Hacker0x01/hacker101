@@ -39,7 +39,7 @@
     }
   }
 
-  .bg-dark {
+  .bg-black {
     .btn-outline-#{$color} {
       &:hover {
         background: rgba(255, 255, 255, 0.05);
@@ -50,9 +50,46 @@
         background: rgba(255, 255, 255, 0.1);
       }
     }
+
+    .btn-outline-secondary {
+      color: $white;
+      border-color: $white;
+    }
+  }
+}
+
+.mode-toggle:hover {
+  filter:
+    brightness(0)
+    saturate(100%)
+    invert(91%)
+    sepia(23%)
+    saturate(6279%)
+    hue-rotate(335deg)
+    brightness(105%)
+    contrast(91%);
+}
+
+.bg-white {
+  background-color: $white !important;
+
+  a:not(.btn) {
+    color: $blue;
   }
 }
 
 .bg-black {
   background-color: $black !important;
+
+  a:not(.btn) {
+    color: $pink;
+  }
+}
+
+.bg-lighter {
+  background-color: $gray-300 !important;
+}
+
+.bg-darker {
+  background-color: $gray-850 !important;
 }
