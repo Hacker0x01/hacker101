@@ -19,7 +19,7 @@ title: Home
       </a>
     </div>
     <div class="col-md-5 offset-md-1 py-4">
-      <img src="/assets/learn-to-hack.jpg" class="img-fluid float-right rounded-lg" height="400" />
+      <img src="/assets/learn-to-hack.jpg" alt="Hackers collaborating" class="img-fluid float-right rounded-lg" height="400" />
     </div>
   </div>
 </div>
@@ -28,7 +28,7 @@ title: Home
     <div class="row">
       <div class="col-md-5 py-4">
         <h2 class="my-2">
-          <img src="/assets/flag.svg" class="mr-2" height="60">
+          <img src="/assets/flag.svg" alt="Flag" class="mr-2" height="60">
           <span class="align-middle my-2">Capture the Flag</span>
         </h2>
         <p class="lead my-3">
@@ -40,7 +40,7 @@ title: Home
       </div>
       <div class="col-md-5 offset-md-1 py-4">
         <h2 class="my-2">
-          <img src="/assets/speaker.svg" class="mr-2" height="60">
+          <img src="/assets/speaker.svg" alt="Speaker" class="mr-2" height="60">
           <span class="align-middle my-2">Video Lessons</span>
         </h2>
         <p class="lead my-3">
@@ -56,7 +56,7 @@ title: Home
 <div class="container">
   <div class="row">
     <div class="col-md-6 py-4">
-      <img src="/assets/ron-chan.jpg" class="img-fluid rounded-lg" height="400" />
+      <img src="/assets/ron-chan.jpg" alt="Hacker: Ron Chan" class="img-fluid rounded-lg" height="400" />
     </div>
     <div class="col-md-6 py-4 align-self-center">
       <h2 class="font-weight-bold">
