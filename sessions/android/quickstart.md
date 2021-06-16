@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Android Quickstart
+video_src: https://www.youtube-nocookie.com/embed/y0O3sCX9ftM
+next_url: common_android_bugs_1
+redirect_from:
+  - /sessions/android_quickstart
 ---
 
 In this session -- the second in a series of three on mobile hacking -- we discuss the structure of Android applications, recommended tools, setup details, and some handy tips for hacking Android apps.
@@ -35,10 +39,3 @@ What you'll learn
 	- [Disable certificate pinning](https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/)
 	- Look at intent filters
 		- [Great example report](https://hackerone.com/reports/283063)
-
-Video
------
-
-<div class="container">
-	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y0O3sCX9ftM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
