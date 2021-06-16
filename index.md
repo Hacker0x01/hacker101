@@ -6,10 +6,10 @@ title: Home
 <div class="container">
   <div class="row">
     <div class="col-md-6 py-4 align-self-center">
-      <h1 class="font-weight-bold">
+      <h1>
         LEARN TO HACK
       </h1>
-      <p class="lead font-weight-normal my-3">
+      <p class="lead my-3">
         Hacker101 is a free class for web security. Whether you&#8217;re a
         programmer with an interest in bug bounties or a seasoned security
         professional, Hacker101 has something to teach you.
@@ -59,13 +59,13 @@ title: Home
       <img src="/assets/ron-chan.jpg" alt="Hacker: Ron Chan" class="img-fluid rounded-lg" height="400" />
     </div>
     <div class="col-md-6 py-4 align-self-center">
-      <h2 class="font-weight-bold">
+      <h2>
         MEET HACKER: RON CHAN
       </h2>
-      <h5>
+      <span class="h5">
         From Hong Kong
-      </h5>
-      <p class="lead font-weight-normal my-3">
+      </span>
+      <p class="lead my-3">
         He just got $30K in a week for hacking on Airbnb&#8217;s public
         <a href="https://hackerone.com/airbnb">#bugbounty program</a>!
       </p>
