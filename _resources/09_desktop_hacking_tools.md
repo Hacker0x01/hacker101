@@ -1,5 +1,5 @@
 ---
-title: Desktop/embedded hacking tools
+title: Desktop / embedded hacking tools
 ---
 
 This is a curated list of hacking tools for native applications and embedded devices and is not intended to be comprehensive; rather, we want to highlight the tools we find especially useful.

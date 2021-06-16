@@ -1,16 +1,90 @@
 ---
 layout: default
 ---
-<article>
 
-  {%- if page.title -%}
-  <header>
-    <h1>{{ page.title | escape }}</h1>
-  </header>
-  {%- endif -%}
+<div class="container py-4">
+  <div class="row">
+    <div class="col-lg-8">
+      <article>
+        {%- if page.title -%}
+          <div class="row">
+            <header class="col-md-12 mb-4">
+              <h1 class="text-uppercase">{{ page.title | escape }}</h1>
+              <span class="h3 font-weight-light text-uppercase">{{ page.subtitle | escape }}</span>
+            </header>
+          </div>
+        {%- endif -%}
 
-  <section>
-    {{ content }}
-  </section>
+        <section>
+          {{ content }}
+        </section>
 
-</article>
+        {% if page.video_src %}
+          <h2 id="video">Video</h2>
+          <div class="embed-responsive embed-responsive-16by9">
+            {% if page.video_src contains "?" %}
+              {% assign symbol = "&" %}
+            {% else %}
+              {% assign symbol = "?" %}
+            {% endif %}
+            <iframe
+              id="ytplayer"
+              type="text/html"
+              src="{{ page.video_src }}{{ symbol }}rel=0&autoplay=0&origin={{ site.url }}"
+              frameborder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
+        {% endif %}
+        {% if page.previous_url or page.next_url %}
+          <hr />
+          {% if page.cta_description %}
+            <div class="mb-3">
+              {{ page.cta_description }}
+            </div>
+          {% endif %}
+          {% if page.previous_url %}
+            <a href="{{ page.previous_url }}" class="btn btn-outline-primary float-left">
+              {{ page.previous_text | default: "Previous video" }}
+            </a>
+          {% endif %}
+          {% if page.next_url %}
+            <a href="{{ page.next_url }}" class="btn btn-primary float-right">
+              {{ page.next_text | default: "Next video" }}
+            </a>
+          {% endif %}
+        {% endif %}
+      </article>
+    </div>
+    {% if page.sidebar %}
+      <div class="col-lg-4" id="sidebar">
+        <section>
+          {% for section in page.sidebar %}
+            {% if section.title %}
+              <div class="h5">{{ section.title }}</div>
+            {% endif %}
+            {% if section.subtitle %}
+              <div class="h6">{{ section.subtitle }}</div>
+            {% endif %}
+            {% if section.links %}
+              <ul>
+                {% for link in section.links %}
+                <li>
+                  <a href={{ link.url }}>{{ link.text }}</a>
+                  {% if link.updated %}
+                    <span class="badge badge-pill badge-secondary">Updated!</span>
+                  {% endif %}
+                </li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+            {% if section.resources %}
+              {% include resources_sidebar.html %}
+            {% endif %}
+          {% endfor %}
+        </section>
+      </div>
+    {% endif %}
+  </div>
+</div>

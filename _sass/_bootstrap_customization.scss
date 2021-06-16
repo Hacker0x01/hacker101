@@ -93,3 +93,60 @@
 .bg-darker {
   background-color: $gray-850 !important;
 }
+
+@include media-breakpoint-down(md) {
+  #sidebar {
+    border-top: $border-width solid $black;
+    margin-top: 1em;
+    padding-top: 0.75em;
+  }
+
+  .bg-black {
+    #sidebar {
+      border-top: $border-width solid $gray-800;
+    }
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  #sidebar {
+    border-left: $border-width solid $black;
+  }
+
+  .bg-black {
+    #sidebar {
+      border-left: $border-width solid $gray-800;
+    }
+  }
+}
+
+article {
+  img {
+    width: 100%;
+  }
+}
+
+main {
+  code {
+    color: $gray-200;
+    background-color: $gray-800;
+    border-radius: 0.25em;
+    border: $border-width solid $gray-500;
+    padding: 0.1em;
+  }
+
+  h2,
+  h3 {
+    &not:first-child {
+      margin-top: 0.75em;
+    }
+  }
+
+  hr {
+    border-radius: 1px;
+    border-width: 0;
+    height: 2px;
+    color: gray;
+    background-color: gray;
+  }
+}
