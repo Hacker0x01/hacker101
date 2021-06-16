@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Native Code Crash Course
+video_src: https://www.youtube-nocookie.com/embed/NeeCfLNyTwo
 ---
 
 In this session we're diving head-first into understanding and hacking native code.  This is an extremely advanced topic, but by the time you are done with this video, you will have a great head start on the subject.  You'll learn about the fundamentals of how computers work, several types of memory corruption bugs, the protections in use by modern systems, and how to bypass some of these protections.
@@ -133,10 +134,3 @@ Resources
 	- [Splitting atoms in XNU](https://googleprojectzero.blogspot.com/2019/04/splitting-atoms-in-xnu.html)
 	- [voucher_swap: Exploiting MIG reference counting in iOS 12](https://googleprojectzero.blogspot.com/2019/01/voucherswap-exploiting-mig-reference.html)
 	- [Technical Analysis of the Pegasus Exploits on iOS](https://info.lookout.com/rs/051-ESQ-475/images/pegasus-exploits-technical-details.pdf)
-
-Video
------
-
-<div class="container">
-	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NeeCfLNyTwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
