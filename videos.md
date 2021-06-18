@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Video Lessons
+video_src: https://www.youtube-nocookie.com/embed/FTeE3OrTNoA
 sidebar:
   - title: "Learning Tracks"
     links:
@@ -37,6 +38,5 @@ These videos will help you learn a diverse set of topics. If you want to see spe
   Not sure where to start? Click here!
 </a>
 
-## [Featured Video](/sessions/javascript_for_hackers)
-
-<iframe id="ytplayer" type="text/html" width="100%" height="400" src="https://www.youtube-nocookie.com/embed/FTeE3OrTNoA?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Featured Lesson
+Check out [JavaScript for Hackers by STÖK](/sessions/javascript_for_hackers)!
