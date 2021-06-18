@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction
-video_src: https://www.youtube-nocookie.com/embed/zPYfT9azdK8?rel=0&autoplay=0&origin={{ site.url }}
+video_src: https://www.youtube-nocookie.com/embed/zPYfT9azdK8
 ---
 
 In this session we talk about the class and introduce the instructor, Cody Brocious, then jump into the mind of a breaker and talk about how you can take the things you learn in this class and apply them to real situations.

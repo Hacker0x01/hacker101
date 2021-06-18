@@ -7,7 +7,7 @@ This learning track is dedicated to learning the most popular mobile vulnerabili
 
 <div class="row">
   <div class="col-md-6">
-    <h2>Android Hacking</h2>
+    <h2>The Basics</h2>
 
     <hr />
 
@@ -15,14 +15,23 @@ This learning track is dedicated to learning the most popular mobile vulnerabili
       <li>
         <a href="../sessions/mobile_crash_course">Mobile Hacking Crash Course</a>
       </li>
+    </ul>
+  </div>
+
+  <div class="col-md-6">
+    <h2>Android Hacking</h2>
+
+    <hr />
+
+    <ul>
       <li>
-        <a href="../sessions/android_quickstart">Android Quickstart</a>
+        <a href="../sessions/android/quickstart">Android Quickstart</a>
       </li>
       <li>
-        <a href="../sessions/common_android_bugs_1">Common Android Bugs (Part 1)</a>
+        <a href="../sessions/android/common_android_bugs_1">Common Android Bugs (Part 1)</a>
       </li>
       <li>
-        <a href="../sessions/common_android_bugs_2">Common Android Bugs (Part 2)</a>
+        <a href="../sessions/android/common_android_bugs_2">Common Android Bugs (Part 2)</a>
       </li>
     </ul>
 
@@ -30,7 +39,7 @@ This learning track is dedicated to learning the most popular mobile vulnerabili
 
     <ul>
       <li>
-        <a href="../sessions/android-hacking-b3nac">Android Hacking Workshop by B3nac</a>
+        <a href="../sessions/android/hacking_workshop_b3nac">Android Hacking Workshop by B3nac</a>
       </li>
     </ul>
   </div>

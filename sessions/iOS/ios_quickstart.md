@@ -2,6 +2,7 @@
 layout: page
 title: iOS Quickstart
 video_src: https://www.youtube-nocookie.com/embed/c4M8sd9lcFU
+previous_url: ../android/common_android_bugs_2
 next_url: application_basics
 ---
 
@@ -21,7 +22,7 @@ What you'll learn
 	- Xcode
 	- [bfinject](https://github.com/BishopFox/bfinject)
 	- [cycript](http://www.cycript.org/)
-	- [Frida](https://www.frida.re/)
+	- [Frida](https://frida.re/)
 	- [Cydia Impactor](http://www.cydiaimpactor.com/)
 	- [Hopper](https://www.hopperapp.com/)
 	- [SSL Kill Switch 2](https://github.com/nabla-c0d3/ssl-kill-switch2)

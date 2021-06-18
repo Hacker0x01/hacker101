@@ -16,6 +16,6 @@ What you'll learn
 	- Determining block size
 	- Determining data offset
 - Detecting and exploiting padding oracles
-	- [Padbuster](https://github.com/GDSSecurity/PadBuster)
+	- [Padbuster](https://github.com/AonCyberLabs/PadBuster)
 - General advice
 - [Cryptopals challenges](https://cryptopals.com/) will take you to the next level

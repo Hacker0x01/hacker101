@@ -2,6 +2,7 @@
 layout: page
 title: Android Quickstart
 video_src: https://www.youtube-nocookie.com/embed/y0O3sCX9ftM
+previous_url: ../mobile_crash_course
 next_url: common_android_bugs_1
 redirect_from:
   - /sessions/android_quickstart
@@ -23,8 +24,8 @@ What you'll learn
 	- [Genymotion](https://www.genymotion.com/)
 	- [apktool](https://ibotpeaches.github.io/Apktool/)
 	- [dex2jar](https://github.com/pxb1988/dex2jar)
-	- [JD-GUI](http://jd.benow.ca)
-	- [Frida](https://www.frida.re/)
+	- [JD-GUI](https://java-decompiler.github.io/)
+	- [Frida](https://frida.re/)
 - Setting up your proxy
 	- Instructions for emulator
 	- Instructions for physical devices
@@ -36,6 +37,6 @@ What you'll learn
 	- Decompile the whole thing to a directory and use an external editor
 - Testing tips
 	- Use `adb logcat` to view system and application logs
-	- [Disable certificate pinning](https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/)
+	- [Disable certificate pinning](https://www.netspi.com/blog/technical/mobile-application-penetration-testing/four-ways-bypass-android-ssl-verification-certificate-pinning)
 	- Look at intent filters
 		- [Great example report](https://hackerone.com/reports/283063)

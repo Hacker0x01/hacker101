@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Mobile Hacking Crash Course
+video_src: https://www.youtube-nocookie.com/embed/hKF89TXttnw
+next_url: android/quickstart
 ---
 
 In this session -- the first in a series of three on mobile hacking -- we begin with some fundamentals of mobile apps and discuss testing methodology.
@@ -27,10 +29,3 @@ What you'll learn
 	- Insecure data storage
 	- Insufficient crypto
 	- Confidential data in app switcher
-
-Video
------
-
-<div class="container">
-	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hKF89TXttnw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>

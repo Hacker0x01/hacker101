@@ -70,7 +70,7 @@ Resources
 		- [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools)
 		- [OllyDbg](http://www.ollydbg.de/)
 	- Disassemblers/Decompilers
-		- [IDA Pro](https://www.hex-rays.com/products/ida/)
+		- [IDA Pro](https://hex-rays.com/ida-pro/)
 		- [Hopper](https://www.hopperapp.com/)
 		- [Binary Ninja](https://binary.ninja/)
 		- [Ghidra](https://www.nsa.gov/resources/everyone/ghidra/)
@@ -88,7 +88,7 @@ Resources
 		- [QEMU](https://www.qemu.org/)
 		- [Unicorn](https://www.unicorn-engine.org/)
 	- Fuzzers
-		- [afl](http://lcamtuf.coredump.cx/afl/)
+		- [afl](https://lcamtuf.coredump.cx/afl/)
 		- [libFuzzer](https://llvm.org/docs/LibFuzzer.html)
 	- Instrumentation
 		- [Valgrind](http://valgrind.org/)
