@@ -1,14 +1,20 @@
 <footer class="flex-shrink-0 bg-dark py-3">
-  <div class="container">
-    <a href="https://www.hackerone.com/start-hacking" class="text-light mr-4">
+  <div class="container d-flex justify-content-between">
+    <a href="https://www.hackerone.com/start-hacking" class="text-light d-flex align-items-center">
       <img src="/assets/logo_h1.png" alt="Start hacking on HackerOne" width="16" height="30" class="mr-3">
       Powered by HackerOne
     </a>
-    <a href="https://twitter.com/Hacker0x01">
-      <img src="/assets/twitter.png" alt="Follow us on Twitter" width="30" height="30" class="mr-4">
-    </a>
-    <a href="https://github.com/Hacker0x01/hacker101">
-      <img src="/assets/github.png" alt="Contribute on GitHub" width="30" height="30">
-    </a>
+    <div>
+      <a href="{{ site.github.repository_url }}/edit/master/{{ page.path }}"
+        class="text-light mr-2 d-none d-md-inline">
+        Edit this page
+      </a>
+      <a href="{{ site.github.repository_url }}">
+        <img src="/assets/github.png" alt="Contribute on GitHub" width="30" height="30" class="mr-3">
+      </a>
+      <a href="https://twitter.com/Hacker0x01">
+        <img src="/assets/twitter.png" alt="Follow us on Twitter" width="30" height="30">
+      </a>
+    </div>
   </div>
 </footer>
