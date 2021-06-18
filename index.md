@@ -53,31 +53,3 @@ title: Home
     </div>
   </div>
 </div>
-<div class="container">
-  <div class="row">
-    <div class="col-md-6 py-4">
-      <img src="/assets/ron-chan.jpg" alt="Hacker: Ron Chan" class="img-fluid rounded-lg" height="400" />
-    </div>
-    <div class="col-md-6 py-4 align-self-center">
-      <h2>
-        MEET HACKER: RON CHAN
-      </h2>
-      <span class="h5">
-        From Hong Kong
-      </span>
-      <p class="lead my-3">
-        He just got $30K in a week for hacking on Airbnb&#8217;s public
-        <a href="https://hackerone.com/airbnb">#bugbounty program</a>!
-      </p>
-      <blockquote class="blockquote text-success my-3">
-        <span class="position-absolute" style="left: 7px">&#8220;</span>
-        I learned everything about hacking from Hacker101. It is so
-        resourceful. I started with knowing nothing. Now I&#8217;m a hacker
-        full-time!&#8221;
-      </blockquote>
-      <a href="/start-here" class="btn btn-outline-secondary">
-        Learn like Ron!
-      </a>
-    </div>
-  </div>
-</div>
