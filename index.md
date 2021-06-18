@@ -27,7 +27,7 @@ title: Home
   <div class="container">
     <div class="row">
       <div class="col-md-5 py-4">
-        <h2 class="my-2">
+        <h2 class="my-2 d-flex align-items-center">
           <img src="/assets/flag.svg" alt="Flag" class="mr-2" height="60">
           <span class="align-middle my-2">Capture the Flag</span>
         </h2>
@@ -39,7 +39,7 @@ title: Home
         </a>
       </div>
       <div class="col-md-5 offset-md-1 py-4">
-        <h2 class="my-2">
+        <h2 class="my-2 d-flex align-items-center">
           <img src="/assets/speaker.svg" alt="Speaker" class="mr-2" height="60">
           <span class="align-middle my-2">Video Lessons</span>
         </h2>
