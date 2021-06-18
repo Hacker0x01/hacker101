@@ -1,6 +1,10 @@
 ---
 layout: page
-title: Burp 201 - Maximizing Burp
+title: Burp 201
+subtitle: Maximizing Burp
+video_src: https://www.youtube-nocookie.com/embed/bHTxJIC_jGI
+previous_url: burp101
+next_url: burp301
 ---
 
 This is the second in a series of 3 sessions on Burp Suite.  In this session we'll talk about how you can use some advanced features of Burp to make your life easier and find better bugs.
@@ -23,10 +27,3 @@ What you'll learn
 	- CSRF proof of concept generation
 	- Invisible proxying
 	- Client-side certificates
-
-Video
------
-
-<div class="container">
-	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bHTxJIC_jGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>

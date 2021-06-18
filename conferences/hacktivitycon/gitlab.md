@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The journey of finding and exploiting a bug in GitLab
+video_src: https://www.youtube-nocookie.com/embed/jBPYfN_uuRw
 ---
 
 Speaker 
@@ -10,11 +11,3 @@ William Bowling (@vakzz) is a full time Software Developer and long time CTF pla
 Abstract
 -----------------
 A short talk about how vakzz got started doing Bug Bounties and a look at the process he went through to find a critical issue in GitLab.
-
-
-Video
------
-
-<div class="container">
-	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jBPYfN_uuRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>

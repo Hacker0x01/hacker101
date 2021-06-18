@@ -1,5 +1,5 @@
 ---
-title: Datasets / Freemium services
+title: Datasets / freemium services
 ---
 
 This is a curated list of datasets and freemium services and is not intended to be comprehensive; rather, we want to highlight the tools we find especially useful.

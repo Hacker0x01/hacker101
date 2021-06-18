@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Burp 101 - Getting Started
+title: Burp 101
+subtitle: Getting Started
+video_src: https://www.youtube-nocookie.com/embed/LSqC9qgEMi0
+next_url: burp201
 ---
 
 This is the first in a series of 3 sessions on Burp Suite.  In this session we'll talk about how to get started with Burp and to make the most of its powerful tools.
@@ -34,10 +37,3 @@ What you'll learn
 - Using Decoder
 	- Decoding data from a request
 	- Encoding and hashing data
-
-Video
------
-
-<div class="container">
-	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LSqC9qgEMi0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>

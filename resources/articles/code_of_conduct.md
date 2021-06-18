@@ -1,10 +1,14 @@
 ---
-layout: default
+layout: page
 title: Understanding the HackerOne Code of Conduct
+sidebar:
+  - title: Suggested Articles
+    links:
+      - text: How to Write a Good Report and Use the CVSS Calculator
+        url: /resources/articles/writing_a_report_and_cvss
+      - text: How and When to Ask for More Help
+        url: /resources/articles/asking_for_help
 ---
-
-# Understanding the HackerOne Code of Conduct
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## What is a Code of Conduct?
 
@@ -67,9 +71,3 @@ Investigate fully so HackerOne understands what did (and did not) happen. Hacker
 - Repercussions: If HackerOne determines the Hacker has violated the Code of Conduct and/or any Rules of Engagement, there will be disciplinary actions depending on the severity and HackerOne’s assessment of intent. Repercussions depend on the severity of the violation and can include temporary bans or permanent bans from HackerOne programs, HackerOne Clear and Clear programs, HackerOne Pentest and/or the platform.
 
 - Statutory timeline of warnings: When a warning is issued in accordance with the Code of Conduct, HackerOne considers that warning to be applicable for 12 months. Warnings which are over 12 months old expire and are not typically assessed when reviewing the severity of new enforcement actions.
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-## Suggested Articles:
-- [How to Write a Good Report and Use the CVSS Calculator](/resources/articles/writing_a_report_and_cvss)
-- [How and When to Ask for More Help](/resources/articles/asking_for_help)

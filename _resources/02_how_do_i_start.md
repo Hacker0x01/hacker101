@@ -14,6 +14,6 @@ Congratulations on taking the first step to becoming a hacker! We recommend star
     * [Common Port Numbers](https://www.utilizewindows.com/list-of-common-network-port-numbers/): A useful list of common port numbers and the associated services.
 
 * Linux
-    * [Setting up your own web server](https://www.linux.com/learn/easy-lamp-server-installation): While not security-related in itself, this will teach you many of the commands and concepts you need to know to become a great hacker.
+    * [Setting up your own web server](https://www.linux.com/training-tutorials/easy-lamp-server-installation): While not security-related in itself, this will teach you many of the commands and concepts you need to know to become a great hacker.
     * [Setting up Kali Linux on Virtualbox](https://linuxconfig.org/how-to-install-kali-linux-on-virtualbox): Kali is a hacking-oriented Linux distribution, used by many bug hunters. This guide will help you set it up in a virtual machine.
     * [Command Line Guide](https://lifehacker.com/a-command-line-primer-for-beginners-5633909?IR=T): You'll end up using many command-line tools as a hacker, so a familiarity with its structure and use is valuable.

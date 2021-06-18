@@ -1,17 +1,15 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html class="bg-dark" lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
 
-  <body>
+  <body class="d-flex flex-column vh-100">
 
     {%- include header.html -%}
 
-    <div class="py-5">
-      <div class="container page-content">
-          {{ content }}
-      </div>
-    </div>
+    <main role="main" class="flex-grow-1 bg-black text-light">
+      {{ content }}
+    </main>
 
     {%- include footer.html -%}
 
@@ -23,5 +21,6 @@
 
       gtag('config', '{{ site.google_analytics }}');
     </script>
+    <script async src="/assets/javascript/dark-mode.js"></script>
   </body>
 </html>

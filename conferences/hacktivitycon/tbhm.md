@@ -1,9 +1,9 @@
 ---
 layout: page
 title:  The Bug Hunter's Methodology v4
+subtitle: Recon Edition
+video_src: https://www.youtube-nocookie.com/embed/qLTe6Z10vj8
 ---
-
-<h2> Recon Edition </h2><br>
 
 Speaker 
 -----------------
@@ -12,10 +12,3 @@ Jason is the Head of Security for a leading videogame production company. Previo
 Abstract
 -----------------
 The Bug Hunter's Methodology is an ongoing yearly installment on the newest tools and techniques for bug hunters and red teamers. This version explores both common and lesser-known techniques to find assets for a target. The topics discussed will look at finding a targets main seed domains, subdomains, IP space, and discuss cutting edge tools and automation for each topic. By the end of this session a bug hunter or redteamer we will be able to discover and multiply their attack surface. We also discuss several vulnerabilities and misconfigurations related to the recon phase of assessment.
-
-Video
------
-
-<div class="container">
-	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qLTe6Z10vj8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>

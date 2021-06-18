@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Native Code Crash Course
+video_src: https://www.youtube-nocookie.com/embed/NeeCfLNyTwo
 ---
 
 In this session we're diving head-first into understanding and hacking native code.  This is an extremely advanced topic, but by the time you are done with this video, you will have a great head start on the subject.  You'll learn about the fundamentals of how computers work, several types of memory corruption bugs, the protections in use by modern systems, and how to bypass some of these protections.
@@ -69,7 +70,7 @@ Resources
 		- [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools)
 		- [OllyDbg](http://www.ollydbg.de/)
 	- Disassemblers/Decompilers
-		- [IDA Pro](https://www.hex-rays.com/products/ida/)
+		- [IDA Pro](https://hex-rays.com/ida-pro/)
 		- [Hopper](https://www.hopperapp.com/)
 		- [Binary Ninja](https://binary.ninja/)
 		- [Ghidra](https://www.nsa.gov/resources/everyone/ghidra/)
@@ -87,7 +88,7 @@ Resources
 		- [QEMU](https://www.qemu.org/)
 		- [Unicorn](https://www.unicorn-engine.org/)
 	- Fuzzers
-		- [afl](http://lcamtuf.coredump.cx/afl/)
+		- [afl](https://lcamtuf.coredump.cx/afl/)
 		- [libFuzzer](https://llvm.org/docs/LibFuzzer.html)
 	- Instrumentation
 		- [Valgrind](http://valgrind.org/)
@@ -133,10 +134,3 @@ Resources
 	- [Splitting atoms in XNU](https://googleprojectzero.blogspot.com/2019/04/splitting-atoms-in-xnu.html)
 	- [voucher_swap: Exploiting MIG reference counting in iOS 12](https://googleprojectzero.blogspot.com/2019/01/voucherswap-exploiting-mig-reference.html)
 	- [Technical Analysis of the Pegasus Exploits on iOS](https://info.lookout.com/rs/051-ESQ-475/images/pegasus-exploits-technical-details.pdf)
-
-Video
------
-
-<div class="container">
-	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NeeCfLNyTwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>

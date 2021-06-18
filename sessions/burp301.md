@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Burp 301 - Burp Hacks for Bounty Hunters
+title: Burp 301
+subtitle: Burp Hacks for Bounty Hunters
+video_src: https://www.youtube-nocookie.com/embed/boHIjDHGmIo
+previous_url: burp201
 ---
 
 This is the final video in a series of 3 sessions on Burp Suite.  In this session we'll talk about how to get the absolute most out of Burp Suite as a bug bounty hunter.
@@ -22,10 +25,3 @@ What you'll learn
 	- Minimizing RAM and processor loads
 	- Shrinking project files on disk
 - What to do when things go wrong
-
-Video
------
-
-<div class="container">
-	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/boHIjDHGmIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
