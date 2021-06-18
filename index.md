@@ -14,7 +14,7 @@ title: Home
         programmer with an interest in bug bounties or a seasoned security
         professional, Hacker101 has something to teach you.
       </p>
-      <a class="btn btn-primary" href="/resources#2">
+      <a class="btn btn-primary" href="/start-here">
         Start Hacking!
       </a>
     </div>
@@ -75,7 +75,7 @@ title: Home
         resourceful. I started with knowing nothing. Now I&#8217;m a hacker
         full-time!&#8221;
       </blockquote>
-      <a href="/resources#2" class="btn btn-outline-secondary">
+      <a href="/start-here" class="btn btn-outline-secondary">
         Learn like Ron!
       </a>
     </div>
