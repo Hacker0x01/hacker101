@@ -49,6 +49,11 @@ title: Home
         <a href="/videos" class="btn btn-outline-secondary">
           Explore free classes
         </a>
+        <div>
+          <label>contact</label>
+          <textarea></textarea>
+        </div>
+    
       </div>
     </div>
   </div>
