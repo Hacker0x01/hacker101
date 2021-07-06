@@ -129,7 +129,7 @@ This metric measures the impact to the availability of the impacted component re
 - **Privileges Required:**  `Low` the attacker needs to be logged in to perform the attack <br>
 - **User Interaction:** `None` as this is solely a server side issue <br>
 - **Scope:** `Unchanged` the impacted and the vulnerable component are the same i.e. the web server <br>
-- **Confidentiality:**  `High` becaus it gives access to PII <br>
+- **Confidentiality:**  `High` because it gives access to PII <br>
 - **Integrity:** `High` because the attacker can delete/modify data <br>
 - **Availability:** `None` because the application can still be used by the victims <br>
 
