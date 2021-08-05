@@ -1,9 +1,16 @@
 ---
 layout: page
 title: Resources
-sidebar:
-  - title: Jump to
-    resources: true
+---
+
+<ul>
+  {% for resource in site.resources %}
+    <li>
+      <a href="/resources#{{ resource.title | url_encode }}">{{ resource.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ---
 
 {% for resource in site.resources %}
