@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Video Lessons
-video_src: https://www.youtube-nocookie.com/embed/FTeE3OrTNoA
 sidebar:
   - title: "Learning Tracks"
     links:
@@ -15,7 +14,6 @@ sidebar:
         url: /playlists/web_hacking
       - text: "Mobile Hacking"
         url: /playlists/mobile_hacking
-        updated: true
       - text: "H@cktivitycon"
         url: /playlists/hacktivitycon
       - text: "Cryptography"
@@ -30,6 +28,9 @@ sidebar:
         url: /sessions/ssrf
       - text: "Mobile Hacking Crash Course"
         url: /sessions/mobile_crash_course
+      - text: Introduction to Docker Hacking 
+        updated: true
+        url: /sessions/docker_hacking
 ---
 
 These videos will help you learn a diverse set of topics. If you want to see specifics of what a session covers, simply click its title.
@@ -40,3 +41,4 @@ These videos will help you learn a diverse set of topics. If you want to see spe
 
 ## Featured Lesson
 Check out [JavaScript for Hackers by STÖK](/sessions/javascript_for_hackers)!
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FTeE3OrTNoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
