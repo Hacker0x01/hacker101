@@ -4,7 +4,7 @@ title:  Graphing Out Internal Networks with CVE-2020-13379 (Unauthed Grafana SSR
 video_src: https://www.youtube-nocookie.com/embed/NWHOmYbLrZ0
 ---
 
-Speaker 
+About the Speaker  
 -----------------
 Justin Gardner is a full-time bug bounty hunter based near Tokyo, Japan. His focus in the security space is on web vulnerabilities and automated reconnaissance as pertains to bug bounty hunting. Before bug bounty hunting full-time, Justin was held various roles in IT ranging from software developer to IT architect, as well as consulting as a penetration tester with SynerComm for 2 years. Outside of security, Justin loves Jesus, spending time with his wife Mariah, volleyball, learning languages, and Brazilian jiu-jitsu.
 

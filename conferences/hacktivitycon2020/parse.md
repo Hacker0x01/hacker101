@@ -6,7 +6,7 @@ video_src: https://www.youtube-nocookie.com/embed/pKjGlo2TkSk
 ---
 
 
-Speaker 
+About the Speaker  
 ---
 healdb is a 23 year old MS CS student and currently in his last semester at RIT. He has been participating in bug bounty programs for the past three years and has been making infosec content on his blog. Healdb loves bug bounties, and has been able to pay for his entire CS MS degree with the proceeds from his findings!
 

@@ -4,7 +4,7 @@ title: How I got from 0 to MVH
 video_src: https://www.youtube-nocookie.com/embed/M48hOtExUII
 ---
 
-Speaker 
+About the Speaker 
 -----------------
 STÖK is a hacker, content creator, and creative with 25 years as a professional in Information Technology. STÖK is not only dedicated to bring excellent content and share new techniques to the red-team and bounty community but also strives to inspire the next generation of hackers to enter the infosec space.
 

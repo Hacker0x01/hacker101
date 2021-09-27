@@ -15,6 +15,7 @@ sidebar:
       - text: "Mobile Hacking"
         url: /playlists/mobile_hacking
       - text: "H@cktivitycon"
+        updated: true
         url: /playlists/hacktivitycon
       - text: "Cryptography"
         url: /playlists/cryptography
@@ -29,7 +30,6 @@ sidebar:
       - text: "Mobile Hacking Crash Course"
         url: /sessions/mobile_crash_course
       - text: Introduction to Docker Hacking 
-        updated: true
         url: /sessions/docker_hacking
 ---
 
