@@ -16,10 +16,12 @@ In the spirit of the holidays, all participants (anyone who submits at least a f
 
 In addition to private program invitations, we have **$7,000**  in crash prizes up for grabs! So make sure to submit your write up by December 23, 2021 by 2:00 PM Pacific Time! 
 
+- Our favorite report will also receive an invite to HackerOne's next live hacking event
 - $2,000 for the first person to solve all challenges and submit a write up
 - $1,000 for the most creative write up
 - $1,000 for the first person to submit a 0 or no interaction (automated script) report
 - Mistery bonuses (**$100-$500**)
+- All winners will receive HackerOne swag
 
 **In addition to the $2,000 awarded to the first person to solve this challenge, we'll be rewarding $250 to the first 10 hackers to solve the entire challenge as well.**
 
