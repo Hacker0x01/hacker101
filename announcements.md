@@ -14,7 +14,16 @@ For the next twelve days, starting at 12pm PT on Friday, December 10, 2021, the 
 
 In the spirit of the holidays, all participants (anyone who submits at least a flag) will get added to HackerOne’s priority invitation queue to receive an invite to  private bug bounty program on HackerOne. In addition to every CTF flag you find, you’ll automatically receive points on Hacker101 so you could earn additional invites (one invite for every 26 points). Remember, some flags may weigh more than others! 
 
-In addition to private program invitations, we have *$7,000* in crash prizes up for grabs! So make sure to submit your write up by December 23, 2021 by 2:00 PM Pacific Time! We welcome collaboration and teamwork, but we ask you to not share any hints, flags or write ups until the end of the competition.
+In addition to private program invitations, we have **$7,000**  in crash prizes up for grabs! So make sure to submit your write up by December 23, 2021 by 2:00 PM Pacific Time! 
+
+- $2,000 for the first person to solve all challenges and submit a write up
+- $1,000 for the most creative write up
+- $1,000 for the first person to submit a 0 or no interaction (automated script) report
+- Mistery bonuses (**$100-$500**)
+
+**In addition to the $2,000 awarded to the first person to solve this challenge, we'll be rewarding $250 to the first 10 hackers to solve the entire challenge as well.**
+
+We welcome collaboration and teamwork, but we ask you to not share any hints, flags or write ups until the end of the competition.
 
 Please take a moment to review [this page](https://hackerone.com/h1-ctf) for all additional announcements, rules and important information. 
 
