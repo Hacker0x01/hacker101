@@ -22,6 +22,7 @@ In addition to private program invitations, we have **$7,000**  in crash prizes 
 - $1,000 for the first person to submit a 0 or no interaction (automated script) report
 - Mistery bonuses (**$100-$500**)
 - All winners will receive HackerOne swag
+- Portswigger's Burp Suite Certified Practitioner Certificaion for up to 25 people
 
 **In addition to the $2,000 awarded to the first person to solve this challenge, we'll be rewarding $250 to the first 10 hackers to solve the entire challenge as well.**
 
