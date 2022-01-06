@@ -18,7 +18,7 @@ sidebar:
         url: /sessions/mm/s01/meantalhealth
 
 video_src: https://www.youtube-nocookie.com/embed/alf64qFhqwU
-next_url: HackTheGovt
+next_url: hackthegovt
 ---
 
 In this episode we introduce the newest members of HackerOne Elite and ask them how to get started in bug bounty and hacking! Hosted by [@NahamSec](https://twitter.com/NahamSec) and [@Arl_rose](https://twitter.com/arl_rose).
