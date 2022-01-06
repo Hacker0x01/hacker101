@@ -12,10 +12,12 @@ sidebar:
         url: /playlists/pentesting_series
       - text: "Web Hacking"
         url: /playlists/web_hacking
+      - text: "Mentorship Mondays"
+        url: /playlists/mentorshipmondays
+        updated: true
       - text: "Mobile Hacking"
         url: /playlists/mobile_hacking
       - text: "H@cktivitycon"
-        updated: true
         url: /playlists/hacktivitycon
       - text: "Cryptography"
         url: /playlists/cryptography
