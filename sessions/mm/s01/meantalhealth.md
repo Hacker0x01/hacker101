@@ -18,12 +18,13 @@ sidebar:
         url: /sessions/mm/s01/how_to_pentest
 
 previous_url: how_to_pentest
-video_src: https://youtu.be/XmXK0AR1KU8
+video_src: https://youtu.be/2IpBE0qBhSc
 ---
 
- Hosted by [@NahamSec](https://twitter.com/NahamSec) and [@Arl_rose](https://twitter.com/arl_rose).
+Regardless of experience level burn outs and imposter syndrome seem to be common amongst people in any industry. In this episode we are joined by Chloe Messdaghi and Pamela Greenberg to discuss the importance of mental health and how to overcome stress, anxiety, imposter syndrome or burn outs. Hosted by [@NahamSec](https://twitter.com/NahamSec)and [N1col3Rose](https://twitter.com/N1col3Rose).
 
 Guests
 -----------------
 
-- [John Matherly](https://twitter.com/achillean)
+- [Chloe Messdaghi](https://twitter.com/chloemessdaghi)
+- Pamela Greenberg
