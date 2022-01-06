@@ -21,7 +21,7 @@ video_src: https://www.youtube-nocookie.com/embed/alf64qFhqwU
 next_url: HackTheGovt
 ---
 
-In this episode we introduce the newest member of HackerOne Elite and ask them how to get started in bug bounty and hacking! Hosted by [@NahamSec](https://twitter.com/NahamSec) and [@Arl_rose](https://twitter.com/arl_rose).
+In this episode we introduce the newest members of HackerOne Elite and ask them how to get started in bug bounty and hacking! Hosted by [@NahamSec](https://twitter.com/NahamSec) and [@Arl_rose](https://twitter.com/arl_rose).
 
 Guests
 -----------------
