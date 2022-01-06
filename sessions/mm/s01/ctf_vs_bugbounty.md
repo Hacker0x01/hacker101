@@ -18,7 +18,7 @@ sidebar:
         url: /sessions/mm/s01/meantalhealth
 previous_url: howtoshodan
 next_url: mobile_hacking
-video_src: https://youtu.be/leU8gPxX2bs
+video_src: https://www.youtube-nocookie.com/embed/leU8gPxX2bs
 ---
 
 In this episode, we met with Adam Langley and Niru Ragupathy to learn more about their creative process and to learn how participating in CTFs may help hackers get started with hacking and bug bounty! Hosted by [@NahamSec](https://twitter.com/NahamSec) and [@Arl_rose](https://twitter.com/arl_rose).

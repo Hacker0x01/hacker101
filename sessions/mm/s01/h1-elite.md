@@ -17,7 +17,7 @@ sidebar:
       - text: "Mental Health for Hackers"
         url: /sessions/mm/s01/meantalhealth
 
-video_src: https://www.youtube.com/watch?v=alf64qFhqwU
+video_src: https://www.youtube-nocookie.com/embed/alf64qFhqwU
 next_url: HackTheGovt
 ---
 

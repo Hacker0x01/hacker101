@@ -20,7 +20,7 @@ sidebar:
         url: /sessions/mm/s01/meantalhealth
 previous_url: ctf_vs_bugbounty
 next_url: how_to_pentest
-video_src: https://youtu.be/eF2CqYEiw5k
+video_src: https://www.youtube-nocookie.com/embed/eF2CqYEiw5k
 ---
 
 In this episode, we were joined by Joel Margolis and Dawn Isabel to learn about how to get started with hacking Android and iOS applications! Hosted by [@NahamSec](https://twitter.com/NahamSec) and [@Arl_rose](https://twitter.com/arl_rose).

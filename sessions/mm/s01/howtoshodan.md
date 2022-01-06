@@ -20,7 +20,7 @@ sidebar:
         url: /sessions/mm/s01/meantalhealth
 previous_url: hackthegovt
 next_url: ctf_vs_bugbounty
-video_src: https://youtu.be/XmXK0AR1KU8
+video_src: https://www.youtube-nocookie.com/embed/XmXK0AR1KU8
 ---
 
 In this episode we chatted with [John Matherly](@achillean) to understand how and why Shodan was created! Hosted by [@NahamSec](https://twitter.com/NahamSec) and [@NickZaj](https://twitter.com/NickZaj).
