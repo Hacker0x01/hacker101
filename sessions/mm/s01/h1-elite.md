@@ -5,7 +5,7 @@ sidebar:
   - title: "More from Season 01"
     links:
       - text: "Hacking the Government"
-        url: /sessions/mm/s01/HackTheGovt
+        url: /sessions/mm/s01/hackthegovt
       - text: "Understanding Shodan"
         url: /sessions/mm/s01/howtoshodan
       - text: "CTF vs Bug Bounty"
