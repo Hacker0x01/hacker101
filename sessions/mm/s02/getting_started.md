@@ -15,7 +15,7 @@ sidebar:
       - text: "How to Pick and Approach a Target"
         url: "/sessions/mm/s02/how_to_pick_a_target"   
 next_url: h1_CHO
-video_src: https://www.youtube.com/watch?v=A8mBBC7W7z8
+video_src: https://www.youtube-nocookie.com/embed/A8mBBC7W7z8
 ---
 
 In this episode, we met with Adam Langley and Niru Ragupathy to learn more about their creative process and to learn how participating in CTFs may help hackers get started with hacking and bug bounty! Hosted by [@NahamSec](https://twitter.com/NahamSec) and [@Arl_rose](https://twitter.com/arl_rose).

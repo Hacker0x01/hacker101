@@ -16,7 +16,7 @@ sidebar:
         url: "/sessions/mm/s02/how_to_pick_a_target"   
 previous_url: h1_CHO
 next_url: how_to_write_reports
-video_src: https://www.youtube.com/watch?v=5ptIyYWPe5Q
+video_src: https://www.youtube-nocookie.com/embed/5ptIyYWPe5Q
 ---
 
 

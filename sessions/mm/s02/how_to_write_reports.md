@@ -16,7 +16,7 @@ sidebar:
         url: "/sessions/mm/s02/how_to_pick_a_target"   
 previous_url: h1_CHO
 next_url: industry_certificates
-video_src: https://www.youtube.com/watch?v=thaCeWE112w
+video_src: https://www.youtube-nocookie.com/embed/thaCeWE112w
 ---
 
 When you are submitting a vulnerability report to a company, it is very important to be able to communicate your findings in a clear and concise manner, where the security or triage team receiving your report are able to reproduce it as quickly as possible. In this episode, we have invited former Hackeronies Patrik and Yassine to talk about how to write a report and when/how to ask for help. Hosted by [@NahamSec](https://twitter.com/NahamSec) and [@Arl_rose](https://twitter.com/arl_rose).

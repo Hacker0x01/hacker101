@@ -15,7 +15,7 @@ sidebar:
       - text: "Starting a Career in Bug Bounty"
         url: "/sessions/mm/s02/starting_a_career"        
 previous_url: industry_certificates
-video_src: https://www.youtube.com/watch?v=ix8yFSJbEHY
+video_src: https://www.youtube-nocookie.com/embed/ix8yFSJbEHY
 ---
 
 In this episode with chat with zlz and Rhynorater and learn about how they pick the targets they hack on. Is it solely monteray or does the brand and the scope size play a role in making these decisions? Hosted by [@NahamSec](https://twitter.com/NahamSec) and [@Arl_rose](https://twitter.com/arl_rose).
