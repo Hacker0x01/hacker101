@@ -16,7 +16,7 @@ sidebar:
         url: "/sessions/mm/s02/how_to_pick_a_target"   
 previous_url: industry_certificates
 next_url: how_to_pick_a_target
-video_src: https://youtu.be/4PqVncwiznY
+video_src: https://www.youtube.com/watch?v=4PqVncwiznY
 ---
 
 In this episode, we chatted with Busra Demir and John Hammond to talk about different infosec certifications. We asked them how do they select the right certifications, how they prepare for it, and how to leverage them for different jobs! 

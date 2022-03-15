@@ -16,7 +16,7 @@ sidebar:
         url: "/sessions/mm/s02/how_to_pick_a_target"   
 previous_url: getting_started
 next_url: starting_a_career
-video_src: https://youtu.be/ZyqyiZRSaAc
+video_src: https://www.youtube.com/watch?v=ZyqyiZRSaAc
 ---
 
 In this episode, we welcome Chris Evans, CISO and Chief Hacking Officer at HackerOne. We will discuss security research, what it takes for big corporations to launch a bug bounty program - from working with internal stakeholders such as executive or legal teams to creating a process to remedy and fix vulnerabilities. 
