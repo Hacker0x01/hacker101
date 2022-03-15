@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting Started in Bug Bounties
+title: Starting a Career in Bug Bounty 
 sidebar:
   - title: "Season 02"
     links:
@@ -11,9 +11,7 @@ sidebar:
       - text: "How to Communicate and Write a Report"
         url: /sessions/mm/s02/how_to_write_reports
       - text: "Industry Certifications"
-        url: "/sessions/mm/s02/industry_certificates"
-      - text: "Starting a Career in Bug Bounty"
-        url: "/sessions/mm/s02/starting_a_career"        
+        url: "/sessions/mm/s02/industry_certificates"  
       - text: "How to Pick and Approach a Target"
         url: "/sessions/mm/s02/how_to_pick_a_target"   
 previous_url: h1_CHO

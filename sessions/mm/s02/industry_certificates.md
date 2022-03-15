@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting Started in Bug Bounties
+title: Industry Certificates
 sidebar:
   - title: "Season 02"
     links:
@@ -14,7 +14,7 @@ sidebar:
         url: "/sessions/mm/s02/starting_a_career"        
       - text: "How to Pick and Approach a Target"
         url: "/sessions/mm/s02/how_to_pick_a_target"   
-previous_url: industry_certificates
+previous_url: starting_a_career
 next_url: how_to_pick_a_target
 video_src: https://www.youtube.com/watch?v=4PqVncwiznY
 ---

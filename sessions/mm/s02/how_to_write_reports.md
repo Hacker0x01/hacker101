@@ -14,7 +14,7 @@ sidebar:
         url: "/sessions/mm/s02/starting_a_career"        
       - text: "How to Pick and Approach a Target"
         url: "/sessions/mm/s02/how_to_pick_a_target"   
-previous_url: 
+previous_url: h1_CHO
 next_url: industry_certificates
 video_src: https://www.youtube.com/watch?v=thaCeWE112w
 ---
