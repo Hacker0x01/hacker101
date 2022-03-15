@@ -19,9 +19,11 @@ next_url: how_to_write_reports
 video_src: https://www.youtube-nocookie.com/embed/5ptIyYWPe5Q
 ---
 
-
 Guests
 -----------------
 
-- [Vickie Li](https://twitter.com/vickieli7)
-- [Farah Hawa](https://twitter.com/Farah_Hawaa) 
+- [Douglas Day](https://twitter.com/the_arch_angel) 
+- [Pete Yaworsk](https://twitter.com/yaworski)
+- [Eugene Lim](https://twitter.com/spaceraccoon) 
+
+

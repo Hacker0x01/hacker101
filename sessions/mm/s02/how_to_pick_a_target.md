@@ -23,5 +23,5 @@ In this episode with chat with zlz and Rhynorater and learn about how they pick 
 Guests
 -----------------
 
-- (Sam Curry)[https://twitter.com/samwcyo]
-- (Justin Gardner)[https://twitter.com/rhynorater]
+- [Sam Curry](https://twitter.com/samwcyo)
+- [Justin Gardner](https://twitter.com/rhynorater)
