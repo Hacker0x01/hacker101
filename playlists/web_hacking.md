@@ -23,3 +23,4 @@ Lessons
 - [Source Code Review](/sessions/source_review)
 - [XML External Entities](/sessions/xxe)
 - [Cookie Tampering Techniques](/sessions/cookie_tampering)
+- [Bag Hunting ](/session/hunting)
