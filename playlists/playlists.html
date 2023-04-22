@@ -1,0 +1,14 @@
+---
+layout: page
+title: Playlists
+permalink: /playlists/
+---
+
+{% for child_page in site.pages %}
+    {% assign target_dir = 'playlists/' %}
+    {% if child_page.path contains target_dir and child_page.path != page.path %}
+        <li>
+            <a href="{{ child_page.url | relative_url }}">{{ child_page.title }}</a>
+        </li>
+    {% endif %}
+{% endfor %}
