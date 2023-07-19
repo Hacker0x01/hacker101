@@ -5,16 +5,23 @@ title: Mobile Hacking
 
 This learning track is dedicated to learning the most popular mobile vulnerabilities in both Android and iOS applications. The Android hacking content was created by [Daeken](https://twitter.com/daeken) and recorded by [NahamSec](https://twitter.com/NahamSec) and the iOS module was done by [Dawn Isabel](https://twitter.com/dawnisabel), Mobile Security Research Engineer at NowSecure!
 
-<div class="h4">Learn the Basics</div>
-<ul>
-  <li>
-    <a href="../sessions/mobile_crash_course">Mobile Hacking Crash Course</a>
-  </li>
-</ul>
-
 <div class="row">
   <div class="col-md-6">
+    <h2>The Basics</h2>
+
+    <hr />
+
+    <ul>
+      <li>
+        <a href="../sessions/mobile_crash_course">Mobile Hacking Crash Course</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="col-md-6">
     <h2>Android Hacking</h2>
+
+    <hr />
 
     <ul>
       <li>
