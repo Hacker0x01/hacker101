@@ -7,7 +7,7 @@ redirect_from:
   - /conferences/hacktivitycon/web-cache-deception
 ---
 
-About the Speaker 
+Speakers
 -----------------
 Seyed Ali Mirheidari has over a decade experience of leading penetration tests, vulnerability management and vulnerability assessments of broad technologies including web, network, mobile, and IoT. He is currently a Lead Information Security Consultant at Denim Group conducting network and application penetration testing engagements for Fortune 100 and other enterprise clients. He has a broad experience in building custom exploits for penetration tests and hands-on experience in intrusion detection in large enterprise environments. Ali invests extensive research time gaining an in-depth understanding of complex security implications in underlying protocols. His research leads to implementing new techniques to discover and exploit well-hidden web application flaws. 
   

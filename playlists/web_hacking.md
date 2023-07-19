@@ -19,7 +19,7 @@ Lessons
 - [Null Termination Bugs](/sessions/null_termination)
 - [Unchecked Redirects](/sessions/unchecked_redirects)
 - [Password Storage](/sessions/password_storage)
-- [Server-Side Request Forgery](/sessions/ssrf)
+- [Server-side Request Forgery](/sessions/ssrf)
 - [Source Code Review](/sessions/source_review)
 - [XML External Entities](/sessions/xxe)
 - [Cookie Tampering Techniques](/sessions/cookie_tampering)

@@ -5,7 +5,7 @@ subtitle: Recon Edition
 video_src: https://www.youtube-nocookie.com/embed/qLTe6Z10vj8
 ---
 
-About the Speaker  
+Speaker 
 -----------------
 Jason is the Head of Security for a leading videogame production company. Previously he was VP of Trust and Security at Bugcrowd and currently holds the 29th all-time ranked researcher position. Before joining Bugcrowd Jason was the Director of Penetration Testing for HP Fortify and also held the #1 rank on the Bugcrowd leaderboard for two years. He is a hacker and bug hunter through and through and specializes in recon and web application analysis. He has also held positions doing mobile penetration testing, network/infrastructure security assessments, and static analysis. Jason lives in Colorado with his wife and three children. 
 
