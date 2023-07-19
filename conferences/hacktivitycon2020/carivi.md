@@ -4,7 +4,7 @@ title: From an 'IVI in a box' to a 'CAR in a box'
 video_src: https://www.youtube-nocookie.com/embed/e_7PklFoJe8
 ---
 
-Speaker 
+About the Speaker  
 -----------------
 Details of the car hack on my own vehicle in 2017 and then how I 1st created an 'IVI in a box' and then PD0 'Car in a box'. Some hints and tips on how not to break your own car!
 
