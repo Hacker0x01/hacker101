@@ -10,6 +10,12 @@
   margin-left: auto;
 }
 
+@mixin make-row($gutter: $grid-gutter-width) {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -$gutter / 2;
+  margin-left: -$gutter / 2;
+}
 
 // For each breakpoint, define the maximum width of the container in a media query
 @mixin make-container-max-widths($max-widths: $container-max-widths, $breakpoints: $grid-breakpoints) {
@@ -18,13 +24,7 @@
       max-width: $container-max-width;
     }
   }
-}
-
-@mixin make-row($gutter: $grid-gutter-width) {
-  display: flex;
-  flex-wrap: wrap;
-  margin-right: -$gutter / 2;
-  margin-left: -$gutter / 2;
+  @include deprecate("The `make-container-max-widths` mixin", "v4.5.2", "v5");
 }
 
 @mixin make-col-ready($gutter: $grid-gutter-width) {
@@ -62,7 +62,7 @@
 // numberof columns. Supports wrapping to new lines, but does not do a Masonry
 // style grid.
 @mixin row-cols($count) {
-  & > * {
+  > * {
     flex: 0 0 100% / $count;
     max-width: 100% / $count;
   }

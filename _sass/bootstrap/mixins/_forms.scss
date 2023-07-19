@@ -53,6 +53,7 @@
   .#{$state}-tooltip {
     position: absolute;
     top: 100%;
+    left: 0;
     z-index: 5;
     display: none;
     max-width: 100%; // Contain to parent when possible
@@ -63,6 +64,13 @@
     color: color-yiq($color);
     background-color: rgba($color, $form-feedback-tooltip-opacity);
     @include border-radius($form-feedback-tooltip-border-radius);
+
+    // See https://github.com/twbs/bootstrap/pull/31557
+    // Align tooltip to form elements
+    .form-row > .col > &,
+    .form-row > [class*="col-"] > & {
+      left: $form-grid-gutter-width / 2;
+    }
   }
 
   @include form-validation-state-selector($state) {
@@ -107,7 +115,7 @@
 
       @if $enable-validation-icons {
         padding-right: $custom-select-feedback-icon-padding-right;
-        background: $custom-select-background, escape-svg($icon) $custom-select-bg no-repeat $custom-select-feedback-icon-position / $custom-select-feedback-icon-size;
+        background: $custom-select-background, $custom-select-bg escape-svg($icon) $custom-select-feedback-icon-position / $custom-select-feedback-icon-size no-repeat;
       }
 
       &:focus {

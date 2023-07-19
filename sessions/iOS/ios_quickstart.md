@@ -1,6 +1,9 @@
 ---
 layout: page
 title: iOS Quickstart
+video_src: https://www.youtube-nocookie.com/embed/c4M8sd9lcFU
+previous_url: ../android/common_android_bugs_2
+next_url: application_basics
 ---
 
 In this session -- the third and final in a series on mobile hacking -- we discuss the structure of iOS applications, key differences between testing on iOS and Android, recommended tools, setup details, and some handy tips for hacking iOS apps.
@@ -19,7 +22,7 @@ What you'll learn
 	- Xcode
 	- [bfinject](https://github.com/BishopFox/bfinject)
 	- [cycript](http://www.cycript.org/)
-	- [Frida](https://www.frida.re/)
+	- [Frida](https://frida.re/)
 	- [Cydia Impactor](http://www.cydiaimpactor.com/)
 	- [Hopper](https://www.hopperapp.com/)
 	- [SSL Kill Switch 2](https://github.com/nabla-c0d3/ssl-kill-switch2)
@@ -36,13 +39,3 @@ What you'll learn
 	- Install iPad-only apps on other devices with an Info.plist modification
 	- Basic memory corruption bug hunting
 	- Look at custom URL schemes
-
-Video
------
-
-<div class="container">
-	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/c4M8sd9lcFU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-<h5 style="text-align:right;"> <a href="application_basics"> Next Video </a></h5> 

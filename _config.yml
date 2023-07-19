@@ -24,6 +24,7 @@ social:
     - https://github.com/Hacker0x01
 
 plugins:
+  - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
 
