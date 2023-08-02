@@ -1,0 +1,13 @@
+name: Merge
+on: pull_request
+
+permissions:
+  pull-requests: write
+
+jobs:
+  auto_approve:
+    runs-on: ubuntu-latest
+    if: ${{ github.actor == 'reinaris' }}
+    steps:
+      - name: Merge
+        run: gh pr merge
