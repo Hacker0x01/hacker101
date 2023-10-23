@@ -7,7 +7,7 @@ title: Home
   <div class="row">
     <div class="col-md-6 py-4 align-self-center">
       <h1>
-        LEARN TO HACK
+        HACK TO LEARN
       </h1>
       <p class="lead my-3">
         Hacker101 is a free class for web security. Whether you&#8217;re a
