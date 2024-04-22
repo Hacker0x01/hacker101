@@ -34,7 +34,7 @@ title: Home
         <p class="lead my-3">
           Put your skills into practice with CTF levels inspired by the real world
         </p>
-        <a href="https://ctf.hacker101.com/" class="btn btn-outline-secondary">
+        <a href="https://ctf.hacker101.com/" target="_blank" class="btn btn-outline-secondary">
           Check out CTF
         </a>
       </div>
@@ -67,7 +67,7 @@ title: Home
       </span>
       <p class="lead my-3">
         He just got $30K in a week for hacking on Airbnb&#8217;s public
-        <a href="https://hackerone.com/airbnb">#bugbounty program</a>!
+        <a href="https://hackerone.com/airbnb" target="_blank">#bugbounty program</a>!
       </p>
       <blockquote class="blockquote text-success my-3">
         <span class="position-absolute" style="left: 7px">&#8220;</span>

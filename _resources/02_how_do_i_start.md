@@ -2,7 +2,7 @@
 title: I'm new to all of this; how do I get started?
 ---
 
-Congratulations on taking the first step to becoming a hacker! We recommend starting with our [Hacker101 for Newcomers](/playlists/newcomers) and [Burp Suite](/playlists/burp_suite) playlists. Once you've completed that, start working through the [Hacker101 CTF](https://ctf.hacker101.com/) and watching the other [video lessons](/videos) as you need them. While there are no prerequisites for Hacker101, strictly speaking, there are things you can learn to accelerate your hacking education. Note that you don't need to know all of this -- or any -- to get started. Here's a curated list of resources:
+Congratulations on taking the first step to becoming a hacker! We recommend starting with our [Hacker101 for Newcomers](/playlists/newcomers) and [Burp Suite](/playlists/burp_suite) playlists. Once you've completed that, start working through the <a href="https://ctf.hacker101.com/" target="_blank">Hacker101 CTF</a> and watching the other [video lessons](/videos) as you need them. While there are no prerequisites for Hacker101, strictly speaking, there are things you can learn to accelerate your hacking education. Note that you don't need to know all of this -- or any -- to get started. Here's a curated list of resources:
 
 * Programming
     * [JavaScript](https://javascript.info/): This is the language used on the majority of web pages. Understanding it is useful for bug hunting because many bugs actually stem from JS code.
