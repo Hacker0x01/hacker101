@@ -13,8 +13,6 @@ sidebar:
         url: https://hackerone.com/reports/395521
   - subtitle: Insecure Direct Object Reference
     links:
-      - text: Full name of other accounts exposed through NR API Explorer (another workaround of #476958)
-        url: https://hackerone.com/reports/520518
       - text: A staff member with no permissions can edit Store Customer Email
         url: https://hackerone.com/reports/980511
   - subtitle: Open Redirect & XSS
