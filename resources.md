@@ -10,7 +10,4 @@ sidebar:
   <h2 id="{{ resource.title | url_encode }}">{{ resource.title }}</h2>
 
   {{ resource.content }}
-  <h2 id="{{ resource.title | url_encode }}">{{ resource.title }}</h2>
-
-  {{ resource.content }}
 {% endfor %}
