@@ -4,7 +4,7 @@ title: How to Deal with Burnouts
 video_src: https://www.youtube-nocookie.com/embed/I6eUy4XIYrY
 ---
 
-Speaker 
+About the Speaker  
 -----------------
 Chloe Messdaghi is the VP of Strategy at Point3 Security. She is a security researcher advocate who strongly believes that information security is a humanitarian issue. Besides her passion to keep people safe and empowered online & offline, she is driven to fight for hacker rights. She is the founder of WeAreHackerz (formally known as WomenHackerz) & the President and cofounder of Women of Security (WoSEC), podcaster for ITSP Magazine's The Uncommon Journey, and runs the Hacker Book Club.
 

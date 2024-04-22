@@ -36,7 +36,46 @@ This learning track is dedicated to learning the most popular mobile vulnerabili
     </ul>
 
     <div class="h4">Workshops</div>
+    <div class="h4">Workshops</div>
 
+    <ul>
+      <li>
+        <a href="../sessions/android/hacking_workshop_b3nac">Android Hacking Workshop by B3nac</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="col-md-6">
+    <h2>iOS Hacking</h2>
+
+    <hr />
+
+    <ul>
+      <li>
+        <a href="../sessions/iOS/ios_quickstart">iOS Quickstart</a>
+      </li>
+      <li>
+        <a href="../sessions/iOS/application_basics">iOS Application Basics</a>
+        <span class="badge badge-pill badge-secondary">New!</span>
+      </li>
+      <li>
+        <a href="../sessions/iOS/filesystem">Filesystems</a>
+        <span class="badge badge-pill badge-secondary">New!</span>
+      </li>
+      <li>
+        <a href="../sessions/iOS/interapp_communication">Inter-app Communication</a>
+        <span class="badge badge-pill badge-secondary">New!</span>
+      </li>
+      <li>
+        <a href="../sessions/iOS/app_transport">App Transport</a>
+        <span class="badge badge-pill badge-secondary">New!</span>
+      </li>
+      <li>
+        <a href="../sessions/iOS/webviews">WebViews</a>
+        <span class="badge badge-pill badge-secondary">New!</span>
+      </li>
+    </ul>
+  </div>
     <ul>
       <li>
         <a href="../sessions/android/hacking_workshop_b3nac">Android Hacking Workshop by B3nac</a>

@@ -4,7 +4,7 @@ title: WAF Bypass In Depth
 video_src: https://www.youtube-nocookie.com/embed/zhkCf8tldbk
 ---
 
-Speakers
+About the Speaker 
 -----------------
 Robert Chen (@notdeghost) is a 17-year-old CTF player with redpwn, bug hunter, software developer, and full-time high school student. He participates in CTFs and various bug bounty programs in his free time. 
  

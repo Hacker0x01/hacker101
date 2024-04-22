@@ -4,7 +4,7 @@ title:  Keynote
 video_src: https://www.youtube-nocookie.com/embed/F_W3mV-EC9w
 ---
 
-Speaker 
+About the Speaker  
 -----------------
 Georgia Weidman is a serial entrepreneur, penetration tester, security researcher, speaker, trainer, mentor, and author. Her work in smartphone exploitation received a DARPA Cyber Fast Track grant and has been featured internationally in print and on television. Georgia is the author of Penetration Testing: A Hands-On Introduction to Hacking. She's presented or conducted training around the world including Blackhat / DEF CON, RSA, NSA, and West Point. 
 
