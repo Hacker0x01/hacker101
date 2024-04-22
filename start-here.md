@@ -26,6 +26,10 @@ sidebar:
         url: /playlists/mobile_hacking
 ---
 
-Welcome to Hacker101! This page is designed to help you get the most out of our content. If you are new to bug bounties and web hacking, we highly recommend checking out our [Newcomers Playlist](/playlists/newcomers) where we show you the basics of web applications, the hacker mentality, and how to write a good report. In addition to the Newcomers Playlist, we recommend familiarizing yourself with [Burp Suite](/playlists/burp_suite), learning the basics of [Web Hacking](/playlists/web_hacking), and checking out "Report Writing, Communication Tips, and Community Guidelines" to learn how to utilize the platform to better communicate with triage and security teams.
+Welcome to Hacker101! For those new to bug bounties and web hacking, we recommend starting with our [Newcomers Playlist](/playlists/newcomers). This playlist covers fundamental aspects such as web application basics, cultivating a hacker mindset, and crafting effective reports.
 
-Hacker101 also provides Capture the Flag (CTF) levels to help you practice and sharpen your skills. Once you have earned 26 points in the CTF, you’ll be eligible to receive [invitations to private programs](https://docs.hackerone.com/hackers/invitations.html#gatsby-focus-wrapper). Whether you’re a new hacker or you’re just new to our platform, this is a great way for you to dive into the deep end from day one.
+In addition to the Newcomers Playlist, we advise getting yourself familiair with [Burp Suite](/playlists/burp_suite), mastering the essentials of [Web Hacking](/playlists/web_hacking), and reviewing the _"Report Writing, Communication Tips, and Community Guidelines"_ section on this page to effectively engage with triage and security teams.
+
+Hacker101 also offers Capture the Flag (CTF) levels to hone your skills. Upon accumulating 26 points in the CTF, you become eligible for [invitations to private programs](https://docs.hackerone.com/hackers/invitations.html#gatsby-focus-wrapper). Whether you’re a new hacker or you’re just new to our platform, this is a great way for you to dive into the deep end from day one. Join in on the fun on [Hacker101: CTF](https://ctf.hacker101.com)!
+
+Good luck, and happy hacking!
