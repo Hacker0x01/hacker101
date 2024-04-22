@@ -7,14 +7,12 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Is your content request driven by a specific need or issue? Please elaborate.**
+A clear and concise explanation of the issue or need prompting your request. For example, "I often find it challenging when..."
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**What specific content are you hoping to see added?**
+Describe clearly and precisely what content you would like to see included.
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
