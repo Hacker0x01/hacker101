@@ -20,6 +20,8 @@ sidebar:
         url: /playlists/hacktivitycon
       - text: "Cryptography"
         url: /playlists/cryptography
+      - text: "Miscellaneous"
+        url: /playlists/misc
   - title: "Hacker101's Picks"
     links:
       - text: "A Starter's Guide to Pentesting with OWASP"
@@ -32,7 +34,7 @@ sidebar:
         url: /sessions/mobile_crash_course
 ---
 
-These videos will help you learn a diverse set of topics. If you want to see specifics of what a session covers, simply click its title.
+Explore the "Learning Tracks" section on this page to dive deep into various topics. Within these tracks, you'll find instructional videos aimed to broaden your hacker skill set. For detailed insights into the content of each session, click on its respective title and get started.
 
 <a class="btn btn-primary" href="/start-here">
   Not sure where to start? Click here!
