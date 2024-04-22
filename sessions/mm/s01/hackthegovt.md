@@ -15,7 +15,7 @@ sidebar:
       - text: "How to Pentest"
         url: /sessions/mm/s01/how_to_pentest
       - text: "Mental Health for Hackers"
-        url: /sessions/mm/s01/meantalhealth
+        url: /sessions/mm/s01/mentalhealth
 
 previous_url: h1-elite
 next_url: howtoshodan

@@ -15,7 +15,7 @@ sidebar:
       - text: "How to Pentest"
         url: /sessions/mm/s01/hacktivitycon
       - text: "Mental Health for Hackers"
-        url: /sessions/mm/s01/meantalhealth
+        url: /sessions/mm/s01/mentalhealth
 
 video_src: https://www.youtube-nocookie.com/embed/alf64qFhqwU
 next_url: hackthegovt
