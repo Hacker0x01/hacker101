@@ -20,6 +20,8 @@ sidebar:
         url: /playlists/hacktivitycon
       - text: "Cryptography"
         url: /playlists/cryptography
+      - text: "Miscellaneous"
+        url: /playlists/misc
   - title: "Hacker101's Picks"
     links:
       - text: "A Starter's Guide to Pentesting with OWASP"
