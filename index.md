@@ -20,23 +20,6 @@ title: Home
     </div>
     <div class="col-md-5 offset-md-1 py-4">
       <img src="/assets/learn-to-hack.jpg" alt="Hackers collaborating" class="img-fluid float-right rounded-lg" height="400" />
-<div class="container">
-  <div class="row">
-    <div class="col-md-6 py-4 align-self-center">
-      <h1>
-        LEARN TO HACK
-      </h1>
-      <p class="lead my-3">
-        Hacker101 is a free class for web security. Whether you&#8217;re a
-        programmer with an interest in bug bounties or a seasoned security
-        professional, Hacker101 has something to teach you.
-      </p>
-      <a class="btn btn-primary" href="/start-here">
-        Start Hacking!
-      </a>
-    </div>
-    <div class="col-md-5 offset-md-1 py-4">
-      <img src="/assets/learn-to-hack.jpg" alt="Hackers collaborating" class="img-fluid float-right rounded-lg" height="400" />
     </div>
   </div>
 </div>
