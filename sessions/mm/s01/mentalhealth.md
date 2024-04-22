@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meantal Health for Hackers
+title: Mental Health for Hackers
 sidebar:
   - title: "Season 01"
     links:

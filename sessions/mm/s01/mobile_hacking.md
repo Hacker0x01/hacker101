@@ -17,7 +17,7 @@ sidebar:
       - text: "How to Pentest"
         url: /sessions/mm/s01/how_to_pentest
       - text: "Mental Health for Hackers"
-        url: /sessions/mm/s01/meantalhealth
+        url: /sessions/mm/s01/mentalhealth
 previous_url: ctf_vs_bugbounty
 next_url: how_to_pentest
 video_src: https://www.youtube-nocookie.com/embed/eF2CqYEiw5k
