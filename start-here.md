@@ -32,6 +32,6 @@ In addition to the Newcomers Playlist, we advise getting yourself familiair with
 
 A large collection of hacking tools, like web, desktop, and mobile tools, scanners, datasets, and other valuable resources can be found on the [Resources](/resources) page. Be sure to check them out and get familiar with them.
 
-Hacker101 also offers Capture the Flag (CTF) levels to practive what you've learned and increase your skills. When reaching a total of 26 points in the CTF, you become eligible for [invitations to private programs](https://docs.hackerone.com/hackers/invitations.html#gatsby-focus-wrapper). Whether you’re a new hacker or you’re just new to our platform, this is a great way for you to dive into the deep end from day one. Join in on the fun on [Hacker101: CTF](https://ctf.hacker101.com)!
+Hacker101 also offers Capture the Flag (CTF) levels to practive what you've learned and increase your skills. When reaching a total of 26 points in the CTF, you become eligible for [invitations to private programs](https://docs.hackerone.com/hackers/invitations.html#gatsby-focus-wrapper). Whether you’re a new hacker or you’re just new to our platform, this is a great way for you to dive into the deep end from day one. Join in on the fun on <a href="https://ctf.hacker101.com/" target="_blank">Hacker101: CTF</a>!
 
 Good luck, and happy hacking!
