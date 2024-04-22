@@ -2,7 +2,7 @@
 name: Content Feature request
 about: Suggest an idea for this project
 title: "[CONTENT] "
-labels: content request
+labels: 'content request'
 assignees: ''
 
 ---
