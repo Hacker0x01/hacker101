@@ -12,7 +12,7 @@ What you'll learn
 - Managing expectations
 	- Metrics
 	- Manual vs automated review
-- Tool review
+- Tools review
 - Issues with static analysis tools
 - Division of labor
 - Tips and tricks
