@@ -3,14 +3,14 @@ layout: page
 title: Web Hacking
 ---
 
-This learning track is dedicated to learning the most popular web application vulnerabilities. 
+This learning track is dedicated to learning the most popular web application vulnerabilities.
 
 Lessons
 -----
 
 - [XSS and Authorization](/sessions/xss)
-  - [JavaScript for Hackers](/sessions/javascript_for_hackers)
-    <span class="badge badge-pill badge-secondary">New!</span>
+- [JavaScript for Hackers](/sessions/javascript_for_hackers)
+  <span class="badge badge-pill badge-secondary">New!</span>
 - [SQL Injection and Friends](/sessions/sqli)
 - [Session Fixation](/sessions/session_fixation)
 - [Clickjacking](/sessions/clickjacking)
