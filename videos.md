@@ -13,9 +13,10 @@ sidebar:
         url: /playlists/pentesting_series
       - text: "Web Hacking"
         url: /playlists/web_hacking
+      - text: "Mentorship Mondays"
+        url: /playlists/mentorshipmondays
       - text: "Mobile Hacking"
         url: /playlists/mobile_hacking
-        updated: true
       - text: "H@cktivitycon"
         url: /playlists/hacktivitycon
       - text: "Cryptography"
@@ -32,6 +33,8 @@ sidebar:
         url: /sessions/ssrf
       - text: "Mobile Hacking Crash Course"
         url: /sessions/mobile_crash_course
+      - text: Introduction to Docker Hacking
+        url: /sessions/docker_hacking
 ---
 
 Explore the "Learning Tracks" section on this page to dive deep into various topics. Within these tracks, you'll find instructional videos aimed to broaden your hacker skill set. For detailed insights into the content of each session, click on its respective title and get started.
