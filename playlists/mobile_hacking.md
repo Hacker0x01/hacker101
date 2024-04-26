@@ -16,6 +16,8 @@ This learning track is dedicated to learning the most popular mobile vulnerabili
   <div class="col-md-6">
     <h2>Android Hacking</h2>
 
+    <hr />
+
     <ul>
       <li>
         <a href="../sessions/android/quickstart">Android Quickstart</a>

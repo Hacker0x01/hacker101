@@ -17,7 +17,8 @@ sidebar:
         url: /playlists/mentorshipmondays
       - text: "Mobile Hacking"
         url: /playlists/mobile_hacking
-      - text: "H@cktivitycon"
+        updated: true
+      - text: "h@cktivitycon"
         url: /playlists/hacktivitycon
       - text: "Cryptography"
         url: /playlists/cryptography
