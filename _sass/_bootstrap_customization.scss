@@ -75,6 +75,14 @@
 
   a:not(.btn) {
     color: $blue;
+
+    &:hover {
+      color: $blue-500;
+    }
+
+    &:active {
+      color: $blue-600;
+    }
   }
 }
 
@@ -82,7 +90,15 @@
   background-color: $black !important;
 
   a:not(.btn) {
-    color: $pink;
+    color: $blue-500;
+
+    &:hover {
+      color: $blue;
+    }
+
+    &:active {
+      color: $blue-300;
+    }
   }
 }
 
