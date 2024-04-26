@@ -16,7 +16,7 @@ sidebar:
       - text: "Mobile Hacking"
         url: /playlists/mobile_hacking
         updated: true
-      - text: "H@cktivitycon"
+      - text: "h@cktivitycon"
         url: /playlists/hacktivitycon
       - text: "Cryptography"
         url: /playlists/cryptography

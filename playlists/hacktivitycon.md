@@ -1,14 +1,14 @@
 ---
 layout: page
-title: H@cktivitycon
+title: h@cktivitycon
 ---
 
 h@cktivitycon is a HackerOne hosted hacker conference built by the community for the community. h@cktivitycon is a place for hackers to learn, share, and meet friends. Hear talks and panelists exploring offensive hacking techniques, recon skills, target selection and more.
 
-Talks
+## Talks
 ---
 
-### H@cktivitycon 2021
+### h@cktivitycon 2021
 
 - [Keynote: Launching an InfoSec Career](/conferences/hacktivitycon2021/keynote)
 - [Breaking Down OffSec Certifications](/conferences/hacktivitycon2021/offsec_panel)
@@ -20,7 +20,7 @@ Talks
 - [Haptyc: A Library for Building Microfuzzers in Turbo Intruder](/conferences/hacktivitycon2021/haptyc)
 - [Hacking on Bug Bounties for Five Years](/conferences/hacktivitycon2021/bugbountyfor5years)
 
-### H@cktivitycon 2020
+### h@cktivitycon 2020
 
 - [Keynote by Georgia Weidman](/conferences/hacktivitycon2020/keynote)
 - [How I got from 0 to MVH](/conferences/hacktivitycon2020/0tomvh)

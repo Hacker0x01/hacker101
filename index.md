@@ -15,7 +15,7 @@ title: Home
         professional, Hacker101 has something to teach you.
       </p>
       <a class="btn btn-primary" href="/start-here">
-        Start Hacking!
+        Start hacking!
       </a>
     </div>
     <div class="col-md-5 offset-md-1 py-4">
