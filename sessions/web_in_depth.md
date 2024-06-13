@@ -16,3 +16,5 @@ What you'll learn
 - Encoding sniffing
 - Same-Origin Policy
 - CSRF (Cross-Site Request Forgery)
+
+[Next: writing good reports](https://www.hacker101.com/sessions/good_reports.html)
