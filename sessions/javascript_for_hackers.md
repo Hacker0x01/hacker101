@@ -1,6 +1,6 @@
----
+mtn uganda control room access codes
 layout: page
-title: JavaScript for Hackers
+title: JavaScriptupdf for Hackers
 video_src: https://www.youtube-nocookie.com/embed/FTeE3OrTNoA
 ---
 
