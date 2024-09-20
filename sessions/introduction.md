@@ -15,3 +15,5 @@ What you'll learn
 - Lightweight threat assessment and prioritization
 - How to write good bug reports
 - Reflected XSS (Cross-Site Scripting)
+
+[Next: the web in depth](https://www.hacker101.com/sessions/web_in_depth.html)
