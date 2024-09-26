@@ -19,7 +19,7 @@ next_url: how_to_pick_a_target
 video_src: https://www.youtube-nocookie.com/embed/4PqVncwiznY
 ---
 
-In this episode, we chatted with Busra Demir and John Hammond to talk about different infosec certifications. We asked them how do they select the right certifications, how they prepare for it, and how to leverage them for different jobs! 
+In this episode, we chatted with Busra Demir and John Hammond to talk about different infosec certifications. We asked them how they select the right certifications, how they prepare for it, and how to leverage them for different jobs! 
 
 Guests
 -----------------

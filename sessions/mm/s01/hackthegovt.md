@@ -22,5 +22,5 @@ next_url: howtoshodan
 video_src: https://www.youtube-nocookie.com/embed/tmtBy5ozqxo
 ---
 
-In this episode we take a look at HackerOne’s federal initiatives and activity in the DoD space. An opportunity to demonstrate HackerOne as a tool that can be useful to military personnel transitioning to careers in the civilian world, while also tying in other initiatives that serve the veteran cyber community.! Hosted by [@NickZaj](https://twitter.com/NicZaj) and [@Arl_rose](https://twitter.com/arl_rose).
+In this episode we take a look at HackerOne’s federal initiatives and activity in the DoD space. It was an opportunity to demonstrate HackerOne as a tool that can be useful to military personnel transitioning to careers in the civilian world, while also tying in other initiatives that serve the veteran cyber community! Hosted by [@NickZaj](https://twitter.com/NicZaj) and [@Arl_rose](https://twitter.com/arl_rose).
 
