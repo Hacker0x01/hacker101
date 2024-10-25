@@ -26,7 +26,7 @@ sidebar:
         url: /playlists/mobile_hacking
 ---
 
-Welcome to Hacker101! For those new to bug bounties and web hacking, we recommend starting with our [Newcomers Playlist](/playlists/newcomers). This playlist covers fundamental aspects such as web application basics, cultivating a hacker mindset, and crafting effective reports.
+Welcome t to Hacker101! For those new to bug bounties and web hacking, we recommend starting with our [Newcomers Playlist](/playlists/newcomers). This playlist covers fundamental aspects such as web application basics, cultivating a hacker mindset, and crafting effective reports.
 
 In addition to the Newcomers Playlist, we advise getting yourself familiair with [Burp Suite](/playlists/burp_suite), mastering the essentials of [Web Hacking](/playlists/web_hacking), and reviewing the _"Report Writing, Communication Tips, and Community Guidelines"_ section on this page to effectively engage with triage and security teams.
 
