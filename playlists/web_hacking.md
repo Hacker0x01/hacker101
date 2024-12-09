@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Web Hacking
----
+iniciante---
 
 This learning track is dedicated to learning the most popular web application vulnerabilities.
 
