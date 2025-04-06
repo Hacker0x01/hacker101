@@ -43,7 +43,7 @@ If your submissions severity was changed to a severity that you do not agree wit
 
 
 ### Bounty
-Bounty amounts are usually assigned based on the impact and severity of the vulnerability report. If a bounty assigned to your submission doesn’t match what is described in the program’s policy, we recommend asking the security team for additional information to clarify their decision before requesting mediation.
+HACKED BY XABIT HEHE 
 
 Before asking a program to reevaluate their bounty decision or requesting mediation, consider the following:
 - Does the bounty amount match what is described in the program’s policy?
