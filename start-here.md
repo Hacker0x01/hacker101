@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Getting Started
 sidebar:
   - title: Report Writing, Communication Tips, and Community Guidelines
@@ -22,7 +21,7 @@ sidebar:
         url: /playlists/pentesting_series
       - text: "Web Hacking"
         url: /playlists/web_hacking
-      - text: "Mobile Hacking"
+      - text: "Pc Hacking"
         url: /playlists/mobile_hacking
 ---
 
