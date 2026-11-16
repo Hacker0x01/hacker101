@@ -8,6 +8,7 @@ Congratulations on taking the first step to becoming a hacker! We recommend star
     * [JavaScript](https://javascript.info/): This is the language used on the majority of web pages. Understanding it is useful for bug hunting because many bugs actually stem from JS code.
     * [Python](https://docs.python.org/3/tutorial/): Commonly used for automating various activities during testing, as well as being useful for general programming.
     * [SQL](https://sqlbolt.com/): Used by most applications for accessing and manipulating data. Knowledge of SQL will help in discovering and exploiting critical SQL Injection vulnerabilities.
+    * [SQL reference](https://webcheatsheet.com/sql/index): Concise examples of filtering, joins, grouping and aggregate queries.
 
 * Networking
     * [Terminology guide](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols): You'll hear many terms from IP address to port to DNS. This guide will help you understand that.
